@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>山田 知明 | Tomoaki Yamada</title>
+    <link>https://tomoakiyamada.github.io/ja/authors/admin/</link>
+      <atom:link href="https://tomoakiyamada.github.io/ja/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>山田 知明</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-jp</language><copyright>© 2021 Tomoaki Yamada</copyright>
+    <image>
+      <url>https://tomoakiyamada.github.io/ja/authors/admin/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_141910_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>山田 知明</title>
+      <link>https://tomoakiyamada.github.io/ja/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firm Dynamics | Tomoaki Yamada</title>
+    <link>https://tomoakiyamada.github.io/tag/firm-dynamics/</link>
+      <atom:link href="https://tomoakiyamada.github.io/tag/firm-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Firm Dynamics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Mon, 27 Mar 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
+      <title>Firm Dynamics</title>
+      <link>https://tomoakiyamada.github.io/tag/firm-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>Unemployment Insurance and Savings under Establishment Dynamics</title>
+      <link>https://tomoakiyamada.github.io/project/yamada_2006/</link>
+      <pubDate>Mon, 27 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/yamada_2006/</guid>
+      <description>&lt;p&gt;We consider issues concerning unemployment insurance under establishment dynamics. Extending the framework developed by Alvarez and Veracierto (1998), we investigate the welfare consequences of unemployment insurance for the aggregate economy and different groups of households. Although the aggregate implications of our quantitative results are similar to those of previous research, we show that unemployment insurance has different effects for agents with high and low asset holdings. In particular, increasing the replace- ment rate benefits agents with nearly zero assets and holders of very high levels of assets. Furthermore, we demonstrate that a different construction of the disutility of search effort has significant implications for unemployment insurance. If the search effort is inelastic over assets, the effect of the insurance declines compared with the case of flexible search.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;COE/RES Discussion Paper Series, No.163, 2006.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

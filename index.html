@@ -1,0 +1,3522 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Tomoaki Yamada" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Tomoaki Yamada&#39;s Research, Teaching and Computation" />
+
+  
+    <link rel="alternate" hreflang="ja" href="https://tomoakiyamada.github.io/ja/" />
+  
+  <link rel="alternate" hreflang="en-us" href="https://tomoakiyamada.github.io/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#453288" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/vs2015.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/vs2015.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.743812f731ecf19f4654aa2a7c6086e7.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+
+  
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Tomoaki Yamada" />
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu15006564705ff7e8d4dab1055300f1f2_8020_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu15006564705ff7e8d4dab1055300f1f2_8020_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://tomoakiyamada.github.io/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@TomoakiYamada3" />
+    <meta property="twitter:creator" content="@TomoakiYamada3" />
+  
+  <meta property="og:site_name" content="Tomoaki Yamada" />
+  <meta property="og:url" content="https://tomoakiyamada.github.io/" />
+  <meta property="og:title" content="Tomoaki Yamada" />
+  <meta property="og:description" content="Tomoaki Yamada&#39;s Research, Teaching and Computation" /><meta property="og:image" content="https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png" />
+    <meta property="twitter:image" content="https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta property="og:updated_time" content="2021-08-20T00:00:00&#43;00:00" />
+    
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://tomoakiyamada.github.io/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "https://tomoakiyamada.github.io/"
+}
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Tomoaki Yamada</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   "  >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_0x70_resize_lanczos_3.png" alt="Tomoaki Yamada"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_0x70_resize_lanczos_3.png" alt="Tomoaki Yamada"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications" data-target="#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects" data-target="#projects"><span>Working Papers</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/computation/"><span>Computation</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post/"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="http://www.isc.meiji.ac.jp/~dsgews/" target="_blank" rel="noopener"><span>Workshop</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link " data-toggle="dropdown"
+           aria-haspopup="true" aria-label="Languages">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="https://tomoakiyamada.github.io/ja/" data-target="/ja/">
+            <span>日本語</span>
+          </a>
+          
+        </div>
+      </li>
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="about" class="home-section wg-about  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="avatar avatar-circle"
+           width="270" height="270"
+           src="/authors/admin/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_141910_270x270_fill_q75_lanczos_center.jpg" alt="Tomoaki Yamada">
+      
+
+      <div class="portrait-title">
+        <h2>Tomoaki Yamada</h2>
+        <h3>Professor of Economics</h3>
+
+        
+        <h3>
+          <a href="https://www.meiji.ac.jp/" target="_blank" rel="noopener">
+          <span>Meiji University</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/#contact"  aria-label="envelope">
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://twitter.com/TomoakiYamada3" target="_blank" rel="noopener" aria-label="twitter">
+            <i class="fab fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://scholar.google.com/citations?user=GrNZweQAAAAJ" target="_blank" rel="noopener" aria-label="google-scholar">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://ideas.repec.org/f/pya231.html" target="_blank" rel="noopener" aria-label="ideas-repec">
+            <i class="ai ai-ideas-repec big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://github.com/TomoakiYamada" target="_blank" rel="noopener" aria-label="github">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    <h1>Biography</h1>
+
+    <div class="article-style">
+      <p>Tomoaki Yamada is a professor of economics at Meiji university.</p>
+<p>His research focuses on heterogeneity in macroeconomics, consumption and savings, social security system reforms under population aging.</p>
+<p>He explores the long-run trend of economic inequality in earnings, income, consumption, and wealth in Japan using microdata and numerical methods based on economic theory.
+He also studies the short-run relationship among business cycle fluctuations, inequality, and fiscal/monetary policy using dynamic stochastic general equilibrium models.</p>
+<p>
+  <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/CV-Yamada.pdf" target="_blank">CV</a>.</p>
+
+    </div>
+
+    <div class="row">
+
+      
+      <div class="col-md-5">
+        <div class="section-subheading">Interests</div>
+        <ul class="ul-interests mb-0">
+          
+          <li>Heterogeneity in Macroeconomics</li>
+          
+          <li>Inequality</li>
+          
+          <li>Consumption and Savings</li>
+          
+          <li>Population Aging</li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-md-7">
+        <div class="section-subheading">Education</div>
+        <ul class="ul-edu fa-ul mb-0">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Economics, 2005</p>
+              <p class="institution">Hitotsubashi University</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">MA in Economics, 2002</p>
+              <p class="institution">Hitotsubashi University</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BA in Economics, 2000</p>
+              <p class="institution">Rikkyo University</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="experience" class="home-section wg-experience  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Appointments</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+  
+
+  
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Professor</div>
+              <div class="section-subheading card-title exp-company text-muted my-0">Meiji University</div>
+              <div class="text-muted exp-meta">
+                Apr 2014 –
+                
+                  Present
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Tokyo</span>
+                
+              </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Visiting Researcher</div>
+              <div class="section-subheading card-title exp-company text-muted my-0">Economic and Social Research Institute, Cabinet Office</div>
+              <div class="text-muted exp-meta">
+                Apr 2021 –
+                
+                  Present
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Tokyo</span>
+                
+              </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Visiting Researcher</div>
+              <div class="section-subheading card-title exp-company text-muted my-0">Queen Mary University of London</div>
+              <div class="text-muted exp-meta">
+                Sep 2020 –
+                
+                  Mar 2021
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>London</span>
+                
+              </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Visiting Researcher</div>
+              <div class="section-subheading card-title exp-company text-muted my-0">University College London</div>
+              <div class="text-muted exp-meta">
+                Apr 2015 –
+                
+                  Mar 2016
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>London</span>
+                
+              </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Associate Professor</div>
+              <div class="section-subheading card-title exp-company text-muted my-0">Meiji University</div>
+              <div class="text-muted exp-meta">
+                Apr 2009 –
+                
+                  Mar 2014
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Tokyo</span>
+                
+              </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Assistant Professor</div>
+              <div class="section-subheading card-title exp-company text-muted my-0">Rissho University</div>
+              <div class="text-muted exp-meta">
+                Apr 2006 –
+                
+                  Mar 2009
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Tokyo</span>
+                
+              </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="skills" class="home-section wg-featurette  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+
+      
+
+
+<div class="row featurette">
+  
+  <div class="col-md-12 section-heading">
+    <h1>Skills</h1>
+    
+  </div>
+  
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-laptop-code"></i></div>
+    
+    <div class="section-subheading">Fortran</div>
+    <p>100%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-laptop-code"></i></div>
+    
+    <div class="section-subheading">Julia</div>
+    <p>50%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-laptop-code"></i></div>
+    
+    <div class="section-subheading">Matlab</div>
+    <p>80%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fab fa-python"></i></div>
+    
+    <div class="section-subheading">Python</div>
+    <p>20%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-chart-line"></i></div>
+    
+    <div class="section-subheading">Stata</div>
+    <p>80%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-edit"></i></div>
+    
+    <div class="section-subheading">LaTeX</div>
+    <p>90%</p>
+  </div>
+  
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="accomplishments" class="home-section wg-accomplishments  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Grants</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+  
+    <div class="card experience course">
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Grant-in-Aid for Scientific Research (C): Principal Investigator</div><div class="card-subtitle my-0 article-metadata">Japan Society for the Promotion of Science<span class="middot-divider"></span>
+
+              Apr 2021
+              
+              – Mar 2025
+              
+            </div>
+
+        
+
+        
+      </div>
+    </div>
+  
+    <div class="card experience course">
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Promotion of Joint International Research (A): Principal Investigator</div><div class="card-subtitle my-0 article-metadata">Japan Society for the Promotion of Science<span class="middot-divider"></span>
+
+              Apr 2019
+              
+              – Mar 2022
+              
+            </div>
+
+        
+
+        
+      </div>
+    </div>
+  
+    <div class="card experience course">
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Grant-in-Aid for Scientific Research (C): Principal Investigator</div><div class="card-subtitle my-0 article-metadata">Japan Society for the Promotion of Science<span class="middot-divider"></span>
+
+              Apr 2017
+              
+              – Mar 2021
+              
+            </div>
+
+        
+
+        
+      </div>
+    </div>
+  
+    <div class="card experience course">
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Grant-in-Aid for Specially Promoted Research: Co-investigator</div><div class="card-subtitle my-0 article-metadata">Japan Society for the Promotion of Science<span class="middot-divider"></span>
+
+              Apr 2015
+              
+              – Mar 2021
+              
+            </div>
+
+        
+
+        
+      </div>
+    </div>
+  
+    <div class="card experience course">
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Grant-in-Aid for Young Scientists (B): Principal Investigator</div><div class="card-subtitle my-0 article-metadata">Japan Society for the Promotion of Science<span class="middot-divider"></span>
+
+              Apr 2012
+              
+              – Mar 2015
+              
+            </div>
+
+        
+
+        
+      </div>
+    </div>
+  
+    <div class="card experience course">
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Grant-in-Aid for Scientific Research (B): Co-investigator</div><div class="card-subtitle my-0 article-metadata">Japan Society for the Promotion of Science<span class="middot-divider"></span>
+
+              Apr 2010
+              
+              – Mar 2015
+              
+            </div>
+
+        
+
+        
+      </div>
+    </div>
+  
+    <div class="card experience course">
+      <div class="card-body"><div class="section-subheading card-title exp-title text-muted my-0">Grant-in-Aid for Young Scientists (B): Principal Investigator</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.jsps.go.jp/j-grantsinaid/" target="_blank" rel="noopener">Japan Society for the Promotion of Science</a><span class="middot-divider"></span>
+
+              Apr 2007
+              
+              – Mar 2010
+              
+            </div>
+
+        
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="publications" class="home-section wg-pages  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Journal Publications</h1>
+            <p class="mt-1">in English</p>
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  <!-- <div class="alert alert-note">
+  <div>
+    Quickly discover relevant content by <a href="./publication/">filtering publications</a>.
+  </div>
+</div>
+ -->
+
+
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/sagiri-kitao/">Sagiri Kitao</a></span>, <span >
+      <a href="/authors/admin/">Tomoaki Yamada</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    June 2021
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Economic Analysis
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/kitao_yamada_ea_2021/">Foreign Workers, Skill Premium and Fiscal Sustainability in Japan</a>
+  </div>
+
+  
+  <a href="/publication/kitao_yamada_ea_2021/" class="summary-link">
+    <div class="article-style">
+      <p>Japan faces rapid and severe demographic aging and rising fiscal deficits due to increasing expenditures and shrinking tax revenues. This paper studies how an inflow or an outflow of foreign workers affects projections of macroeconomic and fiscal variables. We show that foreign workers help slow down a decline in labor force and mitigate fiscal pressures, but effects are not large enough to wipe away concerns even under a very optimistic scenario. We also evaluate effects of foreign workers on skill-specific wages in Japan and welfare consequences across heterogeneous individuals. A rapid rise in the relative size of high-skilled labor force in Japan will give strong downward pressure on skill premium and an arrival of foreign workers is shown to have large differential effects on skill prices and the trend of wage inequality, depending on their size and skill composition.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/kitao_yamada_ea_2021/Kitao_Yamada_EA_2021.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/kitao_yamada_ea_2021/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.esri.cao.go.jp/jp/esri/archive/bun/bun202/bun202j.pdf" target="_blank" rel="noopener">
+    Download from ESRI</a>
+
+
+  </div>
+  
+
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/selahattin-imrohoroglu/">Selahattin Imrohoroglu</a></span>, <span >
+      <a href="/authors/sagiri-kitao/">Sagiri Kitao</a></span>, <span >
+      <a href="/authors/admin/">Tomoaki Yamada</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    August 2019
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Journal of the Economics of Aging
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/imrohoroglu_kitao_yamada_joea_2019/">Fiscal Sustainability in Japan: What to Tackle</a>
+  </div>
+
+  
+  <a href="/publication/imrohoroglu_kitao_yamada_joea_2019/" class="summary-link">
+    <div class="article-style">
+      <p>Japan leads all advanced economies in terms of aging and has the highest debt to GDP ratio. The public pension, medical and long-term care (LTC) expenditures are projected to far outpace revenues and create significant fiscal burdens. In this paper, we develop a detailed overlapping generations model that incorporates the social insurance programs in detail, use most recent estimates from Japanese micro data and government demographic projections to discipline the earnings and labor supply profiles of heterogeneous agents and their cohort shares, and simulate future paths of fiscal and macroeconomic indicators. Our numerical results suggest that absent any change in current policies, Japan will continue to run large pension, public health, LTC, and basic deficits and the debt to GDP ratio will continue to reach unprecedented highs, with interest payments on the debt becoming larger and larger. Although no single policy tool can address fiscal consolidation, a combination of policies is found to achieve sustainability: raise the retirement age to 67, cut pensions by 10%; raise copays of health and LTC insurances to 20%, and find policies to propel female employment and earnings to the levels of their male counterparts, and increase consumption tax rate to 15%. Under these changes, the debt to output ratio in 2050 would be lower than that in 2020.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/imrohoroglu_kitao_yamada_joea_2019/Imrohoroglu_Kitao_Yamada_JoEA_2019.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/imrohoroglu_kitao_yamada_joea_2019/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.jeoa.2019.100205" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S2212828X19300921?dgcid=coauthor" target="_blank" rel="noopener">
+    Science Direct</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://voxeu.org/article/fiscal-sustainability-japan-what-tackle" target="_blank" rel="noopener">
+    VoxEU</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.rieti.go.jp/en/publications/summary/18100001.html" target="_blank" rel="noopener">
+    RIETI DP</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.rieti.go.jp/jp/publications/nts/18e064.html" target="_blank" rel="noopener">
+    Non-technical Summary (in Japanese)</a>
+
+
+  </div>
+  
+
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/minchung-hsu/">Minchung Hsu</a></span>, <span >
+      <a href="/authors/admin/">Tomoaki Yamada</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    April 2019
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Scandinavian Journal of Economics
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/hsu_yamada_sje_2019/">Population Aging, Health Care and Fiscal Policy Reform: The Challenges for Japan</a>
+  </div>
+
+  
+  <a href="/publication/hsu_yamada_sje_2019/" class="summary-link">
+    <div class="article-style">
+      <p>We construct a transition analysis based on a general equilibrium life-cycle model to investigate the effects of aging, and we evaluate various policy alternatives designed to lessen the negative influence of aging. In particular, we analyze reforms of insurance benefits and tax financing tools that were recently the focus of a great amount of attention and debate in Japan because of the tense financial situation there. We show that although the potential reforms improve the welfare of future generations, the political implementation of such reforms is difficult because of the large welfare costs for the current population. Our analysis suggests that a gradual reform with an intergenerational redistribution will be more politically implementable than an immediate reform.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/hsu_yamada_sje_2019/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/sjoe.12280" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/full/10.1111/sjoe.12280" target="_blank" rel="noopener">
+    Wiley Online Library</a>
+
+
+  </div>
+  
+
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/selahattin-imrohoroglu/">Selahattin Imrohoroglu</a></span>, <span >
+      <a href="/authors/sagiri-kitao/">Sagiri Kitao</a></span>, <span >
+      <a href="/authors/admin/">Tomoaki Yamada</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2017
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Economic Inquiry
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/imrohoroglu_kitao_yamada_ei_2017/">Can Guest Workers Solve Japan&#39;s Fiscal Problems?</a>
+  </div>
+
+  
+  <a href="/publication/imrohoroglu_kitao_yamada_ei_2017/" class="summary-link">
+    <div class="article-style">
+      <p>The labor force in Japan is projected to fall from 64 million in 2014 to 20 million in 2100, signaling unprecedented tax/transfer adjustments to achieve fiscal sustainability. In this paper, we develop a quantitative overlapping generations model to measure the impact of guest worker programs in Japan. Against a baseline general equilibrium transition in which the consumption tax adjusts to achieve fiscal sustainability, we compute alternative transitions with guest worker programs. Depending on the size and skill distribution of guest workers, these programs may mitigate Japan&rsquo;s fiscal imbalance problem with a relatively manageable increase in the consumption tax.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/imrohoroglu_kitao_yamada_ei_2017/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/ecin.12439" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12439" target="_blank" rel="noopener">
+    Wiley Online Library</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.rieti.go.jp/jp/publications/dp/15e129.pdf" target="_blank" rel="noopener">
+    RIETI DP</a>
+
+
+  </div>
+  
+
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/selahattin-imrohoroglu/">Selahattin Imrohoroglu</a></span>, <span >
+      <a href="/authors/sagiri-kitao/">Sagiri Kitao</a></span>, <span >
+      <a href="/authors/admin/">Tomoaki Yamada</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2016
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      International Economic Review
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/imrohoroglu_kitao_yamada_ier_2016/">Achieving Fiscal Balance in Japan</a>
+  </div>
+
+  
+  <a href="/publication/imrohoroglu_kitao_yamada_ier_2016/" class="summary-link">
+    <div class="article-style">
+      <p>Japan is aging and has the highest government debt-to-output ratio among advanced economies. In this article, we build a micro data-based, large-scale overlapping generations model for Japan in which individuals differ in age, gender, employment type, income, and asset holdings, and incorporate the Japanese pension rules. Using existing pension law, current fiscal policy, and medium variants of demographic projections, we produce future paths for government expenditures and tax revenues, with implications for government debt and the public pension fund. Additional pension reform, a higher consumption tax, and higher female labor force participation help achieve fiscal stability.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/imrohoroglu_kitao_yamada_ier_2016/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/iere.12150" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.12150" target="_blank" rel="noopener">
+    Wiley Online Library</a>
+
+
+  </div>
+  
+
+</div>
+
+    
+  
+
+  
+  
+  
+
+    
+    
+      
+    
+
+    
+
+    <div class="see-all">
+      <a href="/publication/">
+        See all publications
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="projects" class="home-section wg-pages  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Works in Progress</h1>
+            <p class="mt-1">Discussion Paper/Working Paper</p>
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/project/ichimura_yamada/" >Population Aging and Redistribution in Japan: Comparisons with OLG, SNA and NTA</a>
+    </div>
+
+    
+    <a href="/project/ichimura_yamada/"  class="summary-link">
+      <div class="article-style">
+        Work in progress.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/hidehiko-ichimura/">Hidehiko Ichimura</a></span>, <span >
+      <a href="/authors/admin/">Tomoaki Yamada</a></span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/project/kitao_yamada_rieti_2019/" >Dimensions of Inequality in Japan: Distributions of Earnings, Income and Wealth between 1984 and 2014</a>
+    </div>
+
+    
+    <a href="/project/kitao_yamada_rieti_2019/"  class="summary-link">
+      <div class="article-style">
+        Discussion paper available.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/sagiri-kitao/">Sagiri Kitao</a></span>, <span >
+      <a href="/authors/admin/">Tomoaki Yamada</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/kitao_yamada_rieti_2019/Kitao_Yamada_RIETI_2019.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/kitao_yamada_rieti_2019/Kitao_Yamada_2019_RIETI.xlsx" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/kitao_yamada_rieti_2019/Kitao_Yamada_Slide_2019.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.rieti.go.jp/en/publications/summary/19050006.html" target="_blank" rel="noopener">
+    RIETI DP</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cama.crawford.anu.edu.au/publication/cama-working-paper-series/14348/dimensions-inequality-japan-distributions-earnings" target="_blank" rel="noopener">
+    CAMA Working Paper Series</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/project/inui_sudo_yamada/" >Effects of Monetary Policy Shocks on Inequality in Japan</a>
+    </div>
+
+    
+    <a href="/project/inui_sudo_yamada/"  class="summary-link">
+      <div class="article-style">
+        Discussion paper available.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/masayuki-inui/">Masayuki Inui</a></span>, <span >
+      <a href="/authors/nao-sudo/">Nao Sudo</a></span>, <span >
+      <a href="/authors/admin/">Tomoaki Yamada</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/inui_sudo_yamada/Inui_Sudo_Yamada_Slide_2020.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bis.org/publ/work642.htm" target="_blank" rel="noopener">
+    BIS Working Paper</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.boj.or.jp/en/research/wps_rev/wps_2017/wp17e03.htm/" target="_blank" rel="noopener">
+    Bank of Japan Working Paper</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.boj.or.jp/research/wps_rev/wps_2017/wp17j06.htm/" target="_blank" rel="noopener">
+    Japanese Version</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+
+  
+  
+  
+
+    
+    
+      
+    
+
+    
+
+    <div class="see-all">
+      <a href="/project/">
+        See all
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="contact" class="home-section wg-contact  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Contact</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+
+  <ul class="fa-ul">
+
+    
+    <li>
+      <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+      <span id="person-email"><a href="mailto:tyamada@meiji.ac.jp">tyamada@meiji.ac.jp</a></span>
+    </li>
+    
+
+    
+    <li>
+      <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
+      <span id="person-telephone"><a href="tel:&#43;81%20%280%293%203296%202274">&#43;81 (0)3 3296 2274</a></span>
+    </li>
+    
+
+    
+    
+      
+      <li>
+        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+        <span id="person-address">1-1 Kanda-Surugadai, Chiyoda-ku, Tokyo 101-8301</span>
+      </li>
+    
+
+    
+    <li>
+      <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
+      <span>1112 (11th Floor in Research Building)</span>
+    </li>
+    
+
+    
+
+    
+
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
+      <a href="https://twitter.com/TomoakiYamada3" target="_blank" rel="noopener">Tomoaki Yamada</a>
+    </li>
+    
+
+  </ul>
+
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    © 2021 Tomoaki Yamada
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.d68ecd57c0ec1f1f61d65fd568f1c3a0.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

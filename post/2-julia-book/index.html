@@ -1,0 +1,1300 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Tomoaki Yamada" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Julia関連の書籍を色々と読んでみた感想" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://tomoakiyamada.github.io/post/2-julia-book/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#453288" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/vs2015.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/vs2015.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.743812f731ecf19f4654aa2a7c6086e7.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu15006564705ff7e8d4dab1055300f1f2_8020_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu15006564705ff7e8d4dab1055300f1f2_8020_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://tomoakiyamada.github.io/post/2-julia-book/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@TomoakiYamada3" />
+    <meta property="twitter:creator" content="@TomoakiYamada3" />
+  
+  <meta property="og:site_name" content="Tomoaki Yamada" />
+  <meta property="og:url" content="https://tomoakiyamada.github.io/post/2-julia-book/" />
+  <meta property="og:title" content="Julia関連の書籍 | Tomoaki Yamada" />
+  <meta property="og:description" content="Julia関連の書籍を色々と読んでみた感想" /><meta property="og:image" content="https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png" />
+    <meta property="twitter:image" content="https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-08-20T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-08-20T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://tomoakiyamada.github.io/post/2-julia-book/"
+  },
+  "headline": "Julia関連の書籍",
+  
+  "datePublished": "2021-08-20T00:00:00Z",
+  "dateModified": "2021-08-20T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Tomoaki Yamada"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Meiji University",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_192x192_fit_lanczos_3.png"
+    }
+  },
+  "description": "Julia関連の書籍を色々と読んでみた感想"
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Julia関連の書籍 | Tomoaki Yamada</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="5bd3111ce0dccd446bc961ae81c1593e" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_0x70_resize_lanczos_3.png" alt="Tomoaki Yamada"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_0x70_resize_lanczos_3.png" alt="Tomoaki Yamada"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Working Papers</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/computation/"><span>Computation</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/post/"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="http://www.isc.meiji.ac.jp/~dsgews/" target="_blank" rel="noopener"><span>Workshop</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Julia関連の書籍</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/admin/">Tomoaki Yamada</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Aug 20, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="webだけで十分">Webだけで十分?</h2>
+<ul>
+<li>JuliaはMatlabやPython、Rあたりと比べてかなり新しい言語なので、まだまだ情報が限られています。</li>
+<li>加えて開発速度が早いので、ほんの少し前の情報でも古くて役に立たない事がたまにあります（特にVersion 1.0以降かなり仕様が変更されたので、Version 1.0未満の情報にはかなり注意が必要）。</li>
+<li>Juliaのヘビーユーザーの情報源は基本的にWebで、紙媒体の本（あるいは電子書籍）を読んでいる人はそこまで多くないのかもしれません。</li>
+<li>個人的には、ちょっとした調べ物はGoogle検索で十分ですが、やはり書籍の形で情報がまとまったものが手元に欲しくなります（古い人間かも&hellip;）。</li>
+<li>入門書から上級者向けまで充実しているPythonあたりと違ってJuliaの書籍媒体は限られています。</li>
+<li>Julia特有の仕様（特にLLVM-JITまわり）は体系的に理解しておかないとJuliaの強みである<em>速さ</em>が体感しにくいけど、知りたいときにググるスタイルだとそのあたりを理解する機会がない可能性があります。</li>
+</ul>
+<h2 id="実際に読んだ本アルファベット順">実際に読んだ本：アルファベット順</h2>
+<ul>
+<li><mark>Balbaert, Ivo (2015,Feb): &ldquo;Getting Started with Julia,&rdquo; PACT.</mark>
+<ul>
+<li>自己完結的で読みやすいけど流石に情報が古すぎる</li>
+</ul>
+</li>
+<li><mark>Balbaert, Ivo (2018,Sept): &ldquo;Julia 1.0 Programming Second Edition,&rdquo; PACT.</mark>
+<ul>
+<li>上記の本のアップデート版：既に更に新しい版⬇が出ているのでこっちは不要</li>
+</ul>
+</li>
+<li><mark>Balbaert, Ivo and Adrian Salceanu (2019,May): &ldquo;Learning Path Julia 1.0 Programming Complete Reference Guide,&rdquo; PACT.</mark>
+<ul>
+<li>アップデート版：その2</li>
+<li>著者が一人増えている：おそらく後半を追記した[?]</li>
+<li>後半も読みやすくはあるけど前半と重複したり先に説明すべきことが今更書かれていて書籍としての完成度はイマイチ</li>
+</ul>
+</li>
+<li><mark>Kaminski, Bogumit and Przemystaw Szufel (2018,Nov): &ldquo;Julia 1.0 Programming Codebook,&rdquo; PACT.</mark>
+<ul>
+<li>日本語版あり：<strong>日本語版の補遺がコンパクトにまとまっていて完成度が高い</strong></li>
+</ul>
+</li>
+<li><mark>Lauwens, Ben and Allen B. Downey (2019): &ldquo;Think Julia: How to Think Like a Computer Scientist,&rdquo; O’Reilly.</mark>
+<ul>
+<li>&ldquo;Think Python&quot;のJulia版</li>
+<li>Juliaの言語仕様というよりJuliaを使ってプログラミングを勉強するための本</li>
+<li>実際に手を動かしてエクササイズを解きながら読むと力になる</li>
+<li>第4章(Case Study)で急にfor文が出てきたり、やや順番が気になる箇所がある</li>
+</ul>
+</li>
+<li><mark>Root, George (2019): &ldquo;The Julia Language Handbook&rdquo;</mark>
+<ul>
+<li>Julia 1.0以降に対応したハンドブック</li>
+<li>一通り入門書を読んだ人が知りたいことがコンパクトにまとまっている：完全な初心者には読みにくいかも➔辞書的に使用</li>
+<li>個人的に「FortranからPythonに移行しようとしたけどインデックスが0スタートで苛ついた」に同意</li>
+</ul>
+</li>
+<li><mark>Sengupta, Avik (2019,June): &ldquo;Julia High Performance Second Edition,&rdquo; PACT.</mark>
+<ul>
+<li>著者はJulia computingのEngineering部門のVice President.</li>
+<li>Juliaの仕組みから説明をしてくれるので理解が深まる</li>
+<li>ただし、事前にJuliaの知識がある程度ないと読むのは厳しい</li>
+</ul>
+</li>
+<li><mark>Sherrington, Malcolm (2015): &ldquo;Mastering Julia,&rdquo; PACT.</mark>
+<ul>
+<li>古い本：当時としては貴重だったのかもしれないけど情報が古すぎる</li>
+<li>Juliaのバージョンも古いので、今から読む必要はない</li>
+</ul>
+</li>
+<li><mark>進藤裕之・佐藤健太『1から始めるJulia』コロナ社</mark>
+<ul>
+<li>全体的にコンパクトにまとまった良書</li>
+<li>短いけど初心者向けだけでなく進んだトピックも言及している</li>
+</ul>
+</li>
+<li><mark>石井一夫『基礎から学ぶJulia』SCC</mark>
+<ul>
+<li>大きめの本だけど情報量は⬆と同程度</li>
+</ul>
+</li>
+</ul>
+<h2 id="とりあえずのお勧め">とりあえずのお勧め</h2>
+<ul>
+<li><strong>Think Julia</strong>
+<ul>
+<li>プログラミング自体の初心者向けに書かれている（のでやや冗長）</li>
+<li>プログラミング経験者であればスキップしても良い</li>
+</ul>
+</li>
+<li><strong>Learning Path Julia</strong>
+<ul>
+<li>Julia自体の言語としての特徴を他の言語と比較していて、パフォーマンスのTipsなども説明してくれている</li>
+<li>ある程度の知識がある人が読むと役に立つけど完全な初心者だと情報量が多すぎるかも</li>
+</ul>
+</li>
+<li><strong>進藤裕之・佐藤健太『1から始めるJulia』</strong>
+<ul>
+<li>日本語で手元に一冊置くならこれ</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/blog/">Blog</a>
+  
+  <a class="badge badge-light" href="/tag/julia/">Julia</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://tomoakiyamada.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_141910_270x270_fill_q75_lanczos_center.jpg" alt="Tomoaki Yamada"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://tomoakiyamada.github.io/">Tomoaki Yamada</a></h5>
+      <h6 class="card-subtitle">Professor of Economics</h6>
+      <p class="card-text">My research interests include heterogeneity in macroeconomics, inequality, consumption and savings, population aging, social security system.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/TomoakiYamada3" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=GrNZweQAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://ideas.repec.org/f/pya231.html" target="_blank" rel="noopener">
+        <i class="ai ai-ideas-repec"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/TomoakiYamada" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/1-getting-started/">GitHub Pagesに引っ越し</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    © 2021 Tomoaki Yamada
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.d68ecd57c0ec1f1f61d65fd568f1c3a0.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

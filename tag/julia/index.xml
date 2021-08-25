@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia | Tomoaki Yamada</title>
+    <link>https://tomoakiyamada.github.io/tag/julia/</link>
+      <atom:link href="https://tomoakiyamada.github.io/tag/julia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
+      <title>Julia</title>
+      <link>https://tomoakiyamada.github.io/tag/julia/</link>
+    </image>
+    
+    <item>
+      <title>Julia関連の書籍</title>
+      <link>https://tomoakiyamada.github.io/post/2-julia-book/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/2-julia-book/</guid>
+      <description>&lt;h2 id=&#34;webだけで十分&#34;&gt;Webだけで十分?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JuliaはMatlabやPython、Rあたりと比べてかなり新しい言語なので、まだまだ情報が限られています。&lt;/li&gt;
+&lt;li&gt;加えて開発速度が早いので、ほんの少し前の情報でも古くて役に立たない事がたまにあります（特にVersion 1.0以降かなり仕様が変更されたので、Version 1.0未満の情報にはかなり注意が必要）。&lt;/li&gt;
+&lt;li&gt;Juliaのヘビーユーザーの情報源は基本的にWebで、紙媒体の本（あるいは電子書籍）を読んでいる人はそこまで多くないのかもしれません。&lt;/li&gt;
+&lt;li&gt;個人的には、ちょっとした調べ物はGoogle検索で十分ですが、やはり書籍の形で情報がまとまったものが手元に欲しくなります（古い人間かも&amp;hellip;）。&lt;/li&gt;
+&lt;li&gt;入門書から上級者向けまで充実しているPythonあたりと違ってJuliaの書籍媒体は限られています。&lt;/li&gt;
+&lt;li&gt;Julia特有の仕様（特にLLVM-JITまわり）は体系的に理解しておかないとJuliaの強みである&lt;em&gt;速さ&lt;/em&gt;が体感しにくいけど、知りたいときにググるスタイルだとそのあたりを理解する機会がない可能性があります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;実際に読んだ本アルファベット順&#34;&gt;実際に読んだ本：アルファベット順&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;mark&gt;Balbaert, Ivo (2015,Feb): &amp;ldquo;Getting Started with Julia,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;自己完結的で読みやすいけど流石に情報が古すぎる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Balbaert, Ivo (2018,Sept): &amp;ldquo;Julia 1.0 Programming Second Edition,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;上記の本のアップデート版：既に更に新しい版⬇が出ているのでこっちは不要&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Balbaert, Ivo and Adrian Salceanu (2019,May): &amp;ldquo;Learning Path Julia 1.0 Programming Complete Reference Guide,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;アップデート版：その2&lt;/li&gt;
+&lt;li&gt;著者が一人増えている：おそらく後半を追記した[?]&lt;/li&gt;
+&lt;li&gt;後半も読みやすくはあるけど前半と重複したり先に説明すべきことが今更書かれていて書籍としての完成度はイマイチ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Kaminski, Bogumit and Przemystaw Szufel (2018,Nov): &amp;ldquo;Julia 1.0 Programming Codebook,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;日本語版あり：&lt;strong&gt;日本語版の補遺がコンパクトにまとまっていて完成度が高い&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Lauwens, Ben and Allen B. Downey (2019): &amp;ldquo;Think Julia: How to Think Like a Computer Scientist,&amp;rdquo; O’Reilly.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Think Python&amp;quot;のJulia版&lt;/li&gt;
+&lt;li&gt;Juliaの言語仕様というよりJuliaを使ってプログラミングを勉強するための本&lt;/li&gt;
+&lt;li&gt;実際に手を動かしてエクササイズを解きながら読むと力になる&lt;/li&gt;
+&lt;li&gt;第4章(Case Study)で急にfor文が出てきたり、やや順番が気になる箇所がある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Root, George (2019): &amp;ldquo;The Julia Language Handbook&amp;rdquo;&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;Julia 1.0以降に対応したハンドブック&lt;/li&gt;
+&lt;li&gt;一通り入門書を読んだ人が知りたいことがコンパクトにまとまっている：完全な初心者には読みにくいかも➔辞書的に使用&lt;/li&gt;
+&lt;li&gt;個人的に「FortranからPythonに移行しようとしたけどインデックスが0スタートで苛ついた」に同意&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Sengupta, Avik (2019,June): &amp;ldquo;Julia High Performance Second Edition,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;著者はJulia computingのEngineering部門のVice President.&lt;/li&gt;
+&lt;li&gt;Juliaの仕組みから説明をしてくれるので理解が深まる&lt;/li&gt;
+&lt;li&gt;ただし、事前にJuliaの知識がある程度ないと読むのは厳しい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Sherrington, Malcolm (2015): &amp;ldquo;Mastering Julia,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;古い本：当時としては貴重だったのかもしれないけど情報が古すぎる&lt;/li&gt;
+&lt;li&gt;Juliaのバージョンも古いので、今から読む必要はない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;進藤裕之・佐藤健太『1から始めるJulia』コロナ社&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;全体的にコンパクトにまとまった良書&lt;/li&gt;
+&lt;li&gt;短いけど初心者向けだけでなく進んだトピックも言及している&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;石井一夫『基礎から学ぶJulia』SCC&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;大きめの本だけど情報量は⬆と同程度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;とりあえずのお勧め&#34;&gt;とりあえずのお勧め&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Think Julia&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;プログラミング自体の初心者向けに書かれている（のでやや冗長）&lt;/li&gt;
+&lt;li&gt;プログラミング経験者であればスキップしても良い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Learning Path Julia&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Julia自体の言語としての特徴を他の言語と比較していて、パフォーマンスのTipsなども説明してくれている&lt;/li&gt;
+&lt;li&gt;ある程度の知識がある人が読むと役に立つけど完全な初心者だと情報量が多すぎるかも&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;進藤裕之・佐藤健太『1から始めるJulia』&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;日本語で手元に一冊置くならこれ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

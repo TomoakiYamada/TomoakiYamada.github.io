@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JHPS | Tomoaki Yamada</title>
+    <link>https://tomoakiyamada.github.io/tag/jhps/</link>
+      <atom:link href="https://tomoakiyamada.github.io/tag/jhps/index.xml" rel="self" type="application/rss+xml" />
+    <description>JHPS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Mon, 31 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
+      <title>JHPS</title>
+      <link>https://tomoakiyamada.github.io/tag/jhps/</link>
+    </image>
+    
+    <item>
+      <title>A Note on Risk Sharing against Idiosyncratic Shocks and Geographic Mobility in Japan</title>
+      <link>https://tomoakiyamada.github.io/project/yamada_2014/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/yamada_2014/</guid>
+      <description>&lt;p&gt;In this study, using Japanese household panel data, we analyze how well idiosyncratic income risks are shared by regions. We find that geographic mobility influences individual consumption growth rates, suggesting that complete asset markets fail to exist. We reject the full insurance hypothesis for both urban and rural areas and find that the extent of risk sharing differs significantly by region.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MPRA Paper, No. 54886, 2014.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

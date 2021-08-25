@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomoaki Yamada</title>
+    <link>https://tomoakiyamada.github.io/</link>
+      <atom:link href="https://tomoakiyamada.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tomoaki Yamada</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
+      <title>Tomoaki Yamada</title>
+      <link>https://tomoakiyamada.github.io/</link>
+    </image>
+    
+    <item>
+      <title>マクロ経済統計</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/macro_stat/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/macro_stat/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;経済政策を行う前にまずは経済の状態を正確に判断する必要があります。&lt;/li&gt;
+&lt;li&gt;経済状態を把握するために使われるのが&lt;mark&gt;経済統計&lt;/mark&gt;です。&lt;/li&gt;
+&lt;li&gt;なんとなく聞き覚えがあるGDP、インフレ、デフレといった経済統計の正確な理解から話をスタートさせます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;macro_stat.pdf&#34;&gt;経済統計の読み方&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.esri.cao.go.jp/jp/sna/menu.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;国民経済計算（SNA）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stat.go.jp/data/cpi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;消費者物価指数（CPI）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stat.go.jp/data/roudou/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;労働力調査&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.esri.cao.go.jp/jp/stat/di/menu_di.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;景気動向指数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.boj.or.jp/statistics/tk/index.htm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全国企業短期経済観測調査(短観)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.soumu.go.jp/toukei_toukatsu/data/io/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;産業連関表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.boj.or.jp/statistics/sj/index.htm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;資金循環表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.boj.or.jp/statistics/br/bop/index.htm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;国際収支統計&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>経済成長</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;新古典派経済成長理論を学ぶ。&lt;/li&gt;
+&lt;li&gt;収斂仮説が現実で成立しているのか。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To be uploaded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oecd.org/tokyo/statistics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OECD Stat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rug.nl/ggdc/historicaldevelopment/maddison/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maddison Historical Statistics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rug.nl/ggdc/productivity/pwt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Penn World Table&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>商学入門</title>
+      <link>https://tomoakiyamada.github.io/courses/misc/commerce/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/misc/commerce/</guid>
+      <description>&lt;h2 id=&#34;コース概要&#34;&gt;コース概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;商学入門は明治大学商学部の1年生向け(春学期)にオムニバス形式で各コースのトピックを話すという授業になります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;Commerce2019.pdf&#34;&gt;2019年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;Commerce2018.pdf&#34;&gt;2018年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;Commerce2012_Handout.pdf&#34;&gt;2012年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;Commerce2011_Handout.pdf&#34;&gt;2011年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;Commerce2010_Handout.pdf&#34;&gt;2010年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>日本経済</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;戦後日本経済の歩みを簡潔に振り返ります。&lt;/li&gt;
+&lt;li&gt;高度経済成長、バブル崩壊、リーマンショック等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;japanese_economy.pdf&#34;&gt;日本経済の概観&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>少子高齢化と社会保障制度</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_b/population/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/population/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日本が直面する少子高齢化の実態をデータから把握する。&lt;/li&gt;
+&lt;li&gt;社会保障制度(公的年金制度、健康保険制度、介護保険精度)について理解する。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To be uploaded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stat.go.jp/data/kakei/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;家計調査&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stat.go.jp/data/zensho/2014/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全国消費実態調査 (平成26年度)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ipss.go.jp/syoushika/tohkei/Mainmenu.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本の将来推計人口&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IS-LMモデル</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/is_lm/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/is_lm/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;物価が一定であると仮定した際の財政・金融政策の有効性について議論をします。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;is_lm.pdf&#34;&gt;IS-LM分析と財政・金融政策&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IS-MP Model by &lt;a href=&#34;https://eml.berkeley.edu/~dromer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Romer&lt;/a&gt;: Short-Run Fluctuations&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>商学研究入門</title>
+      <link>https://tomoakiyamada.github.io/courses/misc/advanced_commerce/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/misc/advanced_commerce/</guid>
+      <description>&lt;h2 id=&#34;コース概要&#34;&gt;コース概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;商学研究入門は明治大学商学部の1年生向け(秋学期)にオムニバス形式で各コースの少し進んだ研究トピックを話すという授業になります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;教科書参考書&#34;&gt;教科書・参考書&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;「研究のフロンティアからみた日本経済」、明治大学商学部編『ビジネス研究の最前線』、同文館出版、第7章、2012年&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;AdvancedCommerce2014.pdf&#34;&gt;2014年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;AdvancedCommerce2012.pdf&#34;&gt;2012年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>経済格差</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;経済格差について概観する。&lt;/li&gt;
+&lt;li&gt;ピケティ『21世紀の資本』はなぜ注目を集めたのか。&lt;/li&gt;
+&lt;li&gt;タックスヘイブンと税制改革。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To be uploaded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wid.world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Inequality Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ec.europa.eu/eurostat/web/microdata/european-union-statistics-on-income-and-living-conditions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EU-SILC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/wvs.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Values Survey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://piketty.pse.ens.fr/en/capital21c2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Capital in the 21st Century&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>総需要・総供給分析</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/ad_as/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/ad_as/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;中期のマクロ経済モデルを構築。&lt;/li&gt;
+&lt;li&gt;IS-LMモデルから総需要曲線を導出。&lt;/li&gt;
+&lt;li&gt;フィリップス曲線に基づいて総供給曲線を導出。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;ad_as.pdf&#34;&gt;総需要・総供給分析と期待の役割&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fernandez-Villaverde&amp;rsquo;s &lt;a href=&#34;https://www.sas.upenn.edu/~jesusfv/macro_jfv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Note on Macro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>高大連携講座@明治高校</title>
+      <link>https://tomoakiyamada.github.io/courses/misc/meiji_high_school/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/misc/meiji_high_school/</guid>
+      <description>&lt;h2 id=&#34;コース概要&#34;&gt;コース概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;明治高校での高大連携講座で明治大学商学部で学ぶ経済学を先取りした内容をコンパクトに講義しました。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;MeijiHighSchool2014.pdf&#34;&gt;2014年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;MeijiHighSchool2013.pdf&#34;&gt;2013年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>オープンキャンパス</title>
+      <link>https://tomoakiyamada.github.io/courses/misc/open_campus/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/misc/open_campus/</guid>
+      <description>&lt;h2 id=&#34;コース概要&#34;&gt;コース概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;オープンキャンパスに参加をしてくれた主に高校生向けに明治大学商学部で学ぶ経済学について講義をしました。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;OpenCampus2016.pdf&#34;&gt;2016年度オープンキャンパス資料&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Julia関連の書籍</title>
+      <link>https://tomoakiyamada.github.io/post/2-julia-book/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/2-julia-book/</guid>
+      <description>&lt;h2 id=&#34;webだけで十分&#34;&gt;Webだけで十分?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JuliaはMatlabやPython、Rあたりと比べてかなり新しい言語なので、まだまだ情報が限られています。&lt;/li&gt;
+&lt;li&gt;加えて開発速度が早いので、ほんの少し前の情報でも古くて役に立たない事がたまにあります（特にVersion 1.0以降かなり仕様が変更されたので、Version 1.0未満の情報にはかなり注意が必要）。&lt;/li&gt;
+&lt;li&gt;Juliaのヘビーユーザーの情報源は基本的にWebで、紙媒体の本（あるいは電子書籍）を読んでいる人はそこまで多くないのかもしれません。&lt;/li&gt;
+&lt;li&gt;個人的には、ちょっとした調べ物はGoogle検索で十分ですが、やはり書籍の形で情報がまとまったものが手元に欲しくなります（古い人間かも&amp;hellip;）。&lt;/li&gt;
+&lt;li&gt;入門書から上級者向けまで充実しているPythonあたりと違ってJuliaの書籍媒体は限られています。&lt;/li&gt;
+&lt;li&gt;Julia特有の仕様（特にLLVM-JITまわり）は体系的に理解しておかないとJuliaの強みである&lt;em&gt;速さ&lt;/em&gt;が体感しにくいけど、知りたいときにググるスタイルだとそのあたりを理解する機会がない可能性があります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;実際に読んだ本アルファベット順&#34;&gt;実際に読んだ本：アルファベット順&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;mark&gt;Balbaert, Ivo (2015,Feb): &amp;ldquo;Getting Started with Julia,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;自己完結的で読みやすいけど流石に情報が古すぎる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Balbaert, Ivo (2018,Sept): &amp;ldquo;Julia 1.0 Programming Second Edition,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;上記の本のアップデート版：既に更に新しい版⬇が出ているのでこっちは不要&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Balbaert, Ivo and Adrian Salceanu (2019,May): &amp;ldquo;Learning Path Julia 1.0 Programming Complete Reference Guide,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;アップデート版：その2&lt;/li&gt;
+&lt;li&gt;著者が一人増えている：おそらく後半を追記した[?]&lt;/li&gt;
+&lt;li&gt;後半も読みやすくはあるけど前半と重複したり先に説明すべきことが今更書かれていて書籍としての完成度はイマイチ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Kaminski, Bogumit and Przemystaw Szufel (2018,Nov): &amp;ldquo;Julia 1.0 Programming Codebook,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;日本語版あり：&lt;strong&gt;日本語版の補遺がコンパクトにまとまっていて完成度が高い&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Lauwens, Ben and Allen B. Downey (2019): &amp;ldquo;Think Julia: How to Think Like a Computer Scientist,&amp;rdquo; O’Reilly.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Think Python&amp;quot;のJulia版&lt;/li&gt;
+&lt;li&gt;Juliaの言語仕様というよりJuliaを使ってプログラミングを勉強するための本&lt;/li&gt;
+&lt;li&gt;実際に手を動かしてエクササイズを解きながら読むと力になる&lt;/li&gt;
+&lt;li&gt;第4章(Case Study)で急にfor文が出てきたり、やや順番が気になる箇所がある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Root, George (2019): &amp;ldquo;The Julia Language Handbook&amp;rdquo;&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;Julia 1.0以降に対応したハンドブック&lt;/li&gt;
+&lt;li&gt;一通り入門書を読んだ人が知りたいことがコンパクトにまとまっている：完全な初心者には読みにくいかも➔辞書的に使用&lt;/li&gt;
+&lt;li&gt;個人的に「FortranからPythonに移行しようとしたけどインデックスが0スタートで苛ついた」に同意&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Sengupta, Avik (2019,June): &amp;ldquo;Julia High Performance Second Edition,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;著者はJulia computingのEngineering部門のVice President.&lt;/li&gt;
+&lt;li&gt;Juliaの仕組みから説明をしてくれるので理解が深まる&lt;/li&gt;
+&lt;li&gt;ただし、事前にJuliaの知識がある程度ないと読むのは厳しい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Sherrington, Malcolm (2015): &amp;ldquo;Mastering Julia,&amp;rdquo; PACT.&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;古い本：当時としては貴重だったのかもしれないけど情報が古すぎる&lt;/li&gt;
+&lt;li&gt;Juliaのバージョンも古いので、今から読む必要はない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;進藤裕之・佐藤健太『1から始めるJulia』コロナ社&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;全体的にコンパクトにまとまった良書&lt;/li&gt;
+&lt;li&gt;短いけど初心者向けだけでなく進んだトピックも言及している&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;石井一夫『基礎から学ぶJulia』SCC&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;大きめの本だけど情報量は⬆と同程度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;とりあえずのお勧め&#34;&gt;とりあえずのお勧め&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Think Julia&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;プログラミング自体の初心者向けに書かれている（のでやや冗長）&lt;/li&gt;
+&lt;li&gt;プログラミング経験者であればスキップしても良い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Learning Path Julia&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Julia自体の言語としての特徴を他の言語と比較していて、パフォーマンスのTipsなども説明してくれている&lt;/li&gt;
+&lt;li&gt;ある程度の知識がある人が読むと役に立つけど完全な初心者だと情報量が多すぎるかも&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;進藤裕之・佐藤健太『1から始めるJulia』&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;日本語で手元に一冊置くならこれ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GitHub Pagesに引っ越し</title>
+      <link>https://tomoakiyamada.github.io/post/1-getting-started/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/1-getting-started/</guid>
+      <description>&lt;h2 id=&#34;なぜ引っ越しをしたのか&#34;&gt;なぜ引っ越しをしたのか?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉「GoogleドライブやDropboxに論文を置いてあると中央銀行や国際機関の関係者はセキュリティの問題からアクセスできないから自分の論文を読んでほしい研究者は別の手段を考えようね」という話が2020年頃?に出る。&lt;/li&gt;
+&lt;li&gt;自分の論文が中銀や国際機関の関係者に読まれる可能性は非常に低いと思うけど、気分転換にHPを作り直すのも良いかなとぼんやり考える。&lt;/li&gt;
+&lt;li&gt;実際に⬆️ の動機に基づいてHPを移動した人たちが静的サイトジェネレータ（Static Site Generator）というのを使っているのに気がついて、面白そうだからSSGの勉強を開始。&lt;/li&gt;
+&lt;li&gt;SSGには&lt;a href=&#34;https://jamstack.org/generators/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;色々な種類&lt;/strong&gt;&lt;/a&gt;があるのだけど、有名なSSGの一つである&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt;の&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Academic&lt;/strong&gt;&lt;/a&gt;というテーマが気に入ったので、これをベースにHPを作成。&lt;/li&gt;
+&lt;li&gt;HTMLとCSSの知識がない自分でもほぼMarkdownだけで作成・管理ができるので楽。&lt;/li&gt;
+&lt;li&gt;詳細は🦄&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;wowchemy&lt;/strong&gt;&lt;/a&gt;を参照。&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hogoのacademicテーマ&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;HogoのAcademicテーマ&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      HogoのAcademicテーマ
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;hugo--academicを使うにあたって参考にしたサイト&#34;&gt;Hugo + Academicを使うにあたって参考にしたサイト&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jayrobwilliams.com/posts/2020/06/academic-website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Building an Academic Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/harumaxy/items/58e7e4273c61e7e260b3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo + Academic テーマを使ったブログの作り方&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/_akisato/items/37c3e664dd465d06bf00&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Github Pages に Hugo で研究者・技術者用のサイトを簡単に立ち上げ運用する&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hugo--academicの使い方の大雑把なイメージ&#34;&gt;Hugo + Academicの使い方（の大雑把なイメージ）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Homebrew経由でHugoをインストール&lt;/li&gt;
+&lt;li&gt;Academicテーマをダウンロード&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Hugo server&lt;/code&gt;でブラウザから見栄えを確認しながらMarkdownファイルをエディット&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;contents&lt;/code&gt;をGitHub PagesにPush&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;他のメジャーなssg&#34;&gt;他のメジャーなSSG&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatsbyjs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Gatby&lt;/strong&gt;&lt;/a&gt;：Reactの知識が必要なので自分にはハードルが高かった&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jekyllrb-ja.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jekyll&lt;/strong&gt;&lt;/a&gt;：アカデミック界隈では一番人気?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;今後について&#34;&gt;今後について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo+Academicのデザインは気に入っているけど、もっとシンプルなデザインのほうが良いのかなとか思う。&lt;/li&gt;
+&lt;li&gt;Juliaの&lt;a href=&#34;https://github.com/tlienart/Franklin.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Franklin&lt;/strong&gt;&lt;/a&gt;が面白そうだから試してみようかなとはやくも浮気を考える。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population Aging and Redistribution in Japan: Comparisons with OLG, SNA and NTA</title>
+      <link>https://tomoakiyamada.github.io/project/ichimura_yamada/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/ichimura_yamada/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Presented at the Computing in Economics and Finance in 2021 at Keio University&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Foreign Workers, Skill Premium and Fiscal Sustainability in Japan</title>
+      <link>https://tomoakiyamada.github.io/publication/kitao_yamada_ea_2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/kitao_yamada_ea_2021/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>チュートリアルセッション@日本経済学会 2021年度春季大会</title>
+      <link>https://tomoakiyamada.github.io/computation/jea2021/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/computation/jea2021/</guid>
+      <description>&lt;p&gt;チュートリアルセッションで使用したスライドはGitHubからダウンロードできます。
+すべてのコードはJuliaで書かれています。
+簡易的なJuliaインストールマニュアル（Install_Julia.pdf）も含まれているので参考にしてください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/sagirikitao/teaching&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;北尾さんのスライド&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tkksnk/JEAtutorial2021Spring&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;砂川さんのスライド&amp;amp;コード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Code&lt;/strong&gt;ボタンがGitHubリポジトリへのリンクです。
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>定量的マクロ経済学と数値計算@経済セミナー</title>
+      <link>https://tomoakiyamada.github.io/computation/keizai_seminar/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/computation/keizai_seminar/</guid>
+      <description>&lt;p&gt;『経済セミナー』で2018年12月・2019年1月号から2020年2・3月号まで合計8回にわたって、「定量的マクロ経済学と数値計算」という連載講義を行いました（北尾早霧氏・砂川武貴氏と共著）。
+連載で使用したすべてのコードはGitHubからダウンロードすることができます。
+主にMatlabで書かれていますが、一部、PythonやJuliaも使用しています。&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Code&lt;/strong&gt;ボタンがGitHubリポジトリへのリンクです。
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fiscal Sustainability in Japan: What to Tackle</title>
+      <link>https://tomoakiyamada.github.io/publication/imrohoroglu_kitao_yamada_joea_2019/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/imrohoroglu_kitao_yamada_joea_2019/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dimensions of Inequality in Japan: Distributions of Earnings, Income and Wealth between 1984 and 2014</title>
+      <link>https://tomoakiyamada.github.io/project/kitao_yamada_rieti_2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/kitao_yamada_rieti_2019/</guid>
+      <description>&lt;p&gt;Inequality has become a central policy issue around the world. We study trends of inequality in earnings, income and wealth across households in Japan, using the National Survey of Family Income and Expenditure (NSFIE) from 1984 to 2014. We focus on the transition of inequality unconditionally and conditionally across various dimensions of household heterogeneity such as age, cohort, employment and marital status of household heads, sources of income, family size, etc. Inequality in earnings, income and wealth all increased during the last three decades. Changes in earnings and income inequality were mostly driven by demographic shift in the population towards the elderly, who tend to have higher inequality. Wealth inequality rose not only in the aggregate but also among the young, and this is due to a major increase in the fraction of households who own zero or very low wealth across all age groups. Critical factors in understanding inequality trends in Japan that we identified are aging demographics, changes in typical household structure, and macroeconomic trends of the past decades including the financial bubble period and a decades-long slow-down thereafter.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population Aging, Health Care and Fiscal Policy Reform: The Challenges for Japan</title>
+      <link>https://tomoakiyamada.github.io/publication/hsu_yamada_sje_2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/hsu_yamada_sje_2019/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>マクロ経済学講義@METI</title>
+      <link>https://tomoakiyamada.github.io/computation/meti/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/computation/meti/</guid>
+      <description>&lt;p&gt;マクロ経済研修@経済産業省で使用したスライドとコードです。
+すべてPythonで書いています。
+もともとBitbucketにアップしていたものをGitHubに移動しました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;LectureSlide1.pdf&#34;&gt;講義スライド(1)：世代重複モデル入門&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;LectureSlide2.pdf&#34;&gt;講義スライド(2)：数値計算入門&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;LectureSlide3.pdf&#34;&gt;講義スライド(3)：Auerbach and Kotlikoffモデル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;LectureSlide4.pdf&#34;&gt;講義スライド(4)：世代内の異質性、経済格差と社会保障制度&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TomoakiYamada/meti_slide2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;使用したPythonコード@GitHub：講義スライド(2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TomoakiYamada/meti_slide3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;使用したPythonコード@GitHub：講義スライド(3)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of Monetary Policy Shocks on Inequality in Japan</title>
+      <link>https://tomoakiyamada.github.io/project/inui_sudo_yamada/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/inui_sudo_yamada/</guid>
+      <description>&lt;p&gt;The impacts of monetary easing on inequality have been attracting increasing attention recently. In this paper, we use the micro-level data on Japanese households to study the distributional effects of monetary policy. We construct quarterly series of income and consumption inequality measures from 1981 to 2008, and estimate their response to a monetary policy shock. We find that monetary policy shocks do not have a statistically significant impact on inequality across Japanese households in a stable manner. When considering inequality across households whose head is employed, we find evidence that, before the 2000s, an expansionary monetary policy shock increased income inequality through a rise in earnings inequality. Such procyclical responses are, however, scarcely observed when the current data are included in the sample period, or when earnings inequality across all households is considered. We also find that transmission of income inequality to consumption inequality is minor, including during the period when procyclicality of income inequality was pronounced. Using a two-sector dynamic general equilibrium model with attached labor inputs, we show that labor market flexibility is central to the dynamics of income inequality after monetary policy shocks. We also use the micro-level data on households&#39; balance sheets and show that distributions of households&#39; financial assets and liabilities do not play a significant role in the distributional effects of monetary policy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BIS Working Papers, No. 642, 2017.&lt;/li&gt;
+&lt;li&gt;Bank of Japan Working Paper Series, No. 17-E-3, 2017.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can Guest Workers Solve Japan&#39;s Fiscal Problems?</title>
+      <link>https://tomoakiyamada.github.io/publication/imrohoroglu_kitao_yamada_ei_2017/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/imrohoroglu_kitao_yamada_ei_2017/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Achieving Fiscal Balance in Japan</title>
+      <link>https://tomoakiyamada.github.io/publication/imrohoroglu_kitao_yamada_ier_2016/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/imrohoroglu_kitao_yamada_ier_2016/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of Demographic Change on the Expenditure Composition in Japanese Economy</title>
+      <link>https://tomoakiyamada.github.io/project/sudo_suzuki_yamada_2014b/</link>
+      <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/sudo_suzuki_yamada_2014b/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Work in progress.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wage, Income and Consumption Inequality in Japan, 1981-2008: from Boom to Lost Decades</title>
+      <link>https://tomoakiyamada.github.io/publication/lise_sudo_suzuki_yamada_yamada_red_2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/lise_sudo_suzuki_yamada_yamada_red_2014/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Response of Inequality to a Growth Rate Slowdown in  Japanese Economy during the Lost Decades</title>
+      <link>https://tomoakiyamada.github.io/project/sudo_suzuki_yamada_2014a/</link>
+      <pubDate>Tue, 27 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/sudo_suzuki_yamada_2014a/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Presented at the 5th Annual CIGS Conference on Macroeconomic Theory and Policy 2014.&lt;/li&gt;
+&lt;li&gt;Presented at the Japanese Economic Association Autumn Meeting in 2014.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Note on Risk Sharing against Idiosyncratic Shocks and Geographic Mobility in Japan</title>
+      <link>https://tomoakiyamada.github.io/project/yamada_2014/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/yamada_2014/</guid>
+      <description>&lt;p&gt;In this study, using Japanese household panel data, we analyze how well idiosyncratic income risks are shared by regions. We find that geographic mobility influences individual consumption growth rates, suggesting that complete asset markets fail to exist. We reject the full insurance hypothesis for both urban and rural areas and find that the extent of risk sharing differs significantly by region.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MPRA Paper, No. 54886, 2014.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cross-sectional Facts in Japan using Keio Household Panel Survey</title>
+      <link>https://tomoakiyamada.github.io/project/yamada_2013/</link>
+      <pubDate>Wed, 18 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/yamada_2013/</guid>
+      <description>&lt;p&gt;We investigate economic inequalities of Japanese economy from 2004 to 2012 us- ing the Keio household panel survey. We present cross-sectional dispersion earnings, consumption expenditure, and wealth inequalities from time-series and life cycle dimensions. Wage and hours inequalities, which are calculated from the earnings of male and female, full-time and part-time workers and correlations are provided. We also show that the residual inequalities, which are usually interpreted as idiosyncratic income risks that households face, rise over the life cycle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MPRA Paper, No. 49813, 2013.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inequalities in Japanese Economy during the Lost Decades</title>
+      <link>https://tomoakiyamada.github.io/project/sudo_suzuki_yamada_2012/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/sudo_suzuki_yamada_2012/</guid>
+      <description>&lt;p&gt;This paper explores the development of inequalities in income, consumption, and wealth among Japanese households from the 1980s to the 2000s, a period that spans the bursting of Japan&amp;rsquo;s bubble economy (1991Q1) and the banking crisis (1997Q4). We find that inequality of income and consumption widened during those three decades, and inequality of wealth increased, except for during the period after the bubble burst. Income inequality grew noticeably during the bubble era and periods after the banking crisis and the growth rate was particularly high during the former period. The two crises affected income inequality differently. The bubble burst led to a slow income growth for all households without greatly affecting the distribution of income, whereas the banking crisis dampened income growth exclusively among lowquantile households, exacerbating income inequality. Although the distributional effect of government policy was important, the general pattern of income inequality carried over into inequality in consumption. The dimensions of that carryover, however, diminished after the bubble burst, suggesting compositional changes in income shocks. The inequalities over life cycle are also discussed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CIRJE Discussion Paper, CIRJE-F-856.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Income Risk, Macroeconomic and Demographic Change and Economic Inequality in Japan</title>
+      <link>https://tomoakiyamada.github.io/publication/yamada_jedc_2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/yamada_jedc_2012/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Special Lecture at Institute of Economics, Academia Sinica in Taiwan</title>
+      <link>https://tomoakiyamada.github.io/computation/academia_sinica/</link>
+      <pubDate>Wed, 07 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/computation/academia_sinica/</guid>
+      <description>&lt;p&gt;Upload the slide used at a special lecture at Academia Sinica in Taiwan (with Gary Hansen and Minchung Hsu).
+I have taught &amp;ldquo;how to solve life cycle model using numerical methods&amp;rdquo;
+The lecture series was provided with Gary Hansen and Minchung Hsu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Politically Feasible Social Security Reform with a Two-Tier Structure</title>
+      <link>https://tomoakiyamada.github.io/publication/yamada_jjie_2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/yamada_jjie_2011/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can Cross-Border Financial Markets Create Good Collateral in a Crisis?</title>
+      <link>https://tomoakiyamada.github.io/project/saito_suzuki_yamada_2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/saito_suzuki_yamada_2010/</guid>
+      <description>&lt;p&gt;In this paper, we explore whether markets can create endogenously good collateral in a crisis by analyzing a simple exchange economy where a country-specific catastrophic shock is shared between two countries. To see this possibility, we examine whether the equilibrium achieved by the time-0 complete markets with solvency constraints can be recovered in the dynamically complete markets with collateral constraints. This paper demonstrates that it is possible to recover the time-0 equilibrium outcome in a sequential manner when pricing errors occur randomly in evaluating Lucas trees at a catastrophic event. Such stochastic components may be interpreted as a policy initiative to create good collateral and yield constrained efficient outcomes at crisis periods.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IMES Discussion Paper Series, 2010-E-19, 2010.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Intergenerational Sharing of Cohort-Specific Shocks on Permanent Income</title>
+      <link>https://tomoakiyamada.github.io/publication/miyazaki_saito_yamada_md_2010/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/miyazaki_saito_yamada_md_2010/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Persistence of Income Shocks and Consumption Inequality: A Case in Japan</title>
+      <link>https://tomoakiyamada.github.io/publication/yamada_eb_2009/</link>
+      <pubDate>Mon, 09 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/yamada_eb_2009/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Income Variance Profile and Consumption Inequality over the Life Cycle</title>
+      <link>https://tomoakiyamada.github.io/publication/abe_yamada_jjie_2009/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/abe_yamada_jjie_2009/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>連続講義@神戸大学</title>
+      <link>https://tomoakiyamada.github.io/computation/kobe/</link>
+      <pubDate>Fri, 16 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/computation/kobe/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;2009年1月16日に神戸大学で行われた数値計算に関する特別講義で使用したスライドです。
+情報がかなり古いので注意してください。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>連続講義@一橋大学</title>
+      <link>https://tomoakiyamada.github.io/computation/hitotsubashi/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/computation/hitotsubashi/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;2008年8月28日、29日に一橋大学で行われた数値計算に関する特別講義をまとめた講義ノートです。
+かなり情報が古いので注意してください。
+コードは古すぎて参考にならないので再アップロードはしていません。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consumption, Working Hours, and Wealth Determination in Life Cycle</title>
+      <link>https://tomoakiyamada.github.io/project/abe_inakura_yamada_2007/</link>
+      <pubDate>Fri, 22 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/abe_inakura_yamada_2007/</guid>
+      <description>&lt;p&gt;This paper presents an empirical analysis of a life cycle model. We incorporate labor supply and family structure into the standard precautionary savings model and estimate structural parameters based on the moment conditions for the life cycle profiles of consumption, working hours, and wealth accumulation. Our empirical analyses with Japanese household data reveal that consideration of both family structure and idiosyncratic shocks are crucial in modeling consumption and working hours profiles simultaneously under plausible parameter values.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bank of Japan Working Paper Series, No. 07-E-14.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unemployment Insurance and Savings under Establishment Dynamics</title>
+      <link>https://tomoakiyamada.github.io/project/yamada_2006/</link>
+      <pubDate>Mon, 27 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/yamada_2006/</guid>
+      <description>&lt;p&gt;We consider issues concerning unemployment insurance under establishment dynamics. Extending the framework developed by Alvarez and Veracierto (1998), we investigate the welfare consequences of unemployment insurance for the aggregate economy and different groups of households. Although the aggregate implications of our quantitative results are similar to those of previous research, we show that unemployment insurance has different effects for agents with high and low asset holdings. In particular, increasing the replace- ment rate benefits agents with nearly zero assets and holders of very high levels of assets. Furthermore, we demonstrate that a different construction of the disutility of search effort has significant implications for unemployment insurance. If the search effort is inelastic over assets, the effect of the insurance declines compared with the case of flexible search.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;COE/RES Discussion Paper Series, No.163, 2006.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tomoakiyamada.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
