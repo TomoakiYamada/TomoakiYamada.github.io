@@ -5,7 +5,7 @@
     <link>https://tomoakiyamada.github.io/courses/economic_policy_b/</link>
       <atom:link href="https://tomoakiyamada.github.io/courses/economic_policy_b/index.xml" rel="self" type="application/rss+xml" />
     <description>経済政策論B</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/courses/economic_policy_b/featured.jpg</url>
       <title>経済政策論B</title>
@@ -15,16 +15,25 @@
     <item>
       <title>経済成長</title>
       <link>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;新古典派経済成長理論を学ぶ。&lt;/li&gt;
+&lt;li&gt;豊かな国と貧しい国がなぜ存在するのか。&lt;/li&gt;
+&lt;li&gt;成長会計に基づいて経済成長率の要因分解を行う。&lt;/li&gt;
+&lt;li&gt;新古典派経済成長理論を理解する。&lt;/li&gt;
 &lt;li&gt;収斂仮説が現実で成立しているのか。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;To be uploaded&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;EconomicPolicyB_Growth1.pdf&#34;&gt;講義スライド(1)&lt;/a&gt;：豊かな国、貧しい国と成長会計&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ウォルシュ『ポール・ローマーと経済成長の謎』日経BP&lt;/li&gt;
+&lt;li&gt;ブリニュルフソン・マカフィー『機械との競争』日経BP&lt;/li&gt;
+&lt;li&gt;ブリニュルフソン・マカフィー『プラットフォームの経済学』日経BP&lt;/li&gt;
+&lt;li&gt;Hayashi and Prescott (2002): &amp;ldquo;The 1990s in Japan: A Lost Decade,&amp;rdquo; Review of Economic Dynamics, 5, 206-235.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
 &lt;ul&gt;
@@ -38,16 +47,25 @@
     <item>
       <title>少子高齢化と社会保障制度</title>
       <link>https://tomoakiyamada.github.io/courses/economic_policy_b/population/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/population/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;日本が直面する少子高齢化の実態をデータから把握する。&lt;/li&gt;
-&lt;li&gt;社会保障制度(公的年金制度、健康保険制度、介護保険精度)について理解する。&lt;/li&gt;
+&lt;li&gt;社会保障制度(公的年金制度、健康保険制度、介護保険制度)について理解する。&lt;/li&gt;
+&lt;li&gt;家族の経済学：子育て、出産、教育など&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;To be uploaded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;小塩隆士『日本人の健康を社会科学で考える』日本経済新聞出版&lt;/li&gt;
+&lt;li&gt;酒井正『日本のセーフティーネット格差』慶應義塾大学出版会&lt;/li&gt;
+&lt;li&gt;ドゥプケ・ジリボッティ『子育ての経済学』慶應義塾大学出版会&lt;/li&gt;
+&lt;li&gt;山口慎太郎『「家族の幸せ」の経済学 データ分析でわかった結婚、出産、子育ての真実』光文社新書&lt;/li&gt;
+&lt;li&gt;山口慎太郎『子育て支援の経済学』日本評論社&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
 &lt;ul&gt;
@@ -61,7 +79,7 @@
     <item>
       <title>経済格差</title>
       <link>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
@@ -72,6 +90,13 @@
 &lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;To be uploaded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;アトキンソン『21世紀の不平等』東洋経済新報社&lt;/li&gt;
+&lt;li&gt;サエズ・ズックマン『つくられた格差』光文社&lt;/li&gt;
+&lt;li&gt;ピケティ『21世紀の資本』みすず書房&lt;/li&gt;
+&lt;li&gt;ミラノヴィッチ『不平等について&amp;ndash; 経済学と統計が語る26の話』みすず書房&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
 &lt;ul&gt;

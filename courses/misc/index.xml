@@ -5,12 +5,28 @@
     <link>https://tomoakiyamada.github.io/courses/misc/</link>
       <atom:link href="https://tomoakiyamada.github.io/courses/misc/index.xml" rel="self" type="application/rss+xml" />
     <description>過去の様々な講義</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/courses/misc/featured.jpg</url>
       <title>過去の様々な講義</title>
       <link>https://tomoakiyamada.github.io/courses/misc/</link>
     </image>
+    
+    <item>
+      <title>Essentials of Commerce</title>
+      <link>https://tomoakiyamada.github.io/courses/misc/essentials_of_commerce/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/misc/essentials_of_commerce/</guid>
+      <description>&lt;h2 id=&#34;コース概要&#34;&gt;コース概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Essentials of Commerceはオムニバス形式で各トピックについて担当教員が&lt;strong&gt;英語&lt;/strong&gt;で講義をするというものです。&lt;/li&gt;
+&lt;li&gt;そのため、講義スライドもすべて英語です。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;EssentialsInequality2021.pdf&#34;&gt;2021年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>商学入門</title>
