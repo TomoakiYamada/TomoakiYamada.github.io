@@ -290,6 +290,29 @@
     </item>
     
     <item>
+      <title>Jupyterに残った古いカーネルを消す</title>
+      <link>https://tomoakiyamada.github.io/post/3-julia-tips/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/3-julia-tips/</guid>
+      <description>&lt;h2 id=&#34;juliaをアップデート後のjupyterの更新について&#34;&gt;Juliaをアップデート後のJupyterの更新について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Juliaを1.5➔1.6とかアップデートした場合に古いJuliaのカーネルがJupyterに残って表示される場合がある
+&lt;ul&gt;
+&lt;li&gt;古いカーネルは削除したのに!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;古いバージョンのカーネルをアンインストールする方法
+&lt;ol&gt;
+&lt;li&gt;ターミナルあるいはAnaconda Promptから&lt;code&gt;jupyter kernelspec list&lt;/code&gt;と入力するとカーネルのリストが出る&lt;/li&gt;
+&lt;li&gt;不要なバージョンを&lt;code&gt;jupyter kernelspec uninstall julia-1.5&lt;/code&gt;で消去&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;参考元：&lt;a href=&#34;https://stackoverflow.com/questions/44914176/how-to-remove-previous-version-from-jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stackoverflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Julia関連の書籍</title>
       <link>https://tomoakiyamada.github.io/post/2-julia-book/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>

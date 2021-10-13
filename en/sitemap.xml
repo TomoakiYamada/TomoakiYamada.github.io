@@ -56,6 +56,41 @@
     <loc>https://tomoakiyamada.github.io/courses/misc/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://tomoakiyamada.github.io/authors/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tomoakiyamada.github.io/ja/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tomoakiyamada.github.io/authors/"
+                />
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/blog/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/julia/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/post/3-julia-tips/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tags/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tomoakiyamada.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tomoakiyamada.github.io/tags/"
+                />
+  </url><url>
     <loc>https://tomoakiyamada.github.io/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -69,46 +104,8 @@
                 href="https://tomoakiyamada.github.io/"
                 />
   </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tomoakiyamada.github.io/ja/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomoakiyamada.github.io/authors/"
-                />
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/blog/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/julia/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/2-julia-book/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tags/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tomoakiyamada.github.io/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomoakiyamada.github.io/tags/"
-                />
-  </url><url>
     <loc>https://tomoakiyamada.github.io/authors/admin/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -121,6 +118,12 @@
                 />
   </url><url>
     <loc>https://tomoakiyamada.github.io/post/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/courses/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/post/2-julia-book/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/academic/</loc>
