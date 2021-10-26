@@ -5,12 +5,69 @@
     <link>https://tomoakiyamada.github.io/post/</link>
       <atom:link href="https://tomoakiyamada.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>ブログ</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
       <title>ブログ</title>
       <link>https://tomoakiyamada.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>生産性を高める(かもしれない)アプリ</title>
+      <link>https://tomoakiyamada.github.io/post/4-tools/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/4-tools/</guid>
+      <description>&lt;h2 id=&#34;自分のpcスマホにインストール済みのアプリ&#34;&gt;自分のPC・スマホにインストール済みのアプリ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.notion.so/ja-jp/product&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notion&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown形式で書けるノートブックみたいなかんじ
+&lt;ul&gt;
+&lt;li&gt;普段使いのメモからWeb上のメモまで自由度が高い&lt;/li&gt;
+&lt;li&gt;スマホとPCのどちらからもアクセス可能&lt;/li&gt;
+&lt;li&gt;そのまま公開も出来る&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Todoリストも作成可能：自由度が高すぎて使いにくいので自分は未使用&lt;/li&gt;
+&lt;li&gt;⬇のTrelloみたいなカード形式のタスク管理も可能：同じく自力で作成する部分が多すぎるので自分は未使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://trello.com/ja/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trello&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;研究用のTodoリストとして使用しています
+&lt;ul&gt;
+&lt;li&gt;研究プロジェクトの細かいTodoは数が多すぎて、いわゆる普通のTodoアプリだと管理しにくいので&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;共同研究でも、お互いにやるべきことをまとめるためのリストとして使いやすい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://slack.com/intl/ja-jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slack&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;おなじみのビジネスチャットツール&lt;/li&gt;
+&lt;li&gt;自分の場合、チャットのためというより思いつきを自分用のメモとして使用する感じ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.grammarly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grammarly&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Youtubeとかでやたらとお勧めしてくるのでインストールしてみた&lt;/li&gt;
+&lt;li&gt;100%これに従って良いのかわからない部分もあるけど、前置詞の使い方とかを修正してくれるのは非常にありがたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://evernote.com/intl/jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evernote&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;「第二の脳」&lt;/li&gt;
+&lt;li&gt;昔はこれ一択という位使っていたのですが、最近使用頻度が減りました
+&lt;ul&gt;
+&lt;li&gt;機能が追加されすぎて重くなったり不安定になったりしたので&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;⬆以外にGoogleのTodoリストやGoogle Keepをプライベートなどで使い分けています&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Jupyterに残った古いカーネルを消す</title>

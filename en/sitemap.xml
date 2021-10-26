@@ -12,10 +12,10 @@
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/macroeconomics/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/misc/commerce/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
@@ -36,7 +36,7 @@
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
@@ -48,7 +48,7 @@
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/seminar/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/misc/open_campus/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
@@ -57,7 +57,7 @@
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/authors/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -70,16 +70,13 @@
                 />
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/blog/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/julia/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/3-julia-tips/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <loc>https://tomoakiyamada.github.io/tag/productivity/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -92,7 +89,7 @@
                 />
   </url><url>
     <loc>https://tomoakiyamada.github.io/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -105,7 +102,7 @@
                 />
   </url><url>
     <loc>https://tomoakiyamada.github.io/authors/admin/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -118,9 +115,18 @@
                 />
   </url><url>
     <loc>https://tomoakiyamada.github.io/post/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/post/4-tools/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/julia/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/post/3-julia-tips/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/post/2-julia-book/</loc>
