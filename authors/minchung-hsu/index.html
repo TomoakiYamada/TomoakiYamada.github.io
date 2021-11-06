@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="Tomoaki Yamada is a professor of economics at Meiji university. His research focuses on heterogeneity in macroeconomics, consumption and savings, social security system reforms under population aging. 明治大学 商学部 教授 山田知明のHPです。このHPでは研究、講義、数値計算に関する情報を掲載しています。" />
+  <meta name="description" content="Tomoaki Yamada is a professor of economics at Meiji university. His research focuses on heterogeneity in macroeconomics, consumption and savings, and social security system reforms under population aging. 明治大学 商学部 教授 山田知明のHPです。このHPでは山田知明の研究、講義、数値計算に関する情報を掲載しています。" />
 
   
   <link rel="alternate" hreflang="en-us" href="https://tomoakiyamada.github.io/authors/minchung-hsu/" />
@@ -252,6 +252,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NVTH8GE22L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-NVTH8GE22L', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -298,7 +337,7 @@
   <meta property="og:site_name" content="Tomoaki Yamada" />
   <meta property="og:url" content="https://tomoakiyamada.github.io/authors/minchung-hsu/" />
   <meta property="og:title" content="Minchung Hsu | Tomoaki Yamada" />
-  <meta property="og:description" content="Tomoaki Yamada is a professor of economics at Meiji university. His research focuses on heterogeneity in macroeconomics, consumption and savings, social security system reforms under population aging. 明治大学 商学部 教授 山田知明のHPです。このHPでは研究、講義、数値計算に関する情報を掲載しています。" /><meta property="og:image" content="https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png" />
+  <meta property="og:description" content="Tomoaki Yamada is a professor of economics at Meiji university. His research focuses on heterogeneity in macroeconomics, consumption and savings, and social security system reforms under population aging. 明治大学 商学部 教授 山田知明のHPです。このHPでは山田知明の研究、講義、数値計算に関する情報を掲載しています。" /><meta property="og:image" content="https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png" />
     <meta property="twitter:image" content="https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
   
     

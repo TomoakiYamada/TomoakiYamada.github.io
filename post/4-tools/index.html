@@ -252,6 +252,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NVTH8GE22L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-NVTH8GE22L', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -857,9 +896,9 @@
     <div class="article-style">
       <h2 id="自分のpcスマホにインストール済みのアプリ">自分のPC・スマホにインストール済みのアプリ</h2>
 <ul>
-<li><a href="https://www.notion.so/ja-jp/product" target="_blank" rel="noopener">Notion</a>
+<li><a href="https://www.notion.so/ja-jp/product" target="_blank" rel="noopener"><strong>Notion</strong></a>
 <ul>
-<li>Markdown形式で書けるノートブックみたいなかんじ
+<li>Markdown形式で書けるノートブック📓みたいなかんじ
 <ul>
 <li>普段使いのメモからWeb上のメモまで自由度が高い</li>
 <li>スマホとPCのどちらからもアクセス可能</li>
@@ -867,32 +906,33 @@
 </ul>
 </li>
 <li>Todoリストも作成可能：自由度が高すぎて使いにくいので自分は未使用</li>
-<li>⬇のTrelloみたいなカード形式のタスク管理も可能：同じく自力で作成する部分が多すぎるので自分は未使用</li>
+<li>⬇のTrelloみたいなカード形式のタスク管理も可能</li>
 </ul>
 </li>
-<li><a href="https://trello.com/ja/home" target="_blank" rel="noopener">Trello</a>
+<li><a href="https://trello.com/ja/home" target="_blank" rel="noopener"><strong>Trello</strong></a>
 <ul>
-<li>研究用のTodoリストとして使用しています
+<li>研究用のTodoリストとして使用
 <ul>
 <li>研究プロジェクトの細かいTodoは数が多すぎて、いわゆる普通のTodoアプリだと管理しにくいので</li>
 </ul>
 </li>
-<li>共同研究でも、お互いにやるべきことをまとめるためのリストとして使いやすい</li>
+<li>共同研究でもお互いにやるべきことをまとめるためのリストとして使いやすい</li>
+<li>Notionでも同じような事が出来るのでそっちでも良いかも</li>
 </ul>
 </li>
-<li><a href="https://slack.com/intl/ja-jp/" target="_blank" rel="noopener">Slack</a>
+<li><a href="https://slack.com/intl/ja-jp/" target="_blank" rel="noopener"><strong>Slack</strong></a>
 <ul>
 <li>おなじみのビジネスチャットツール</li>
 <li>自分の場合、チャットのためというより思いつきを自分用のメモとして使用する感じ</li>
 </ul>
 </li>
-<li><a href="https://app.grammarly.com/" target="_blank" rel="noopener">Grammarly</a>
+<li><a href="https://app.grammarly.com/" target="_blank" rel="noopener"><strong>Grammarly</strong></a>
 <ul>
 <li>Youtubeとかでやたらとお勧めしてくるのでインストールしてみた</li>
 <li>100%これに従って良いのかわからない部分もあるけど、前置詞の使い方とかを修正してくれるのは非常にありがたい</li>
 </ul>
 </li>
-<li><a href="https://evernote.com/intl/jp" target="_blank" rel="noopener">Evernote</a>
+<li><a href="https://evernote.com/intl/jp" target="_blank" rel="noopener"><strong>Evernote</strong></a>
 <ul>
 <li>「第二の脳」</li>
 <li>昔はこれ一択という位使っていたのですが、最近使用頻度が減りました
