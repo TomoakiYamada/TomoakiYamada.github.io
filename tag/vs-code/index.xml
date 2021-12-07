@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Productivity | Tomoaki Yamada</title>
-    <link>https://tomoakiyamada.github.io/tag/productivity/</link>
-      <atom:link href="https://tomoakiyamada.github.io/tag/productivity/index.xml" rel="self" type="application/rss+xml" />
-    <description>Productivity</description>
+    <title>VS Code | Tomoaki Yamada</title>
+    <link>https://tomoakiyamada.github.io/tag/vs-code/</link>
+      <atom:link href="https://tomoakiyamada.github.io/tag/vs-code/index.xml" rel="self" type="application/rss+xml" />
+    <description>VS Code</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
-      <title>Productivity</title>
-      <link>https://tomoakiyamada.github.io/tag/productivity/</link>
+      <title>VS Code</title>
+      <link>https://tomoakiyamada.github.io/tag/vs-code/</link>
     </image>
     
     <item>
@@ -99,64 +99,6 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;VimとかEmacsを使いこなせると玄人っぽいけどハードルが高い&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>生産性を高める(かもしれない)アプリ</title>
-      <link>https://tomoakiyamada.github.io/post/4-tools/</link>
-      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/post/4-tools/</guid>
-      <description>&lt;h2 id=&#34;自分のpcスマホにインストール済みのアプリ&#34;&gt;自分のPC・スマホにインストール済みのアプリ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.notion.so/ja-jp/product&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Notion&lt;/strong&gt;&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Markdown形式で書けるノートブック📓みたいなかんじ
-&lt;ul&gt;
-&lt;li&gt;普段使いのメモからWeb上のメモまで自由度が高い&lt;/li&gt;
-&lt;li&gt;スマホとPCのどちらからもアクセス可能&lt;/li&gt;
-&lt;li&gt;そのまま公開も出来る&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Todoリストも作成可能：自由度が高すぎて使いにくいので自分は未使用&lt;/li&gt;
-&lt;li&gt;⬇のTrelloみたいなカード形式のタスク管理も可能&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://trello.com/ja/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Trello&lt;/strong&gt;&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;研究用のTodoリストとして使用
-&lt;ul&gt;
-&lt;li&gt;研究プロジェクトの細かいTodoは数が多すぎて、いわゆる普通のTodoアプリだと管理しにくいので&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;共同研究でもお互いにやるべきことをまとめるためのリストとして使いやすい&lt;/li&gt;
-&lt;li&gt;Notionでも同じような事が出来るのでそっちでも良いかも&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://slack.com/intl/ja-jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Slack&lt;/strong&gt;&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;おなじみのビジネスチャットツール&lt;/li&gt;
-&lt;li&gt;自分の場合、チャットのためというより思いつきを自分用のメモとして使用する感じ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.grammarly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Grammarly&lt;/strong&gt;&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Youtubeとかでやたらとお勧めしてくるのでインストールしてみた&lt;/li&gt;
-&lt;li&gt;100%これに従って良いのかわからない部分もあるけど、前置詞の使い方とかを修正してくれるのは非常にありがたい&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://evernote.com/intl/jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Evernote&lt;/strong&gt;&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;「第二の脳」&lt;/li&gt;
-&lt;li&gt;昔はこれ一択という位使っていたのですが、最近使用頻度が減りました
-&lt;ul&gt;
-&lt;li&gt;機能が追加されすぎて重くなったり不安定になったりしたので&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;⬆以外にGoogleのTodoリストやGoogle Keepをプライベートなどで使い分けています&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

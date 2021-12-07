@@ -5,12 +5,179 @@
     <link>https://tomoakiyamada.github.io/tag/blog/</link>
       <atom:link href="https://tomoakiyamada.github.io/tag/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
       <title>Blog</title>
       <link>https://tomoakiyamada.github.io/tag/blog/</link>
     </image>
+    
+    <item>
+      <title>論文・レポートを書く：学部生向け</title>
+      <link>https://tomoakiyamada.github.io/post/6-how-to-writing/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/6-how-to-writing/</guid>
+      <description>&lt;h2 id=&#34;論文レポートを書く&#34;&gt;論文・レポートを書く&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;卒論や長めのレポート、ISFJ論文といった論文を&lt;strong&gt;学部生&lt;/strong&gt;が書くための基本的な知識&lt;/li&gt;
+&lt;li&gt;大学卒業後も企画書や報告書を書く機会はきっとある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;まずはアウトラインを考える&#34;&gt;まずはアウトラインを考える&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;いきなり書き始めない&lt;/li&gt;
+&lt;li&gt;まずは&lt;strong&gt;アウトライン&lt;/strong&gt;を考える
+&lt;ul&gt;
+&lt;li&gt;章立て：目次をしっかりと練る&lt;/li&gt;
+&lt;li&gt;後で変わっても構わないけど、何も指針なしで書きはじめては駄目&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;「何が問題なのか?」「そのテーマは面白いのか?」を考える&lt;/li&gt;
+&lt;li&gt;論文であっても&lt;strong&gt;ストーリー&lt;/strong&gt;は大切&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;章立てのイメージ&#34;&gt;章立てのイメージ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;「何が問題なのか？」が定まってくると自然と次にやるべきことは見えてくる
+&lt;ul&gt;
+&lt;li&gt;必要なデータ&lt;/li&gt;
+&lt;li&gt;制度的な背景：現行の仕組みの問題点を指摘 etc.&lt;/li&gt;
+&lt;li&gt;説明に必要な理論モデル&lt;/li&gt;
+&lt;li&gt;場合によっては歴史を調べる
+&lt;ul&gt;
+&lt;li&gt;上記の制度的な背景と一緒に説明をするのもあり&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;書き方&#34;&gt;書き方&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;頭から書かない&lt;/li&gt;
+&lt;li&gt;例えば、よくある構成として、
+&lt;ol&gt;
+&lt;li&gt;イントロ&lt;/li&gt;
+&lt;li&gt;現状分析&lt;/li&gt;
+&lt;li&gt;歴史的背景&lt;/li&gt;
+&lt;li&gt;先行研究&lt;/li&gt;
+&lt;li&gt;分析：理論モデル・データ分析&lt;/li&gt;
+&lt;li&gt;結果&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;上の形に&lt;strong&gt;こだわる必要はない&lt;/strong&gt;！&lt;/li&gt;
+&lt;li&gt;イントロは&lt;strong&gt;最後&lt;/strong&gt;に書く&lt;/li&gt;
+&lt;li&gt;イントロの研究動機として個人の体験を書く人がいるけど、基本的に読み手はあなたの個人的な経験に関心はない
+&lt;ul&gt;
+&lt;li&gt;一般的な読者にとって面白い・ためになると思われる事を書く&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;乱読のススメ&#34;&gt;乱読のススメ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;本は頭から終わりまで全て読まないといけないわけではない&lt;/li&gt;
+&lt;li&gt;いろんな本の必要な箇所だけをつまみ読みすることも大事&lt;/li&gt;
+&lt;li&gt;お金がかかるので、大学や地域の図書館を活用する
+&lt;ul&gt;
+&lt;li&gt;ただし、大事な本は自分で買ったほうが良い&lt;/li&gt;
+&lt;li&gt;お金を出して本を購入=読むことをコミット
+&lt;ul&gt;
+&lt;li&gt;大学教授はその限りではない&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>テキストエディタ</title>
+      <link>https://tomoakiyamada.github.io/post/5-text-editor/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/5-text-editor/</guid>
+      <description>&lt;h2 id=&#34;テキストエディタをもっと使おう&#34;&gt;テキストエディタをもっと使おう&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;多くのテキストエディタはフリー(タダ)で使えて、機能も優れたものがいっぱいあります&lt;/li&gt;
+&lt;li&gt;大学生だと文章を書くのはWordという人が多いかもしれませんが、Wordは重たいので、ちょっとした文章はテキストエディタで書いたほうがよい場合もあります&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;何につかえる&#34;&gt;何につかえる?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt;や&lt;strong&gt;Markdown&lt;/strong&gt;を書くのに便利
+&lt;ul&gt;
+&lt;li&gt;LaTeXやMarkdownについてもいずれ書きます&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;プログラミングにも必要
+&lt;ul&gt;
+&lt;li&gt;Visual StudioやXcode、Eclipseみたいな巨大なIDEも使い方次第では便利だけど、素早く書くには不向き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;個人的なテキストエディタ履歴&#34;&gt;個人的なテキストエディタ履歴&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Windowsをメインで使っていた時期は&lt;a href=&#34;https://hide.maruo.co.jp/software/hidemaru.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;秀丸エディタ&lt;/a&gt;をよく使っていました&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;軽くて機能面は優秀&lt;/li&gt;
+&lt;li&gt;今でも現役で使っている人は多いのでしょうか??&lt;/li&gt;
+&lt;li&gt;アイコンやUIが美しくないのがちょっと&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;その後、&lt;a href=&#34;https://jp.emeditor.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EmEditor&lt;/a&gt;に移行&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;かなり前に使わなくなったので最近の使い勝手はわからない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Macメインになってからは&lt;a href=&#34;https://www.sublimetext.com/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sublime Text&lt;/a&gt;を長いこと愛用&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows版もあります&lt;/li&gt;
+&lt;li&gt;美しさ、使い勝手が本当に秀逸&lt;/li&gt;
+&lt;li&gt;軽いのも良い&lt;/li&gt;
+&lt;li&gt;まさに「恋に落ちるエディタ」&lt;/li&gt;
+&lt;li&gt;有料だけどお金を払う価値がある!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;https://atom.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atom&lt;/a&gt;にすこしだけ浮気&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;個人的な感想は無料版Sublime Text
+&lt;ul&gt;
+&lt;li&gt;ただ起動がSublime Textのほうがずっと早い&lt;/li&gt;
+&lt;li&gt;この点が致命的だったのでAtomに完全移行はせず&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;かつてはオープンソースで開発も盛んだった
+&lt;ul&gt;
+&lt;li&gt;Microsoftに買収されてからは開発が下火に&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;現在は&lt;a href=&#34;https://azure.microsoft.com/ja-jp/products/visual-studio-code/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual Studio Code&lt;/a&gt;一択&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows/Mac/Linuxいずれも可&lt;/li&gt;
+&lt;li&gt;Microsoft製にしては珍しく(本当に珍しい!)、動作が軽くてUIのデザインも良い&lt;/li&gt;
+&lt;li&gt;拡張可能性も非常に高い&lt;/li&gt;
+&lt;li&gt;ユーザーが多いので自分が必要としている情報を容易に見つけられる点も◎&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;少しだけ使ったけど長続きしなかったエディタ&#34;&gt;少しだけ使ったけど長続きしなかったエディタ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;mi&lt;/li&gt;
+&lt;li&gt;TextWrangler&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;とりあえずVS Codeを入れましょう
+&lt;ul&gt;
+&lt;li&gt;気になったのであればSublime Textでも決して損はしない&lt;/li&gt;
+&lt;li&gt;VS Codeの天下はいつまで続くのか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;VimとかEmacsを使いこなせると玄人っぽいけどハードルが高い&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>生産性を高める(かもしれない)アプリ</title>
