@@ -5,12 +5,182 @@
     <link>https://tomoakiyamada.github.io/tag/writing/</link>
       <atom:link href="https://tomoakiyamada.github.io/tag/writing/index.xml" rel="self" type="application/rss+xml" />
     <description>Writing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
       <title>Writing</title>
       <link>https://tomoakiyamada.github.io/tag/writing/</link>
     </image>
+    
+    <item>
+      <title>Markdownって知ってる？</title>
+      <link>https://tomoakiyamada.github.io/post/8-markdown/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/8-markdown/</guid>
+      <description>&lt;h2 id=&#34;ドキュメント作成&#34;&gt;ドキュメント作成&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;大学生のレポートの定番といったらWord
+&lt;ul&gt;
+&lt;li&gt;おそらく社会人も&lt;/li&gt;
+&lt;li&gt;長い文章をExcelで書くのはやめましょうよ..&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Wordは有料なのでGoogle Docを使う学生もわりといる
+&lt;ul&gt;
+&lt;li&gt;もちろん駄目ではないけどビジネスパーソンになるのであればWordの使い方を覚えておいたほうが良さそう&lt;/li&gt;
+&lt;li&gt;100%完全互換ではないのでWordと見栄えが微妙に違ったりする問題が発生するので要注意&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;こういったドキュメント作成用のソフトウェアは文章の中身と見栄え(フォントサイズ、太字、色 etc.)のすべてを自分で色々といじる事を前提としている&lt;/li&gt;
+&lt;li&gt;場合によってはフォーマットをきちんと揃えないといけない場合もあるけど、もっとシンプルに文章を書く事に集中したい場合も多々ある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;wordの苦手な所個人的意見&#34;&gt;Wordの苦手な所：個人的意見&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;前提&lt;/strong&gt;：Wordはビジネスパーソンになる多くの学生にとって必須スキルなので&lt;u&gt;絶対にある程度は使えたほうがよい&lt;/u&gt;&lt;/li&gt;
+&lt;li&gt;でも使っていてストレスが貯まる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;動作が重い&lt;/li&gt;
+&lt;li&gt;余計な事をする：勝手にインデントしないで&amp;hellip;&lt;/li&gt;
+&lt;li&gt;機能が多すぎてインターフェイスがゴチャゴチャ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;テキストファイル&#34;&gt;テキストファイル&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Wordが重い理由の一つは&lt;code&gt;.docs&lt;/code&gt;というファイル形式
+&lt;ul&gt;
+&lt;li&gt;文章の中身以外にもいろんな情報が入っていて動作が重くなる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;純粋に文章だけを保存したいのであればテキストファイル(拡張子が&lt;code&gt;.txt&lt;/code&gt;のファイル)が一番ラク&lt;/li&gt;
+&lt;li&gt;テキスト形式をファイルを編集するにはテキストエディタがあれば良い
+&lt;ul&gt;
+&lt;li&gt;でもWindowsにデフォルトで付いているメモ帳は流石に機能がなさすぎて実用的ではない&lt;/li&gt;
+&lt;li&gt;強調の太字とかも使えないし、長い文章を書くとみづらくなる&lt;/li&gt;
+&lt;li&gt;お勧めのテキストエディタについては↓のRelatedにリンクがあります&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;代替案&#34;&gt;代替案&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt;を使う&lt;/li&gt;
+&lt;li&gt;テキストファイルを&lt;code&gt;.txt&lt;/code&gt;ではなく&lt;code&gt;.md&lt;/code&gt;形式で保存をするとMarkdown形式になる&lt;/li&gt;
+&lt;li&gt;使い方：
+&lt;ul&gt;
+&lt;li&gt;文章の間に決められた記号を埋め込む&lt;/li&gt;
+&lt;li&gt;例えば、大見出しは#の後に書くとか、中見出しは##の後に書くといった感じ&lt;/li&gt;
+&lt;li&gt;アスタリスク2つで挟むと&lt;strong&gt;強調&lt;/strong&gt;になる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;いくつかのシンプルなルールを文章に埋め込む以外はテキストを自由に書いてOK&lt;/li&gt;
+&lt;li&gt;Markdown形式で書いていった文章をキレイに見るにはビューワーが必要
+&lt;ul&gt;
+&lt;li&gt;メジャーなテキストエディタなら対応しているはず&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;markdownの書き方&#34;&gt;Markdownの書き方&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;長くなるので割愛
+&lt;ul&gt;
+&lt;li&gt;参考：&lt;a href=&#34;https://www.markdown.jp/what-is-markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本語Markdownユーザー会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;他にもGoogle検索をすると初心者向けサイトがいっぱい見つかります&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;実はこのHPもMarkdown形式で記述して、Static Site Generatorという技術で変換しています
+&lt;ul&gt;
+&lt;li&gt;デザインはテンプレを流用していて文章書きに集中ができる!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;latex&#34;&gt;LaTeX&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;大学院生は論文を書く際はWordではなくLaTeXを使いましょう&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>絶対に覚えてほしいショートカット7選</title>
+      <link>https://tomoakiyamada.github.io/post/9-shortcut/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/9-shortcut/</guid>
+      <description>&lt;h2 id=&#34;最近の学生はpcを使えなくなっているらしい&#34;&gt;最近の学生はPCを使えなくなっているらしい&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スマホやタブレットが普及したせいでパソコン(Windows/Mac/Linux)を使えない若者が増えている
+&lt;ul&gt;
+&lt;li&gt;全然関係ないけど「Macはパソコン(PC)ではない」「Macをパソコン(PC)と呼ぶな」というこだわりの人はまだいるのかな？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;⬆は世界的な傾向らしい
+&lt;ul&gt;
+&lt;li&gt;海外の有名大学でもフォルダって何？レベルの学生がいるみたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;若い人のほうが新しい技術への適応力は高いはず&lt;/li&gt;
+&lt;li&gt;タブレットはパソコンより新しい技術だから、パソコンを使えるのはオジサンで若い人はタブレット派なのか??&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;今でもパソコンというかキーボードは必要&#34;&gt;今でもパソコン(というかキーボード)は必要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;タブレットは便利だし自分もかなり使っているけど、PCが不要にはならない
+&lt;ul&gt;
+&lt;li&gt;何十年後とかはわかりませんが&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;タブレットは出力結果を見て少しいじる位なら良いけど、やはりインプットは苦手
+&lt;ul&gt;
+&lt;li&gt;ショップの店員さんの仕事なら良いけど、長時間の文章書きには向いていない：生産性が落ちる&lt;/li&gt;
+&lt;li&gt;プログラミングやExcelでの作業などにも不向き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;なぜか？→画面をタップするための指の移動時間が作業効率を落とす
+&lt;ul&gt;
+&lt;li&gt;範囲指定とかにも滅茶苦茶時間がかかる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;マウスとキーボードを行ったり来たりするだけでも場合によっては時間のロス&lt;/li&gt;
+&lt;li&gt;理想的なのはできるだけキーボードのホームポジションから手を動かさないこと
+&lt;ul&gt;
+&lt;li&gt;書き忘れたけど前提としてブラインドタッチが出来ることを想定しています&lt;/li&gt;
+&lt;li&gt;ブラインドタッチは絶対に必要なので練習しましょう！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ショートカットキーって何&#34;&gt;ショートカットキーって何？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;コピペをする際、マウス(か手)で範囲指定をして、右クリックをしてコピーを選んで、任意の場所で貼り付けというのが煩わしい&lt;/li&gt;
+&lt;li&gt;範囲指定後に、&lt;code&gt;Controlキー+C&lt;/code&gt;(Macの場合、&lt;code&gt;Command+C&lt;/code&gt;)を押すとコピーしてくれる&lt;/li&gt;
+&lt;li&gt;ペーストは&lt;code&gt;Controlキー+V&lt;/code&gt;(Macの場合、&lt;code&gt;Command+V&lt;/code&gt;)
+&lt;ul&gt;
+&lt;li&gt;自分は無意識レベルで使っているので「何ボタンを押してたっけ」と左手を確認するくらい手が覚えてしまった！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;こういう組み合わせをショートカットキーと呼ぶ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;絶対に覚えておくべき組み合わせ&#34;&gt;絶対に覚えておくべき組み合わせ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ショートカットは山程あるので全部覚えるのは無理
+&lt;ul&gt;
+&lt;li&gt;自分も覚えていない&lt;/li&gt;
+&lt;li&gt;覚えることに労力を使いすぎたら結局生産性が落ちて本末転倒&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;何がなんでも覚えておくべきショートカット&lt;/strong&gt;は↓の7つ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;Controlキー+C&lt;/code&gt;(Macの場合、&lt;code&gt;Command+C&lt;/code&gt;)：コピー&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Controlキー+V&lt;/code&gt;(Macの場合、&lt;code&gt;Command+V&lt;/code&gt;)：ペースト&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Controlキー+X&lt;/code&gt;(Macの場合、&lt;code&gt;Command+X&lt;/code&gt;)：カット&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Controlキー+A&lt;/code&gt;(Macの場合、&lt;code&gt;Command+A&lt;/code&gt;)：全範囲を選択&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Controlキー+S&lt;/code&gt;(Macの場合、&lt;code&gt;Command+S&lt;/code&gt;)：保存&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Controlキー+F&lt;/code&gt;(Macの場合、&lt;code&gt;Command+F&lt;/code&gt;)：検索&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Controlキー+Z&lt;/code&gt;(Macの場合、&lt;code&gt;Command+Z&lt;/code&gt;)：一つ前の作業をなかった事にする(Undo)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;基本的に左手で出来るので、手で覚えると良い&lt;/li&gt;
+&lt;li&gt;学生はよくレポートが消えるので（「なぜか消えました」というよくわからない言い訳をしてくる）、ショートカットキーで頻繁に保存をする癖をつけましょう&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>論文・レポートを書く：学部生向け</title>

@@ -5,12 +5,129 @@
     <link>https://tomoakiyamada.github.io/tag/vs-code/</link>
       <atom:link href="https://tomoakiyamada.github.io/tag/vs-code/index.xml" rel="self" type="application/rss+xml" />
     <description>VS Code</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
       <title>VS Code</title>
       <link>https://tomoakiyamada.github.io/tag/vs-code/</link>
     </image>
+    
+    <item>
+      <title>Visual Studio Codeをインストールしよう</title>
+      <link>https://tomoakiyamada.github.io/post/7-vscode/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/7-vscode/</guid>
+      <description>&lt;h2 id=&#34;vs-code&#34;&gt;VS Code&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;前にも書いたけど⬇の特徴をもった優れたテキストエディタ!
+&lt;ul&gt;
+&lt;li&gt;Windows/Mac/Linuxいずれも可&lt;/li&gt;
+&lt;li&gt;Microsoft製にしては珍しく(本当に珍しい!)、動作が軽くてUIのデザインも良い&lt;/li&gt;
+&lt;li&gt;拡張可能性も非常に高い&lt;/li&gt;
+&lt;li&gt;ユーザーが多いので自分が必要としている情報を容易に見つけられる点も◎&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;文章を書くと聞いたらWordを思い浮かべる人が多いと思うけど、ちょっとした文章とかメモならテキストエディタの方が遥かに楽
+&lt;ul&gt;
+&lt;li&gt;Wordは開くだけで重いし、簡単な文章には不要な機能が多すぎ&lt;/li&gt;
+&lt;li&gt;ちょっとした文章→Twitterやブログに書き込む前の下書きとか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;当たり前だけどテキストエディタとして欲しい機能は一通り揃っている
+&lt;ul&gt;
+&lt;li&gt;各種ショートカット、スニペット&lt;/li&gt;
+&lt;li&gt;基本的なコマンドパレット方式で呼び出す&lt;/li&gt;
+&lt;li&gt;矩形選択&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;他にもいろいろな用途
+&lt;ul&gt;
+&lt;li&gt;Markdownエディタとして&lt;/li&gt;
+&lt;li&gt;Git/GitHubと一緒に使う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;カスタマイズvs-codeの特徴の一つ&#34;&gt;カスタマイズ：VS Codeの特徴の一つ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;いろいろな拡張機能を追加していくことで自分好みの使い勝手を追求出来る&lt;/li&gt;
+&lt;li&gt;エディタ自体の見た目(色とか)もカスタマイズ可能=テーマを選べる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;特にオススメの拡張機能extension&#34;&gt;特にオススメの拡張機能(Extension)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Better Comments&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;コードやLaTeX文章の中に書いたコメントを色分けをしてハイライトしてくれる機能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Todo Tree&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;同じくコメントにタグを付けることでハイライトしてくれる機能&lt;/li&gt;
+&lt;li&gt;例えば、&lt;code&gt;# TODO&lt;/code&gt;とすると検知してくれる&lt;/li&gt;
+&lt;li&gt;Better Commentsとどちらか一つで良い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indent Rainbow&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;インデントを目立つようにしてくれる機能&lt;/li&gt;
+&lt;li&gt;Pythonのようにインデントが重要な言語だと特に活躍&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Lens&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;VS CodeからGitを使う場合は必須レベル&lt;/li&gt;
+&lt;li&gt;コミットログなどを表示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git History&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Gitの履歴に関しては⬆か&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Graph&lt;/a&gt;のどちらかが定番&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Theme&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;お気に入りのThemeをダウンロードしてくれば見た目をいじることも可能&lt;/li&gt;
+&lt;li&gt;完全に個人の好みだけど自分はGitHubテーマが見やすくてお気に入り&lt;/li&gt;
+&lt;li&gt;MonokaiやDoraculaが人気らしい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown All in One&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdownについてはまた別に書く予定ですが、Markdown記法という書き方を覚えると、テキストエディタの軽さでちょっとした文章からそれなりに本格的な文章まで書くことが出来ます&lt;/li&gt;
+&lt;li&gt;できるだけWordみたいな重たいものを使いたくない!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marp for VS Code&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;MarpはMarkdown形式でスライドを作成するソフト&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;必要に応じてインストール&#34;&gt;必要に応じてインストール&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.julia-vscode.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;この文章を書いているタイミングでJuliaを使う際に一番使いやすいIDEはVS Codeだと思うので、Juliaを使うならほぼ必須レベル&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=ms-python.python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Microsoft謹製なのでVS Code+Pythonなら有無を言わさずこれを使うことになるかと思います&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;RはRStudioのほうが使いやすい気がするけど、VS Codeから使うことも可能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=kylebarron.stata-enhanced&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stata&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;シンタックスをハイライトしてくれるだけなので機能としては不十分&lt;/li&gt;
+&lt;li&gt;そもそもStataの付属エディタが機能的に脆弱な気がする&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>テキストエディタをもっと活用する</title>
