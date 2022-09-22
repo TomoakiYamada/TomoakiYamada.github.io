@@ -5,7 +5,7 @@
     <link>https://tomoakiyamada.github.io/</link>
       <atom:link href="https://tomoakiyamada.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tomoaki Yamada</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
       <title>Tomoaki Yamada</title>
@@ -295,6 +295,100 @@
 &lt;/ul&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;OpenCampus2016.pdf&#34;&gt;2016年度オープンキャンパス資料&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HDDの中身を整理する➔学部生向け</title>
+      <link>https://tomoakiyamada.github.io/post/11-clean-pc/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/11-clean-pc/</guid>
+      <description>&lt;h2 id=&#34;pcの中身を整理してください&#34;&gt;PCの中身を整理してください&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;学生に発表させようとすると「ファイルが見つからない」ことが多々ある&lt;/li&gt;
+&lt;li&gt;HDDの中身が整理されていないのが原因
+&lt;ul&gt;
+&lt;li&gt;USBメモリ内ですら散らかっている&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;なぜファイルが見つからないのか&#34;&gt;なぜファイルが見つからないのか?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;そもそも自分が普段どこで作業しているのかがわからない&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;mark&gt;ファイルを置く場所&lt;/mark&gt;を一つに定めましょう&lt;/li&gt;
+&lt;li&gt;可能性が高いのはドキュメントかデスクトップ
+&lt;ul&gt;
+&lt;li&gt;個人的にはデスクトップに置くのは散らかりやすいと思う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;どちらでも良いので、普段はどこに置くのかをきちんと定める
+&lt;ul&gt;
+&lt;li&gt;明確な理由があって使い分けるのはOK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;⬆を理解するためにはWindows/Macのフォルダ構造を把握する必要あり&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;例えば、ダウンロードしたファイルはデフォルトでどこに置かれますか？
+&lt;ul&gt;
+&lt;li&gt;ブラウザで設定できます&lt;/li&gt;
+&lt;li&gt;ダウンロード後に使わなくなったファイルは消しましょう
+&lt;ul&gt;
+&lt;li&gt;ダウンロードという名称のフォルダに大量にゴミファイルが溜まっている人がいます&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;全部をドキュメントに並べるのではなく&lt;mark&gt;フォルダ&lt;/mark&gt;を使って整理
+&lt;ul&gt;
+&lt;li&gt;授業名とか内容とか&lt;/li&gt;
+&lt;li&gt;たまにスクリーンに全部のファイルが映されてプライベートが丸見えの人もちらほら（本人が気にしないならよいですが&amp;hellip;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;ファイルを保存する際に何も確認しないでリターン(エンター)キーを押さない&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;そのファイルはどこに保存されますか?
+&lt;ul&gt;
+&lt;li&gt;毎回変えるのが面倒であればデフォルトで保存する先を設定&lt;/li&gt;
+&lt;li&gt;やり方➔Google&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;⬆で保存したファイルの名前はなんですか？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;適当に名前をつけると見つからなくなる&lt;/li&gt;
+&lt;li&gt;同じ名前で保存しようとすると自動で(1)とか(2)みたいなのがつけられるがこれを放置するのは良くない
+&lt;ul&gt;
+&lt;li&gt;大量に&amp;quot;ファイル名(2)(3).docs&amp;quot;みたいなファイルが並んでいるとどれが最新版なのかわからなくなる&lt;/li&gt;
+&lt;li&gt;バージョン管理ツールを使うのが望ましいけど、ハードルが高いので、とりあえず日付とか&amp;quot;_version1&amp;quot;みたいにして最低限自分がわかるようにネーミング&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;拡張子を変えたり消したりしない&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;拡張子って何？
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;ファイル名.xlsx&amp;quot;の.xlxs部分の事&lt;/li&gt;
+&lt;li&gt;ここを消すとファイルの識別ができなくて開かなくなる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;わからないならそのままで良いのですがなぜか消す人がたまにいます
+&lt;ul&gt;
+&lt;li&gt;拡張子がない状態でレポート提出をされても開けません！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
