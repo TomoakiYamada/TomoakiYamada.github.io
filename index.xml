@@ -5,7 +5,7 @@
     <link>https://tomoakiyamada.github.io/</link>
       <atom:link href="https://tomoakiyamada.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tomoaki Yamada</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
       <title>Tomoaki Yamada</title>
@@ -58,26 +58,9 @@
     </item>
     
     <item>
-      <title>日本経済</title>
-      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</link>
-      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</guid>
-      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;戦後日本経済の歩みを簡潔に振り返ります。&lt;/li&gt;
-&lt;li&gt;高度経済成長、バブル崩壊、銀行危機、リーマンショック等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_JapaneseEconomy.pdf&#34;&gt;日本経済の概観&lt;/a&gt;：時間の都合から割愛しました。添付スライドは前年のもの&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>経済成長</title>
       <link>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</link>
-      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
@@ -89,14 +72,15 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;豊かな国、貧しい国と成長会計 (To be uploaded)&lt;/li&gt;
-&lt;li&gt;新古典派経済成長理論 (To be uploaded)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;EconomicPolicyB_Growth1.pdf&#34;&gt;豊かな国、貧しい国と成長会計&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;EconomicPolicyB_Growth2.pdf&#34;&gt;新古典派経済成長理論&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;経済政策の役割 (To be uploaded)&lt;/li&gt;
 &lt;li&gt;経済発展と制度 (To be uploaded)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;講義トピックに関連したお勧めの本&#34;&gt;講義トピックに関連したお勧めの本&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;ダロン・アセモグル/ジェイムズ・ロビンソン (2013)『なぜ国家は衰退するのか 上・下』早川書房&lt;/li&gt;
+&lt;li&gt;オデッド・ガロー (2022)『格差の起源』NHK出版&lt;/li&gt;
 &lt;li&gt;デヴィッド・ウォルシュ (2020)『ポール・ローマーと経済成長の謎』日経BP&lt;/li&gt;
 &lt;li&gt;ロバート・ゴードン (2018)『アメリカ経済 成長の終焉』日経BP&lt;/li&gt;
 &lt;li&gt;ジェフリー・サックス (2006)『貧困の終焉』早川書房&lt;/li&gt;
@@ -115,6 +99,23 @@
 &lt;li&gt;&lt;a href=&#34;https://www.oecd.org/tokyo/statistics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OECD Stat&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.rug.nl/ggdc/historicaldevelopment/maddison/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maddison Historical Statistics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.rug.nl/ggdc/productivity/pwt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Penn World Table&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>日本経済</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;戦後日本経済の歩みを簡潔に振り返ります。&lt;/li&gt;
+&lt;li&gt;高度経済成長、バブル崩壊、銀行危機、リーマンショック等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_JapaneseEconomy.pdf&#34;&gt;日本経済の概観&lt;/a&gt;：時間の都合から割愛しました。添付スライドは前年のもの&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
