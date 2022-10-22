@@ -59,24 +59,8 @@
     <loc>https://tomoakiyamada.github.io/courses/misc/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/</loc>
-    <lastmod>2022-10-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tomoakiyamada.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomoakiyamada.github.io/"
-                />
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/</loc>
-    <lastmod>2022-10-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tomoakiyamada.github.io/authors/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -89,16 +73,16 @@
                 />
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/blog/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/post/11-clean-pc/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <loc>https://tomoakiyamada.github.io/tag/markdown/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/productivity/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -110,8 +94,21 @@
                 href="https://tomoakiyamada.github.io/tags/"
                 />
   </url><url>
+    <loc>https://tomoakiyamada.github.io/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tomoakiyamada.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tomoakiyamada.github.io/"
+                />
+  </url><url>
     <loc>https://tomoakiyamada.github.io/authors/admin/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -123,7 +120,19 @@
                 href="https://tomoakiyamada.github.io/authors/admin/"
                 />
   </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/writing/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tomoakiyamada.github.io/post/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/post/12-macbook/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/courses/</loc>
+    <lastmod>2022-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/post/11-clean-pc/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/post/10-tech-book/</loc>
@@ -135,13 +144,7 @@
     <loc>https://tomoakiyamada.github.io/tag/vs-code/</loc>
     <lastmod>2022-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/markdown/</loc>
-    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tomoakiyamada.github.io/post/8-markdown/</loc>
-    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/writing/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/post/9-shortcut/</loc>
