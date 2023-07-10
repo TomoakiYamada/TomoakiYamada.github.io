@@ -5,12 +5,24 @@
     <link>https://tomoakiyamada.github.io/tag/blog/</link>
       <atom:link href="https://tomoakiyamada.github.io/tag/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
       <title>Blog</title>
       <link>https://tomoakiyamada.github.io/tag/blog/</link>
     </image>
+    
+    <item>
+      <title>アイコンを変更</title>
+      <link>https://tomoakiyamada.github.io/post/13-icon/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/post/13-icon/</guid>
+      <description>&lt;h2 id=&#34;hpのメインアイコンを変更&#34;&gt;HPのメインアイコンを変更&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://flat-icon-design.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FLAT ICON DESIGN&lt;/a&gt;さんのアイコンを利用させていただきました。感謝！ちなみにファミコンの&lt;a href=&#34;http://flat-icon-design.com/?p=575&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ツーコン&lt;/a&gt;と迷いました。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>備忘録：MacBook Airに引っ越し</title>
