@@ -63,12 +63,12 @@
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
+                hreflang="ja-jp"
                 href="https://tomoakiyamada.github.io/ja/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomoakiyamada.github.io/authors/"
                 />
   </url><url>
@@ -79,12 +79,12 @@
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
+                hreflang="ja-jp"
                 href="https://tomoakiyamada.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomoakiyamada.github.io/tags/"
                 />
   </url><url>
@@ -92,12 +92,12 @@
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
+                hreflang="ja-jp"
                 href="https://tomoakiyamada.github.io/ja/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomoakiyamada.github.io/"
                 />
   </url><url>
@@ -105,12 +105,12 @@
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
+                hreflang="ja-jp"
                 href="https://tomoakiyamada.github.io/ja/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomoakiyamada.github.io/authors/admin/"
                 />
   </url><url>
@@ -232,12 +232,12 @@
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
+                hreflang="ja-jp"
                 href="https://tomoakiyamada.github.io/ja/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomoakiyamada.github.io/publication_types/"
                 />
   </url><url>
@@ -448,24 +448,24 @@
     <loc>https://tomoakiyamada.github.io/admin/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
+                hreflang="ja-jp"
                 href="https://tomoakiyamada.github.io/ja/admin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomoakiyamada.github.io/admin/"
                 />
   </url><url>
     <loc>https://tomoakiyamada.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
+                hreflang="ja-jp"
                 href="https://tomoakiyamada.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomoakiyamada.github.io/categories/"
                 />
   </url>
