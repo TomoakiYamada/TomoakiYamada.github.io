@@ -5,7 +5,7 @@
     <link>https://tomoakiyamada.github.io/</link>
       <atom:link href="https://tomoakiyamada.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tomoaki Yamada</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
       <title>Tomoaki Yamada</title>
@@ -58,26 +58,9 @@
     </item>
     
     <item>
-      <title>日本経済</title>
-      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</guid>
-      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;戦後日本経済の歩みを簡潔に振り返ります。&lt;/li&gt;
-&lt;li&gt;高度経済成長、バブル崩壊、銀行危機、リーマンショック等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_JapaneseEconomy.pdf&#34;&gt;日本経済の概観&lt;/a&gt;：昨年度は時間の都合から割愛しました。添付スライドは2021年のものです。時間の都合から2023年度も割愛する可能性があります。そのものズバリの&lt;strong&gt;日本経済論A・B&lt;/strong&gt;という授業があるので、そちらの受講を強くお勧めします。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>経済成長</title>
       <link>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
@@ -89,10 +72,10 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyB_Growth1.pdf&#34;&gt;豊かな国、貧しい国と成長会計&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyB_Growth2.pdf&#34;&gt;新古典派経済成長理論&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyB_Growth3.pdf&#34;&gt;経済政策の役割&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyB_Growth4.pdf&#34;&gt;経済発展と制度&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;豊かな国、貧しい国と成長会計 (To be uploaded)&lt;/li&gt;
+&lt;li&gt;新古典派経済成長理論 (To be uploaded)&lt;/li&gt;
+&lt;li&gt;経済政策の役割 (To be uploaded)&lt;/li&gt;
+&lt;li&gt;経済発展と制度 (To be uploaded)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;講義トピックに関連したお勧めの本&#34;&gt;講義トピックに関連したお勧めの本&lt;/h2&gt;
 &lt;ul&gt;
@@ -121,6 +104,23 @@
     </item>
     
     <item>
+      <title>日本経済</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;戦後日本経済の歩みを簡潔に振り返ります。&lt;/li&gt;
+&lt;li&gt;高度経済成長、バブル崩壊、銀行危機、リーマンショック等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_JapaneseEconomy.pdf&#34;&gt;日本経済の概観&lt;/a&gt;：昨年度は時間の都合から割愛しました。添付スライドは2021年のものです。時間の都合から2023年度も割愛する可能性があります。そのものズバリの&lt;strong&gt;日本経済論A・B&lt;/strong&gt;という授業があるので、そちらの受講を強くお勧めします。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>商学入門</title>
       <link>https://tomoakiyamada.github.io/courses/misc/commerce/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
@@ -135,6 +135,41 @@
 &lt;li&gt;&lt;a href=&#34;Commerce2012_Handout.pdf&#34;&gt;2012年度講義スライド&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;Commerce2011_Handout.pdf&#34;&gt;2011年度講義スライド&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;Commerce2010_Handout.pdf&#34;&gt;2010年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>少子高齢化と社会保障制度</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_b/population/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/population/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日本が直面する少子高齢化の実態をデータから把握する。&lt;/li&gt;
+&lt;li&gt;社会保障制度(公的年金制度、健康保険制度、介護保険制度)について理解する。&lt;/li&gt;
+&lt;li&gt;家族の経済学：子育て、出産、教育などについてもカバー予定。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;少子高齢化 (To be uploaded)&lt;/li&gt;
+&lt;li&gt;公的年金・医療保険・介護保険 (To be uploaded)&lt;/li&gt;
+&lt;li&gt;世代重複モデル (To be uploaded)&lt;/li&gt;
+&lt;li&gt;公債 (To be uploaded)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;講義トピックに関連したお勧めの本&#34;&gt;講義トピックに関連したお勧めの本&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;小塩隆士 (2021)『日本人の健康を社会科学で考える』日本経済新聞出版&lt;/li&gt;
+&lt;li&gt;酒井正 (2020)『日本のセーフティーネット格差』慶應義塾大学出版会&lt;/li&gt;
+&lt;li&gt;山口慎太郎 (2019)『「家族の幸せ」の経済学 データ分析でわかった結婚、出産、子育ての真実』光文社新書&lt;/li&gt;
+&lt;li&gt;山口慎太郎 (2021)『子育て支援の経済学』日本評論社&lt;/li&gt;
+&lt;li&gt;マティアス・ドゥプケ/ファブリツィオ・ジリボッティ (2020)『子育ての経済学』慶應義塾大学出版会&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stat.go.jp/data/kakei/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;家計調査&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stat.go.jp/data/zensho/2014/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全国消費実態調査 (平成26年度)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ipss.go.jp/syoushika/tohkei/Mainmenu.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本の将来推計人口&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -161,41 +196,6 @@
     </item>
     
     <item>
-      <title>少子高齢化と社会保障制度</title>
-      <link>https://tomoakiyamada.github.io/courses/economic_policy_b/population/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/population/</guid>
-      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;日本が直面する少子高齢化の実態をデータから把握する。&lt;/li&gt;
-&lt;li&gt;社会保障制度(公的年金制度、健康保険制度、介護保険制度)について理解する。&lt;/li&gt;
-&lt;li&gt;家族の経済学：子育て、出産、教育などについてもカバー予定。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyB_Demography1.pdf&#34;&gt;少子高齢化&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyB_Demography2.pdf&#34;&gt;公的年金・医療保険・介護保険&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;世代重複モデル (To be uploaded)&lt;/li&gt;
-&lt;li&gt;公債 (To be uploaded)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;講義トピックに関連したお勧めの本&#34;&gt;講義トピックに関連したお勧めの本&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;小塩隆士 (2021)『日本人の健康を社会科学で考える』日本経済新聞出版&lt;/li&gt;
-&lt;li&gt;酒井正 (2020)『日本のセーフティーネット格差』慶應義塾大学出版会&lt;/li&gt;
-&lt;li&gt;山口慎太郎 (2019)『「家族の幸せ」の経済学 データ分析でわかった結婚、出産、子育ての真実』光文社新書&lt;/li&gt;
-&lt;li&gt;山口慎太郎 (2021)『子育て支援の経済学』日本評論社&lt;/li&gt;
-&lt;li&gt;マティアス・ドゥプケ/ファブリツィオ・ジリボッティ (2020)『子育ての経済学』慶應義塾大学出版会&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.stat.go.jp/data/kakei/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;家計調査&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.stat.go.jp/data/zensho/2014/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全国消費実態調査 (平成26年度)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ipss.go.jp/syoushika/tohkei/Mainmenu.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本の将来推計人口&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>商学研究入門</title>
       <link>https://tomoakiyamada.github.io/courses/misc/advanced_commerce/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
@@ -216,31 +216,9 @@
     </item>
     
     <item>
-      <title>総需要・総供給分析</title>
-      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/ad_as/</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/ad_as/</guid>
-      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;物価が一定であるという仮定を緩めます：&lt;strong&gt;中期&lt;/strong&gt;のマクロ経済。&lt;/li&gt;
-&lt;li&gt;IS-LMモデルから総需要曲線を導出します。&lt;/li&gt;
-&lt;li&gt;フィリップス曲線に基づいて総供給曲線を導出します。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_ADAS.pdf&#34;&gt;AD-AS分析&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fernandez-Villaverde&amp;rsquo;s &lt;a href=&#34;https://www.sas.upenn.edu/~jesusfv/macro_jfv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Note on Macro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>経済格差</title>
       <link>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</link>
-      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
@@ -265,6 +243,28 @@
 &lt;li&gt;&lt;a href=&#34;https://ec.europa.eu/eurostat/web/microdata/european-union-statistics-on-income-and-living-conditions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EU-SILC&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/wvs.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Values Survey&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://piketty.pse.ens.fr/en/capital21c2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Capital in the 21st Century&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>総需要・総供給分析</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/ad_as/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/ad_as/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;物価が一定であるという仮定を緩めます：&lt;strong&gt;中期&lt;/strong&gt;のマクロ経済。&lt;/li&gt;
+&lt;li&gt;IS-LMモデルから総需要曲線を導出します。&lt;/li&gt;
+&lt;li&gt;フィリップス曲線に基づいて総供給曲線を導出します。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_ADAS.pdf&#34;&gt;AD-AS分析&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fernandez-Villaverde&amp;rsquo;s &lt;a href=&#34;https://www.sas.upenn.edu/~jesusfv/macro_jfv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Note on Macro&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -296,6 +296,18 @@
 &lt;/ul&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;OpenCampus2016.pdf&#34;&gt;2016年度オープンキャンパス資料&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demographic Aging, Fiscal Reforms and Macroeconomy in Japan</title>
+      <link>https://tomoakiyamada.github.io/project/yamada_2023/</link>
+      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/yamada_2023/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Presented at the ESRI International Conference 2023.&lt;/li&gt;
+&lt;li&gt;Under revision.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
