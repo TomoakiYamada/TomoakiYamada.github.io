@@ -11,10 +11,10 @@
     <loc>https://tomoakiyamada.github.io/courses/misc/essentials_of_commerce/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/macroeconomics/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</loc>
+    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/courses/macroeconomics/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</loc>
@@ -36,7 +36,7 @@
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
@@ -58,6 +58,22 @@
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/misc/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/</loc>
+    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-jp"
+                href="https://tomoakiyamada.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tomoakiyamada.github.io/"
+                />
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/courses/</loc>
+    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/authors/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
@@ -94,19 +110,6 @@
                 href="https://tomoakiyamada.github.io/tags/"
                 />
   </url><url>
-    <loc>https://tomoakiyamada.github.io/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-jp"
-                href="https://tomoakiyamada.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://tomoakiyamada.github.io/"
-                />
-  </url><url>
     <loc>https://tomoakiyamada.github.io/authors/admin/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -122,9 +125,6 @@
   </url><url>
     <loc>https://tomoakiyamada.github.io/post/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/demographic-aging/</loc>
     <lastmod>2023-09-16T00:00:00+00:00</lastmod>
