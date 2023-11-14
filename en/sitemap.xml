@@ -11,11 +11,11 @@
     <loc>https://tomoakiyamada.github.io/courses/misc/essentials_of_commerce/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tomoakiyamada.github.io/courses/macroeconomics/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</loc>
     <lastmod>2023-04-07T00:00:00+00:00</lastmod>
@@ -36,7 +36,7 @@
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
@@ -60,31 +60,31 @@
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/</loc>
-    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="https://tomoakiyamada.github.io/ja/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://tomoakiyamada.github.io/"
                 />
   </url><url>
     <loc>https://tomoakiyamada.github.io/courses/</loc>
-    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomoakiyamada.github.io/authors/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="https://tomoakiyamada.github.io/ja/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://tomoakiyamada.github.io/authors/"
                 />
   </url><url>
@@ -101,12 +101,12 @@
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="https://tomoakiyamada.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://tomoakiyamada.github.io/tags/"
                 />
   </url><url>
@@ -114,12 +114,12 @@
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="https://tomoakiyamada.github.io/ja/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://tomoakiyamada.github.io/authors/admin/"
                 />
   </url><url>
@@ -244,12 +244,12 @@
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="https://tomoakiyamada.github.io/ja/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://tomoakiyamada.github.io/publication_types/"
                 />
   </url><url>
@@ -460,24 +460,24 @@
     <loc>https://tomoakiyamada.github.io/admin/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="https://tomoakiyamada.github.io/ja/admin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://tomoakiyamada.github.io/admin/"
                 />
   </url><url>
     <loc>https://tomoakiyamada.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-jp"
+                hreflang="ja"
                 href="https://tomoakiyamada.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="https://tomoakiyamada.github.io/categories/"
                 />
   </url>
