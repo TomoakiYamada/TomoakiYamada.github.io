@@ -5,7 +5,7 @@
     <link>https://tomoakiyamada.github.io/</link>
       <atom:link href="https://tomoakiyamada.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tomoaki Yamada</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
       <title>Tomoaki Yamada</title>
@@ -58,6 +58,23 @@
     </item>
     
     <item>
+      <title>日本経済</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;戦後日本経済の歩みを簡潔に振り返ります。&lt;/li&gt;
+&lt;li&gt;高度経済成長、バブル崩壊、銀行危機、リーマンショック等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_JapaneseEconomy.pdf&#34;&gt;日本経済の概観&lt;/a&gt;：昨年度は時間の都合から割愛しました。添付スライドは2021年のものです。時間の都合から2024年度も割愛する可能性があります。そのものズバリの&lt;strong&gt;日本経済論A・B&lt;/strong&gt;という授業があるので、そちらの受講を強くお勧めします。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>経済成長</title>
       <link>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
@@ -104,23 +121,6 @@
     </item>
     
     <item>
-      <title>日本経済</title>
-      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</guid>
-      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;戦後日本経済の歩みを簡潔に振り返ります。&lt;/li&gt;
-&lt;li&gt;高度経済成長、バブル崩壊、銀行危機、リーマンショック等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_JapaneseEconomy.pdf&#34;&gt;日本経済の概観&lt;/a&gt;：昨年度は時間の都合から割愛しました。添付スライドは2021年のものです。時間の都合から2023年度も割愛する可能性があります。そのものズバリの&lt;strong&gt;日本経済論A・B&lt;/strong&gt;という授業があるので、そちらの受講を強くお勧めします。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>商学入門</title>
       <link>https://tomoakiyamada.github.io/courses/misc/commerce/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
@@ -135,6 +135,27 @@
 &lt;li&gt;&lt;a href=&#34;Commerce2012_Handout.pdf&#34;&gt;2012年度講義スライド&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;Commerce2011_Handout.pdf&#34;&gt;2011年度講義スライド&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;Commerce2010_Handout.pdf&#34;&gt;2010年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IS-LMモデル</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/is_lm/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/is_lm/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;物価が一定であると仮定した状況を&lt;strong&gt;短期&lt;/strong&gt;のマクロ経済と呼びます。&lt;/li&gt;
+&lt;li&gt;ここでは短期のマクロ経済における財政・金融政策の有効性について議論をします。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IS-LMモデル：近日公開&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IS-MP Model by &lt;a href=&#34;https://eml.berkeley.edu/~dromer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Romer&lt;/a&gt;: &lt;a href=&#34;https://eml.berkeley.edu/~dromer/papers/Romer%20Short-Run%20Fluctuations%20January2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Short-Run Fluctuations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -179,27 +200,6 @@
     </item>
     
     <item>
-      <title>IS-LMモデル</title>
-      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/is_lm/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/is_lm/</guid>
-      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;物価が一定であると仮定した状況を&lt;strong&gt;短期&lt;/strong&gt;のマクロ経済と呼びます。&lt;/li&gt;
-&lt;li&gt;ここでは短期のマクロ経済における財政・金融政策の有効性について議論をします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_ISLM.pdf&#34;&gt;IS-LMモデル&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;IS-MP Model by &lt;a href=&#34;https://eml.berkeley.edu/~dromer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Romer&lt;/a&gt;: &lt;a href=&#34;https://eml.berkeley.edu/~dromer/papers/Romer%20Short-Run%20Fluctuations%20January2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Short-Run Fluctuations&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>商学研究入門</title>
       <link>https://tomoakiyamada.github.io/courses/misc/advanced_commerce/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
@@ -215,6 +215,28 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;AdvancedCommerce2014.pdf&#34;&gt;2014年度講義スライド&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;AdvancedCommerce2012.pdf&#34;&gt;2012年度講義スライド&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>総需要・総供給分析</title>
+      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/ad_as/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/ad_as/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;物価が一定であるという仮定を緩めます：&lt;strong&gt;中期&lt;/strong&gt;のマクロ経済。&lt;/li&gt;
+&lt;li&gt;IS-LMモデルから総需要曲線を導出します。&lt;/li&gt;
+&lt;li&gt;フィリップス曲線に基づいて総供給曲線を導出します。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AD-AS分析：近日公開&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fernandez-Villaverde&amp;rsquo;s &lt;a href=&#34;https://www.sas.upenn.edu/~jesusfv/macro_jfv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Note on Macro&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -252,28 +274,6 @@
     </item>
     
     <item>
-      <title>総需要・総供給分析</title>
-      <link>https://tomoakiyamada.github.io/courses/economic_policy_a/ad_as/</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/courses/economic_policy_a/ad_as/</guid>
-      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;物価が一定であるという仮定を緩めます：&lt;strong&gt;中期&lt;/strong&gt;のマクロ経済。&lt;/li&gt;
-&lt;li&gt;IS-LMモデルから総需要曲線を導出します。&lt;/li&gt;
-&lt;li&gt;フィリップス曲線に基づいて総供給曲線を導出します。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_ADAS.pdf&#34;&gt;AD-AS分析&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fernandez-Villaverde&amp;rsquo;s &lt;a href=&#34;https://www.sas.upenn.edu/~jesusfv/macro_jfv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Note on Macro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>高大連携講座@明治高校</title>
       <link>https://tomoakiyamada.github.io/courses/misc/meiji_high_school/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
@@ -301,6 +301,15 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;OpenCampus2016.pdf&#34;&gt;2016年度オープンキャンパス資料&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inequality Dynamics in Japan, 1981-2021</title>
+      <link>https://tomoakiyamada.github.io/project/kitao_yamada_esri_2024/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/kitao_yamada_esri_2024/</guid>
+      <description>&lt;p&gt;This paper examines the path of economic inequality in Japan spanning four decades (1981-2021) using the Family Income and Expenditure Survey. Over this period, inequality in earnings, disposable income, and consumption has widened. Earnings inequality, measured by the Gini coefficient, exhibited a non-linear in- crease from 0.24 to 0.29, with a significant rise in the 1980s and early 2000s. Conversely, disposable income showed a modest downward trend since the mid- 2010s. Despite this, consumption inequality continued to rise moderately, indicat- ing a divergence in the dynamics of disposable income and consumption inequality. Analysis from a life cycle perspective confirms the different shapes of age profiles for income and consumption inequality. Our findings also highlight substantial variations in age-specific inequality across different consumption items.&lt;/p&gt;
 </description>
     </item>
     
@@ -491,7 +500,7 @@
       <link>https://tomoakiyamada.github.io/project/kitao_yamada_rieti_2023/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/project/kitao_yamada_rieti_2023/</guid>
-      <description>&lt;p&gt;This paper analyzes the time trend of household consumption in Japan be- tween 1981 and 2020, using microdata from the Family Income and Expenditure Survey (FIES). We examine how the trends in the levels, shares, and growth of consumption vary across categories of consumption, items and age groups, and assess changes in consumption inequality over time. Our analysis shows that con- sumption inequality mildly increased, driven primarily by the trend of service con- sumption. Additionally, we estimate the life-cycle profiles of consumption and find that the age component of total consumption follows a standard hump-shaped pat- tern, but varies significantly across goods and service categories and item groups. Finally, using the estimated age profiles of different consumption items, we project how aggregate consumption and its composition may evolve as Japan’s population ages in the coming decades.&lt;/p&gt;
+      <description>&lt;p&gt;This paper analyzes the time trend of household consumption in Japan between 1981 and 2020, using microdata from the Family Income and Expenditure Survey (FIES). We examine how the trends in the levels, shares, and growth of consumption vary across categories of consumption, items and age groups, and assess changes in consumption inequality over time. Our analysis shows that consumption inequality mildly increased, driven primarily by the trend of service consumption. Additionally, we estimate the life-cycle profiles of consumption and find that the age component of total consumption follows a standard hump-shaped pattern, but varies significantly across goods and service categories and item groups. Finally, using the estimated age profiles of different consumption items, we project how aggregate consumption and its composition may evolve as Japan’s population ages in the coming decades.&lt;/p&gt;
 </description>
     </item>
     
