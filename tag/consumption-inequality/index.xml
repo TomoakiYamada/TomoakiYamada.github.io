@@ -5,7 +5,7 @@
     <link>https://tomoakiyamada.github.io/tag/consumption-inequality/</link>
       <atom:link href="https://tomoakiyamada.github.io/tag/consumption-inequality/index.xml" rel="self" type="application/rss+xml" />
     <description>Consumption Inequality</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
       <title>Consumption Inequality</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Inequality Dynamics in Japan, 1981-2021</title>
       <link>https://tomoakiyamada.github.io/project/kitao_yamada_esri_2024/</link>
-      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/project/kitao_yamada_esri_2024/</guid>
       <description>&lt;p&gt;This paper examines the path of economic inequality in Japan spanning four decades (1981-2021) using the Family Income and Expenditure Survey. Over this period, inequality in earnings, disposable income, and consumption has widened. Earnings inequality, measured by the Gini coefficient, exhibited a non-linear in- crease from 0.24 to 0.29, with a significant rise in the 1980s and early 2000s. Conversely, disposable income showed a modest downward trend since the mid- 2010s. Despite this, consumption inequality continued to rise moderately, indicat- ing a divergence in the dynamics of disposable income and consumption inequality. Analysis from a life cycle perspective confirms the different shapes of age profiles for income and consumption inequality. Our findings also highlight substantial variations in age-specific inequality across different consumption items.&lt;/p&gt;
 </description>
@@ -23,9 +23,9 @@
     
     <item>
       <title>The Time Trend and Life-cycle Profiles of Consumption</title>
-      <link>https://tomoakiyamada.github.io/project/kitao_yamada_rieti_2023/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/project/kitao_yamada_rieti_2023/</guid>
+      <link>https://tomoakiyamada.github.io/publication/kitao_yamada_reho_2024/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/kitao_yamada_reho_2024/</guid>
       <description>&lt;p&gt;This paper analyzes the time trend of household consumption in Japan between 1981 and 2020, using microdata from the Family Income and Expenditure Survey (FIES). We examine how the trends in the levels, shares, and growth of consumption vary across categories of consumption, items and age groups, and assess changes in consumption inequality over time. Our analysis shows that consumption inequality mildly increased, driven primarily by the trend of service consumption. Additionally, we estimate the life-cycle profiles of consumption and find that the age component of total consumption follows a standard hump-shaped pattern, but varies significantly across goods and service categories and item groups. Finally, using the estimated age profiles of different consumption items, we project how aggregate consumption and its composition may evolve as Japan’s population ages in the coming decades.&lt;/p&gt;
 </description>
     </item>

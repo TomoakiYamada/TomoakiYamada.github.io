@@ -5,12 +5,21 @@
     <link>https://tomoakiyamada.github.io/publication/</link>
       <atom:link href="https://tomoakiyamada.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
       <title>Publications</title>
       <link>https://tomoakiyamada.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>The Time Trend and Life-cycle Profiles of Consumption</title>
+      <link>https://tomoakiyamada.github.io/publication/kitao_yamada_reho_2024/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/publication/kitao_yamada_reho_2024/</guid>
+      <description>&lt;p&gt;This paper analyzes the time trend of household consumption in Japan between 1981 and 2020, using microdata from the Family Income and Expenditure Survey (FIES). We examine how the trends in the levels, shares, and growth of consumption vary across categories of consumption, items and age groups, and assess changes in consumption inequality over time. Our analysis shows that consumption inequality mildly increased, driven primarily by the trend of service consumption. Additionally, we estimate the life-cycle profiles of consumption and find that the age component of total consumption follows a standard hump-shaped pattern, but varies significantly across goods and service categories and item groups. Finally, using the estimated age profiles of different consumption items, we project how aggregate consumption and its composition may evolve as Japan’s population ages in the coming decades.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Foreign Workers, Skill Premium and Fiscal Sustainability in Japan</title>
