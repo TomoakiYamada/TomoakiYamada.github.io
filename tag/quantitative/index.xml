@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantitative | Tomoaki Yamada</title>
+    <link>https://tomoakiyamada.github.io/tag/quantitative/</link>
+      <atom:link href="https://tomoakiyamada.github.io/tag/quantitative/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantitative</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomoakiyamada.github.io/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png</url>
+      <title>Quantitative</title>
+      <link>https://tomoakiyamada.github.io/tag/quantitative/</link>
+    </image>
+    
+    <item>
+      <title>Population Aging and Redistribution in Japan: Comparisons with OLG, SNA and NTA</title>
+      <link>https://tomoakiyamada.github.io/project/ichimura_yamada/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/ichimura_yamada/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Presented at the Computing in Economics and Finance in 2021 at Keio University&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consumption, Working Hours, and Wealth Determination in Life Cycle</title>
+      <link>https://tomoakiyamada.github.io/project/abe_inakura_yamada_2007/</link>
+      <pubDate>Fri, 22 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/abe_inakura_yamada_2007/</guid>
+      <description>&lt;p&gt;This paper presents an empirical analysis of a life cycle model. We incorporate labor supply and family structure into the standard precautionary savings model and estimate structural parameters based on the moment conditions for the life cycle profiles of consumption, working hours, and wealth accumulation. Our empirical analyses with Japanese household data reveal that consideration of both family structure and idiosyncratic shocks are crucial in modeling consumption and working hours profiles simultaneously under plausible parameter values.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bank of Japan Working Paper Series, No. 07-E-14.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Complete Market Hypothesis | Tomoaki Yamada</title>
+    <link>http://localhost:1313/ja/tag/complete-market-hypothesis/</link>
+      <atom:link href="http://localhost:1313/ja/tag/complete-market-hypothesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Complete Market Hypothesis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Mon, 31 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png</url>
+      <title>Complete Market Hypothesis</title>
+      <link>http://localhost:1313/ja/tag/complete-market-hypothesis/</link>
+    </image>
+    
+    <item>
+      <title>A Note on Risk Sharing against Idiosyncratic Shocks and Geographic Mobility in Japan</title>
+      <link>http://localhost:1313/ja/project/yamada_2014/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/project/yamada_2014/</guid>
+      <description>&lt;p&gt;In this study, using Japanese household panel data, we analyze how well idiosyncratic income risks are shared by regions. We find that geographic mobility influences individual consumption growth rates, suggesting that complete asset markets fail to exist. We reject the full insurance hypothesis for both urban and rural areas and find that the extent of risk sharing differs significantly by region.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MPRA Paper, No. 54886, 2014.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

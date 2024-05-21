@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing | Tomoaki Yamada</title>
-    <link>https://tomoakiyamada.github.io/tag/writing/</link>
-      <atom:link href="https://tomoakiyamada.github.io/tag/writing/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/writing/</link>
+      <atom:link href="http://localhost:1313/tag/writing/index.xml" rel="self" type="application/rss+xml" />
     <description>Writing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:1313/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png</url>
       <title>Writing</title>
-      <link>https://tomoakiyamada.github.io/tag/writing/</link>
+      <link>http://localhost:1313/tag/writing/</link>
     </image>
     
     <item>
       <title>備忘録：MacBook Airに引っ越し</title>
-      <link>https://tomoakiyamada.github.io/post/12-macbook/</link>
+      <link>http://localhost:1313/post/12-macbook/</link>
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/post/12-macbook/</guid>
+      <guid>http://localhost:1313/post/12-macbook/</guid>
       <description>&lt;h2 id=&#34;macbook-airを新規購入&#34;&gt;MacBook Airを新規購入&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;MacBook Air（M2チップ）を新規購入して移行ツールを使わないで新規セットアップをしたので、インストールしたもの一式を備忘録を兼ねてまとめる&lt;/li&gt;
@@ -143,9 +143,9 @@
     
     <item>
       <title>Markdownって知ってる？</title>
-      <link>https://tomoakiyamada.github.io/post/8-markdown/</link>
+      <link>http://localhost:1313/post/8-markdown/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/post/8-markdown/</guid>
+      <guid>http://localhost:1313/post/8-markdown/</guid>
       <description>&lt;h2 id=&#34;ドキュメント作成&#34;&gt;ドキュメント作成&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;大学生のレポートの定番といったらWord
@@ -230,9 +230,9 @@
     
     <item>
       <title>絶対に覚えてほしいショートカット7選</title>
-      <link>https://tomoakiyamada.github.io/post/9-shortcut/</link>
+      <link>http://localhost:1313/post/9-shortcut/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/post/9-shortcut/</guid>
+      <guid>http://localhost:1313/post/9-shortcut/</guid>
       <description>&lt;h2 id=&#34;最近の学生はpcを使えなくなっているらしい&#34;&gt;最近の学生はPCを使えなくなっているらしい&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;スマホやタブレットが普及したせいでパソコン(Windows/Mac/Linux)を使えない若者が増えている
@@ -313,9 +313,9 @@
     
     <item>
       <title>論文・レポートを書く：学部生向け</title>
-      <link>https://tomoakiyamada.github.io/post/6-how-to-writing/</link>
+      <link>http://localhost:1313/post/6-how-to-writing/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/post/6-how-to-writing/</guid>
+      <guid>http://localhost:1313/post/6-how-to-writing/</guid>
       <description>&lt;h2 id=&#34;論文レポートを書く&#34;&gt;論文・レポートを書く&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;卒論や長めのレポート、ISFJ論文といった論文を&lt;strong&gt;学部生&lt;/strong&gt;が書くための基本的な知識&lt;/li&gt;

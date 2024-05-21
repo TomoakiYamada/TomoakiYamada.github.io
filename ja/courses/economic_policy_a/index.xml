@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>経済政策論A | Tomoaki Yamada</title>
+    <link>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/</link>
+      <atom:link href="https://tomoakiyamada.github.io/ja/courses/economic_policy_a/index.xml" rel="self" type="application/rss+xml" />
+    <description>経済政策論A</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/featured.jpg</url>
+      <title>経済政策論A</title>
+      <link>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/</link>
+    </image>
+    
+    <item>
+      <title>マクロ経済統計</title>
+      <link>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/macro_stat/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/macro_stat/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;経済政策を行う前にまずは経済の状態を正確に判断する必要があります。&lt;/li&gt;
+&lt;li&gt;経済状態を把握するために使われるのが&lt;strong&gt;経済統計&lt;/strong&gt;です。&lt;/li&gt;
+&lt;li&gt;なんとなく聞き覚えがあるGDP、インフレ、デフレといった経済統計の正確な理解から話をスタートします。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_MacroStat.pdf&#34;&gt;経済統計の読み方&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.esri.cao.go.jp/jp/sna/menu.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;国民経済計算（SNA）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stat.go.jp/data/cpi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;消費者物価指数（CPI）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stat.go.jp/data/roudou/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;労働力調査&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.esri.cao.go.jp/jp/stat/di/menu_di.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;景気動向指数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.boj.or.jp/statistics/tk/index.htm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全国企業短期経済観測調査(短観)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.soumu.go.jp/toukei_toukatsu/data/io/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;産業連関表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.boj.or.jp/statistics/sj/index.htm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;資金循環表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.boj.or.jp/statistics/br/bop/index.htm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;国際収支統計&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>日本経済</title>
+      <link>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/japanese_economy/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/japanese_economy/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;戦後日本経済の歩みを簡潔に振り返ります。&lt;/li&gt;
+&lt;li&gt;高度経済成長、バブル崩壊、銀行危機、リーマンショック等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_JapaneseEconomy.pdf&#34;&gt;日本経済の概観&lt;/a&gt;：昨年度は時間の都合から割愛しました。添付スライドは2021年のものです。時間の都合から2024年度も割愛する可能性があります。そのものズバリの&lt;strong&gt;日本経済論A・B&lt;/strong&gt;という授業があるので、そちらの受講を強くお勧めします。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IS-LMモデル</title>
+      <link>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/is_lm/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/is_lm/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;物価が一定であると仮定した状況を&lt;strong&gt;短期&lt;/strong&gt;のマクロ経済と呼びます。&lt;/li&gt;
+&lt;li&gt;ここでは短期のマクロ経済における財政・金融政策の有効性について議論をします。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_ISLM.pdf&#34;&gt;IS-LM分析と財政・金融政策&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IS-MP Model by &lt;a href=&#34;https://eml.berkeley.edu/~dromer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Romer&lt;/a&gt;: &lt;a href=&#34;https://eml.berkeley.edu/~dromer/papers/Romer%20Short-Run%20Fluctuations%20January2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Short-Run Fluctuations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>総需要・総供給分析</title>
+      <link>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/ad_as/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/ad_as/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;物価が一定であるという仮定を緩めます：&lt;strong&gt;中期&lt;/strong&gt;のマクロ経済。&lt;/li&gt;
+&lt;li&gt;IS-LMモデルから総需要曲線を導出します。&lt;/li&gt;
+&lt;li&gt;フィリップス曲線に基づいて総供給曲線を導出します。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;EconomicPolicyA_ADAS.pdf&#34;&gt;総需要・総供給分析と期待の役割&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fernandez-Villaverde&amp;rsquo;s &lt;a href=&#34;https://www.sas.upenn.edu/~jesusfv/macro_jfv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Note on Macro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

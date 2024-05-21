@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skill Premium | Tomoaki Yamada</title>
+    <link>http://localhost:1313/ja/tag/skill-premium/</link>
+      <atom:link href="http://localhost:1313/ja/tag/skill-premium/index.xml" rel="self" type="application/rss+xml" />
+    <description>Skill Premium</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png</url>
+      <title>Skill Premium</title>
+      <link>http://localhost:1313/ja/tag/skill-premium/</link>
+    </image>
+    
+    <item>
+      <title>Foreign Workers, Skill Premium and Fiscal Sustainability in Japan</title>
+      <link>http://localhost:1313/ja/publication/kitao_yamada_ea_2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/kitao_yamada_ea_2021/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

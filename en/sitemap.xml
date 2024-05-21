@@ -2,563 +2,394 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tomoakiyamada.github.io/courses/microeconomics/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <loc>https://tomoakiyamada.github.io/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/economic_policy_a/macro_stat/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <loc>https://tomoakiyamada.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/misc/essentials_of_commerce/</loc>
-    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/macroeconomics/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/economic_policy_a/japanese_economy/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</loc>
-    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/misc/commerce/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/economic_policy_a/is_lm/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/economic_policy_a/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/population/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/misc/advanced_commerce/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/economic_policy_a/ad_as/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/misc/meiji_high_school/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/seminar/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/misc/open_campus/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/advanced_economic_policy/</loc>
-    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/misc/</loc>
-    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/</loc>
-    <lastmod>2024-04-28T04:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tomoakiyamada.github.io/ja/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomoakiyamada.github.io/authors/"
-                />
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/blog/</loc>
-    <lastmod>2024-04-28T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/keyboard/</loc>
-    <lastmod>2024-04-28T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/monitor/</loc>
-    <lastmod>2024-04-28T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/mouse/</loc>
-    <lastmod>2024-04-28T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/productivity/</loc>
-    <lastmod>2024-04-28T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tags/</loc>
-    <lastmod>2024-04-28T04:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tomoakiyamada.github.io/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomoakiyamada.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/</loc>
-    <lastmod>2024-04-28T04:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tomoakiyamada.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomoakiyamada.github.io/"
-                />
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/admin/</loc>
-    <lastmod>2024-04-28T04:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tomoakiyamada.github.io/ja/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomoakiyamada.github.io/authors/admin/"
-                />
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/</loc>
-    <lastmod>2024-04-28T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/23-productivity9-others2/</loc>
-    <lastmod>2024-04-28T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/app/</loc>
-    <lastmod>2024-04-28T03:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/endel/</loc>
-    <lastmod>2024-04-28T03:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/22-productivity8-others1/</loc>
-    <lastmod>2024-04-28T03:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/superhuman/</loc>
-    <lastmod>2024-04-28T02:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/21-productivity7-mail/</loc>
-    <lastmod>2024-04-28T02:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/arc/</loc>
-    <lastmod>2024-04-28T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/20-productivity6-browser/</loc>
-    <lastmod>2024-04-28T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/amie/</loc>
+    <loc>https://tomoakiyamada.github.io/publication-type/2/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/consumption/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/consumption-inequality/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/economic-inequality/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/fies/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/firstseed/</loc>
+    <loc>https://tomoakiyamada.github.io/tag/income/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/income-inequality/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/inequality/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/kitao_yamada_esri_2024/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/labor/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/life-cycle/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/minical/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/notioncalendar/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/publication/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/sagiri-kitao/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/publication/kitao_yamada_reho_2024/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/project/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/19-productivity5-calendar/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/goodnotes/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/noteshhelf/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/notion/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/things3/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/ticktick/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/18-productivity4-todo/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/17-productivity3-goodnotes/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/obsidian/</loc>
-    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/16-productivity2-notion/</loc>
-    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/15-productivity1/</loc>
-    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/courses/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/14-selftaught-econ/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/economics/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/demographic-aging/</loc>
-    <lastmod>2023-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/project/yamada_2023/</loc>
-    <lastmod>2023-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/olg-model/</loc>
-    <lastmod>2023-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/13-icon/</loc>
-    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/markdown/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/writing/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/12-macbook/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/11-clean-pc/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/10-tech-book/</loc>
-    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/7-vscode/</loc>
-    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/vs-code/</loc>
-    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/8-markdown/</loc>
-    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/9-shortcut/</loc>
-    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/6-how-to-writing/</loc>
-    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/5-text-editor/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/4-tools/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/julia/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/3-julia-tips/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/2-julia-book/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/academic/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/post/1-getting-started/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/hugo/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/hidehiko-ichimura/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/nta/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/project/ichimura_yamada/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/publication-type/2/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/fiscal-sustainability/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/foreign-worker/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/publication/kitao_yamada_ea_2021/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/population-aging/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication_types/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
+                hreflang="ja-jp"
                 href="https://tomoakiyamada.github.io/ja/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomoakiyamada.github.io/publication_types/"
                 />
   </url><url>
+    <loc>https://tomoakiyamada.github.io/publication/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tags/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-jp"
+                href="https://tomoakiyamada.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tomoakiyamada.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/publication/kitao_yamada_reho_2024/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/project/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/project/yamada_2023/</loc>
+    <lastmod>2023-09-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/fiscal/</loc>
+    <lastmod>2023-09-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/population/</loc>
+    <lastmod>2023-09-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-jp"
+                href="https://tomoakiyamada.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tomoakiyamada.github.io/"
+                />
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/nta/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/project/ichimura_yamada/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/quantitative/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/sna/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/fiscal-sustainability/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/foreign-worker/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/publication/kitao_yamada_ea_2021/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/olg-model/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/population-aging/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tomoakiyamada.github.io/tag/skill-premium/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/takeki-sunakawa/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/computation/jea2021/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/computation/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/computation/keizai_seminar/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/female-labor/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication/imrohoroglu_kitao_yamada_joea_2019/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/health-insurance/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/selahattin-imrohoroglu/</loc>
-    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/social-security-system/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/kitao_yamada_rieti_2019/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/nsfie/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/wealth-inequality/</loc>
+    <loc>https://tomoakiyamada.github.io/tag/wealth/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/minchung-hsu/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication/hsu_yamada_sje_2019/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/computation/meti/</loc>
     <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/dsge/</loc>
     <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/inui_sudo_yamada/</loc>
     <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/masayuki-inui/</loc>
+    <loc>https://tomoakiyamada.github.io/tag/empirical/</loc>
     <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/monetary-policy/</loc>
     <lastmod>2017-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/nao-sudo/</loc>
-    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/new-keynesian/</loc>
     <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication/imrohoroglu_kitao_yamada_ei_2017/</loc>
     <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication/imrohoroglu_kitao_yamada_ier_2016/</loc>
     <lastmod>2016-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tag/consumption-profile/</loc>
-    <lastmod>2014-11-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/sudo_suzuki_yamada_2014b/</loc>
     <lastmod>2014-11-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/michio-suzuki/</loc>
-    <lastmod>2014-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/jeremy-lise/</loc>
+    <loc>https://tomoakiyamada.github.io/tag/income-inequality/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/ken-yamada/</loc>
-    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication/lise_sudo_suzuki_yamada_yamada_red_2014/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/wealth-inequality/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/growth/</loc>
+    <lastmod>2014-05-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/lost-decades/</loc>
     <lastmod>2014-05-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/sudo_suzuki_yamada_2014a/</loc>
     <lastmod>2014-05-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/yamada_2014/</loc>
     <lastmod>2014-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/complete-market-hypothesis/</loc>
     <lastmod>2014-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/geographic-mobility/</loc>
     <lastmod>2014-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/jhps/</loc>
     <lastmod>2014-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/risk-sharing/</loc>
     <lastmod>2014-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/yamada_2013/</loc>
     <lastmod>2013-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/khps/</loc>
     <lastmod>2013-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/sudo_suzuki_yamada_2012/</loc>
     <lastmod>2012-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tag/economic-inequality/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/income-risk/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication/yamada_jedc_2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/computation/academia_sinica/</loc>
     <lastmod>2011-09-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication/yamada_jjie_2011/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/political-economy/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/saito_suzuki_yamada_2010/</loc>
     <lastmod>2010-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/collateral-constraint/</loc>
     <lastmod>2010-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/complete-market/</loc>
     <lastmod>2010-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/makoto-saito/</loc>
+    <loc>https://tomoakiyamada.github.io/tag/international-economy/</loc>
     <lastmod>2010-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/shiba-suzuki/</loc>
-    <lastmod>2010-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/capital-income-tax/</loc>
     <lastmod>2009-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/kenji-miyazaki/</loc>
-    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication/miyazaki_saito_yamada_md_2010/</loc>
     <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication/yamada_eb_2009/</loc>
     <lastmod>2009-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/naohito-abe/</loc>
+    <loc>https://tomoakiyamada.github.io/tag/consumption-profile/</loc>
     <lastmod>2009-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication/abe_yamada_jjie_2009/</loc>
     <lastmod>2009-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/structural-estimation/</loc>
     <lastmod>2009-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/computation/kobe/</loc>
     <lastmod>2009-01-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/computation/hitotsubashi/</loc>
     <lastmod>2008-08-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/abe_inakura_yamada_2007/</loc>
     <lastmod>2007-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/jspc/</loc>
     <lastmod>2007-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/authors/noriko-inakura/</loc>
-    <lastmod>2007-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/firm-dynamics/</loc>
     <lastmod>2006-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tag/unemployment-insurance/</loc>
     <lastmod>2006-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/yamada_2006/</loc>
     <lastmod>2006-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/admin/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tomoakiyamada.github.io/ja/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tomoakiyamada.github.io/admin/"
-                />
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
+                hreflang="ja-jp"
                 href="https://tomoakiyamada.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomoakiyamada.github.io/categories/"
                 />
   </url>

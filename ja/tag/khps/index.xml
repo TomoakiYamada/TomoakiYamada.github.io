@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KHPS | Tomoaki Yamada</title>
+    <link>http://localhost:1313/ja/tag/khps/</link>
+      <atom:link href="http://localhost:1313/ja/tag/khps/index.xml" rel="self" type="application/rss+xml" />
+    <description>KHPS</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Wed, 18 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png</url>
+      <title>KHPS</title>
+      <link>http://localhost:1313/ja/tag/khps/</link>
+    </image>
+    
+    <item>
+      <title>Cross-sectional Facts in Japan using Keio Household Panel Survey</title>
+      <link>http://localhost:1313/ja/project/yamada_2013/</link>
+      <pubDate>Wed, 18 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/project/yamada_2013/</guid>
+      <description>&lt;p&gt;We investigate economic inequalities of Japanese economy from 2004 to 2012 us- ing the Keio household panel survey. We present cross-sectional dispersion earnings, consumption expenditure, and wealth inequalities from time-series and life cycle dimensions. Wage and hours inequalities, which are calculated from the earnings of male and female, full-time and part-time workers and correlations are provided. We also show that the residual inequalities, which are usually interpreted as idiosyncratic income risks that households face, rise over the life cycle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MPRA Paper, No. 49813, 2013.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

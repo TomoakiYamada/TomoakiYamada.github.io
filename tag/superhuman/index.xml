@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Superhuman | Tomoaki Yamada</title>
-    <link>https://tomoakiyamada.github.io/tag/superhuman/</link>
-      <atom:link href="https://tomoakiyamada.github.io/tag/superhuman/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/superhuman/</link>
+      <atom:link href="http://localhost:1313/tag/superhuman/index.xml" rel="self" type="application/rss+xml" />
     <description>Superhuman</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sun, 28 Apr 2024 02:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Apr 2024 02:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:1313/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png</url>
       <title>Superhuman</title>
-      <link>https://tomoakiyamada.github.io/tag/superhuman/</link>
+      <link>http://localhost:1313/tag/superhuman/</link>
     </image>
     
     <item>
       <title>メールアプリ</title>
-      <link>https://tomoakiyamada.github.io/post/21-productivity7-mail/</link>
+      <link>http://localhost:1313/post/21-productivity7-mail/</link>
       <pubDate>Sun, 28 Apr 2024 02:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/post/21-productivity7-mail/</guid>
+      <guid>http://localhost:1313/post/21-productivity7-mail/</guid>
       <description>&lt;h1 id=&#34;メーラー&#34;&gt;メーラー&lt;/h1&gt;
 &lt;p&gt;Chrome、Googleカレンダーと並んで、10年来のお供だったGmail。同じく、長いこと何も考えないで使っているので、もっと実は便利なものが存在しているのかもしれないと、より良いメーラー探しの旅へ。&lt;/p&gt;
 &lt;p&gt;ネットで検索をしたら、とにかく評判が良いのがSuperhumanというメールアプリ。&lt;/p&gt;

@@ -5,54 +5,35 @@
     <link>https://tomoakiyamada.github.io/tag/consumption-profile/</link>
       <atom:link href="https://tomoakiyamada.github.io/tag/consumption-profile/index.xml" rel="self" type="application/rss+xml" />
     <description>Consumption Profile</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sun, 30 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
+      <url>https://tomoakiyamada.github.io/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png</url>
       <title>Consumption Profile</title>
       <link>https://tomoakiyamada.github.io/tag/consumption-profile/</link>
     </image>
-    
-    <item>
-      <title>Effects of Demographic Change on the Expenditure Composition in Japanese Economy</title>
-      <link>https://tomoakiyamada.github.io/project/sudo_suzuki_yamada_2014b/</link>
-      <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/project/sudo_suzuki_yamada_2014b/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Work in progress.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>Nonlinear Income Variance Profile and Consumption Inequality over the Life Cycle</title>
       <link>https://tomoakiyamada.github.io/publication/abe_yamada_jjie_2009/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/publication/abe_yamada_jjie_2009/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Consumption, Working Hours, and Wealth Determination in Life Cycle</title>
-      <link>https://tomoakiyamada.github.io/project/abe_inakura_yamada_2007/</link>
-      <pubDate>Fri, 22 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/project/abe_inakura_yamada_2007/</guid>
-      <description>&lt;p&gt;This paper presents an empirical analysis of a life cycle model. We incorporate labor supply and family structure into the standard precautionary savings model and estimate structural parameters based on the moment conditions for the life cycle profiles of consumption, working hours, and wealth accumulation. Our empirical analyses with Japanese household data reveal that consideration of both family structure and idiosyncratic shocks are crucial in modeling consumption and working hours profiles simultaneously under plausible parameter values.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bank of Japan Working Paper Series, No. 07-E-14.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

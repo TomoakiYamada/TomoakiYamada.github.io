@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NTA | Tomoaki Yamada</title>
+    <link>http://localhost:1313/ja/tag/nta/</link>
+      <atom:link href="http://localhost:1313/ja/tag/nta/index.xml" rel="self" type="application/rss+xml" />
+    <description>NTA</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png</url>
+      <title>NTA</title>
+      <link>http://localhost:1313/ja/tag/nta/</link>
+    </image>
+    
+    <item>
+      <title>Population Aging and Redistribution in Japan: Comparisons with OLG, SNA and NTA</title>
+      <link>http://localhost:1313/ja/project/ichimura_yamada/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/project/ichimura_yamada/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Presented at the Computing in Economics and Finance in 2021 at Keio University&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

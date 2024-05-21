@@ -1,0 +1,1432 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: 2024年5月21日 --><html lang="ja-jp" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.6e6db19e705eaaa91d5ea497d7b11332.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NVTH8GE22L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-NVTH8GE22L', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-NVTH8GE22L');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="山田 知明" />
+
+
+
+
+
+  
+
+<meta name="description" content="生産性を高めるための環境づくり・アプリ紹介。" />
+
+
+
+<link rel="alternate" hreflang="ja-jp" href="https://tomoakiyamada.github.io/ja/post/23-productivity9-others2/" />
+<link rel="canonical" href="https://tomoakiyamada.github.io/ja/post/23-productivity9-others2/" />
+
+
+
+  <link rel="manifest" href="/ja/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#453288" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@TomoakiYamada3" />
+  <meta property="twitter:creator" content="@TomoakiYamada3" />
+<meta property="twitter:image" content="https://tomoakiyamada.github.io/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Tomoaki Yamada" />
+<meta property="og:url" content="https://tomoakiyamada.github.io/ja/post/23-productivity9-others2/" />
+<meta property="og:title" content="番外編：仕事場環境を考える | Tomoaki Yamada" />
+<meta property="og:description" content="生産性を高めるための環境づくり・アプリ紹介。" /><meta property="og:image" content="https://tomoakiyamada.github.io/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="ja-jp" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2024-04-28T04:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2024-04-28T04:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://tomoakiyamada.github.io/ja/post/23-productivity9-others2/"
+  },
+  "headline": "番外編：仕事場環境を考える",
+  
+  "datePublished": "2024-04-28T04:00:00Z",
+  "dateModified": "2024-04-28T04:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "山田 知明"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Meiji University, School of Commerce, 明治大学, 商学部",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://tomoakiyamada.github.io/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "生産性を高めるための環境づくり・アプリ紹介。"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>番外編：仕事場環境を考える | Tomoaki Yamada</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="73ef8ce040be87e1f0f963238b7389d3" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.1ceffe657a2ea89cac3a548b2b87a131.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>検索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="閉じる"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="検索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="検索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/ja/">Tomoaki Yamada</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="ナビゲーションの切り替え">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/ja/">Tomoaki Yamada</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ja/#about"><span>Home (JP)</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication/"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/project/"><span>Working Papers</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/computation/"><span>Computation</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ja/courses/"><span>Lectures</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link  active" href="/ja/post/"><span>Posts</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://sites.google.com/view/meijieconws/" target="_blank" rel="noopener"><span>Workshop</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ja/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="検索"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="表示設定">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>ライト</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>ダーク</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>自動</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>番外編：仕事場環境を考える</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      山田 知明</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    4月 28, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h1 id="仕事場環境にこだわる">仕事場環境にこだわる</h1>
+<p>生産性を高めようとするなら、職場環境づくりは大事です。誰もが書斎や自分の部屋をもてるわけではないですが、ノートパソコン一台で長時間仕事をするのはなかなかつらいです。</p>
+<p>コロナ禍の頃に自室を職場に魔改造する系の動画がいっぱいYoutubeにあがっていました。今も色々とあるので、視聴すると参考になると思います。おしゃれな仕事場はそれだけでやる気があがるというものです。</p>
+<h2 id="大型モニターアーム">大型モニター+アーム</h2>
+<p>モニターサイズは生産性に直結します。もし職場で小さいモニターのラップトップPCをずっと使っている人がいたら、是非、27インチ以上の外付けモニターにつなげることをお勧めします。デュアルモニターであれば24インチを2枚もあり。モニターはピンキリですが、オフィス仕事用途に限定するのであればそこまで高価なものは必要ないです（もちろんゲーム用途と映像系は別）。ただ、あまりに古くて解像度が低いと画面の使える領域が狭くて結局仕事がしにくいままなので注意しましょう。</p>
+<ul>
+<li><u><a href="https://www.apple.com/jp/displays/" target="_blank" rel="noopener">Studio Display</a></u>：超高額なので誰にでもお勧めとかではないですが、以前RetinaディスプレイのMacBook Proをモニターにつないでいたらチラツキがあってストレスが溜まったので、Apple製品同士ならさすがに大丈夫だろうと購入しました。もちろん相性問題はなし。ただ、値段が値段なので他に良いものはいくらでもあるはず。</li>
+</ul>
+<p>外付けモニターを購入した際、一緒にモニターアームの購入をオススメします。第一に、モニターの下を広く使えるので机の有効活用につながる。第二に、高さや角度の微調整がしやすい。個人的な話になりますが、ずっとノートPCを見るために斜め下を向いていたせいで、頚椎ヘルニアになった経験があります。いまでも右手とかがしびれる事があるので、首は本当に大事にしたほうが良いです！</p>
+<ul>
+<li><u><a href="https://www.ergotron.com/ja-jp/" target="_blank" rel="noopener">エルゴトロン</a></u>：頑丈であればなんでも良いのかもしれませんが、定番のモニター用アーム。</li>
+</ul>
+<h2 id="椅子机">椅子・机</h2>
+<p>予算に余裕があるなら椅子にもこだわりましょう。腰も本当に(以下略</p>
+<p>椅子について語れるほど色々試したわけではないのですが、ゲーミングなんたら系は値段のわりにクオリティが高いものが多い印象です。高い椅子って本革とかデザインとか、仕事の生産性と関係なさそうなところで高額になっていくので、それより長時間快適にゲームをするのに特化して設計された椅子のほうが、長時間仕事には向いているんじゃないかなと思います。</p>
+<ul>
+<li><u><a href="https://www.akracing.jp/" target="_blank" rel="noopener">AK Racing</a></u>：ヤクルトファンなので。</li>
+</ul>
+<p>そもそも、ずっと座りっぱなしはよくないので自分は昇降式の机でアップダウンさせてます。</p>
+<ul>
+<li><u><a href="https://www.flexispot.jp/" target="_blank" rel="noopener">Flexispot</a></u>：研究室で使用。</li>
+<li><u><a href="https://www.ikea.com/jp/ja/p/bekant-desk-sit-stand-black-stained-ash-veneer-black-s49281819/" target="_blank" rel="noopener">IKEA ベカント</a></u>：自宅で使用。かなり広いです。ただモニターアームを使うと、キーボードを叩いているときにモニターが少し揺れます。</li>
+</ul>
+<h2 id="キーボード">キーボード</h2>
+<p>高いものは本当に高いのですが、ここもお金をかけるべき場所の一つかと。腱鞘炎予防。</p>
+<p>適度な重さの打鍵感とキーボードの心地よいカチャカチャ音は仕事の気持ちよさにつながります（ややマニアック？）。とくに、ノートパソコンでずっと仕事をしている人は、自宅やオフィスでは外付けキーボードを使うと捗るかと。</p>
+<ul>
+<li>定番の<u><a href="https://www.realforce.co.jp/products/R3HG21/" target="_blank" rel="noopener">REAL FORCE</a></u>：Mac版は選択肢が限られるのが残念。Windowsを使っていたときは<u><a href="https://www.razer.com/jp-jp" target="_blank" rel="noopener">Razer</a></u>を愛用していたのですが、あのカチャカチャ感が好きだったのでMac版も出ないかな。</li>
+<li><u><a href="https://happyhackingkb.com/jp/" target="_blank" rel="noopener">HHKB</a></u>も大人気ですが、自分の手には小さすぎてあまり使わなくなりました。見た目と打鍵感は好きなんですが。</li>
+</ul>
+<p>椅子と同様に、ゲーミングキーボードとマウスは侮れないです。</p>
+<h2 id="マウス">マウス</h2>
+<ul>
+<li><u><a href="https://www.logicool.co.jp/ja-jp/products/mice/mx-master-3s.910-006567.html" target="_blank" rel="noopener">Logicool MX Master 3S</a></u>：細かい設定が出来て、MacのLaunchpad、Mission Control、仮想デスクトップの切り替えもすべて手元で操作可能なのがありがたい。サイズも自分にはちょうどよいけど、女性には大きいかも。</li>
+</ul>
+<p>ちなみに、マウスパッドは120cm位ある大きいものを使っています。</p>
+<h2 id="アームレスト">アームレスト</h2>
+<p>いい加減しつこいですが、手首を傷めないためになにか置いたほうが良いです。</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/ja/tag/blog/">Blog</a>
+  
+  <a class="badge badge-light" href="/ja/tag/productivity/">Productivity</a>
+  
+  <a class="badge badge-light" href="/ja/tag/keyboard/">Keyboard</a>
+  
+  <a class="badge badge-light" href="/ja/tag/monitor/">Monitor</a>
+  
+  <a class="badge badge-light" href="/ja/tag/mouse/">Mouse</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftomoakiyamada.github.io%2Fja%2Fpost%2F23-productivity9-others2%2F&amp;text=%E7%95%AA%E5%A4%96%E7%B7%A8%EF%BC%9A%E4%BB%95%E4%BA%8B%E5%A0%B4%E7%92%B0%E5%A2%83%E3%82%92%E8%80%83%E3%81%88%E3%82%8B" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=%E7%95%AA%E5%A4%96%E7%B7%A8%EF%BC%9A%E4%BB%95%E4%BA%8B%E5%A0%B4%E7%92%B0%E5%A2%83%E3%82%92%E8%80%83%E3%81%88%E3%82%8B&amp;body=https%3A%2F%2Ftomoakiyamada.github.io%2Fja%2Fpost%2F23-productivity9-others2%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://tomoakiyamada.github.io/"><img class="avatar mr-3 avatar-circle" src="/ja/authors/admin/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_141910_270x270_fill_q75_lanczos_center.jpg" alt="山田 知明"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://tomoakiyamada.github.io/">山田 知明</a></h5>
+      <h6 class="card-subtitle">商学部 教授</h6>
+      <p class="card-text">My research interests include heterogeneity in macroeconomics, inequality, consumption and savings, and demographic changes.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/ja/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/TomoakiYamada3" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=GrNZweQAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://ideas.repec.org/f/pya231.html" target="_blank" rel="noopener">
+        <i class="ai ai-ideas-repec"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/TomoakiYamada" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/ja/uploads/CV-Yamada.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2021 Tomoaki Yamada.
+  </p>
+  
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/ja/js/wowchemy.min.2cf3eed339f2734d3e528530d32b31f3.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

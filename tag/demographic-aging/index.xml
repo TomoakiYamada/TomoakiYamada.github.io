@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demographic Aging | Tomoaki Yamada</title>
-    <link>https://tomoakiyamada.github.io/tag/demographic-aging/</link>
-      <atom:link href="https://tomoakiyamada.github.io/tag/demographic-aging/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/demographic-aging/</link>
+      <atom:link href="http://localhost:1313/tag/demographic-aging/index.xml" rel="self" type="application/rss+xml" />
     <description>Demographic Aging</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sat, 16 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:1313/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png</url>
       <title>Demographic Aging</title>
-      <link>https://tomoakiyamada.github.io/tag/demographic-aging/</link>
+      <link>http://localhost:1313/tag/demographic-aging/</link>
     </image>
     
     <item>
       <title>Demographic Aging, Fiscal Reforms and Macroeconomy in Japan</title>
-      <link>https://tomoakiyamada.github.io/project/yamada_2023/</link>
+      <link>http://localhost:1313/project/yamada_2023/</link>
       <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/project/yamada_2023/</guid>
+      <guid>http://localhost:1313/project/yamada_2023/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Presented at the ESRI International Conference 2023.&lt;/li&gt;
 &lt;li&gt;Under revision.&lt;/li&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>経済政策論B | Tomoaki Yamada</title>
-    <link>https://tomoakiyamada.github.io/courses/economic_policy_b/</link>
-      <atom:link href="https://tomoakiyamada.github.io/courses/economic_policy_b/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/courses/economic_policy_b/</link>
+      <atom:link href="http://localhost:1313/courses/economic_policy_b/index.xml" rel="self" type="application/rss+xml" />
     <description>経済政策論B</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tomoakiyamada.github.io/courses/economic_policy_b/featured.jpg</url>
+      <url>http://localhost:1313/courses/economic_policy_b/featured.jpg</url>
       <title>経済政策論B</title>
-      <link>https://tomoakiyamada.github.io/courses/economic_policy_b/</link>
+      <link>http://localhost:1313/courses/economic_policy_b/</link>
     </image>
     
     <item>
       <title>経済成長</title>
-      <link>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</link>
+      <link>http://localhost:1313/courses/economic_policy_b/growth/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/growth/</guid>
+      <guid>http://localhost:1313/courses/economic_policy_b/growth/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;豊かな国と貧しい国がなぜ存在するのか。&lt;/li&gt;
@@ -60,9 +60,9 @@
     
     <item>
       <title>少子高齢化と社会保障制度</title>
-      <link>https://tomoakiyamada.github.io/courses/economic_policy_b/population/</link>
+      <link>http://localhost:1313/courses/economic_policy_b/population/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/population/</guid>
+      <guid>http://localhost:1313/courses/economic_policy_b/population/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;日本が直面する少子高齢化の実態をデータから把握する。&lt;/li&gt;
@@ -99,9 +99,9 @@
     
     <item>
       <title>経済格差</title>
-      <link>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</link>
+      <link>http://localhost:1313/courses/economic_policy_b/inequality/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/courses/economic_policy_b/inequality/</guid>
+      <guid>http://localhost:1313/courses/economic_policy_b/inequality/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;経済格差について概観する。&lt;/li&gt;

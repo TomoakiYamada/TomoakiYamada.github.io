@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monitor | Tomoaki Yamada</title>
-    <link>https://tomoakiyamada.github.io/tag/monitor/</link>
-      <atom:link href="https://tomoakiyamada.github.io/tag/monitor/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/monitor/</link>
+      <atom:link href="http://localhost:1313/tag/monitor/index.xml" rel="self" type="application/rss+xml" />
     <description>Monitor</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sun, 28 Apr 2024 04:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Apr 2024 04:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:1313/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png</url>
       <title>Monitor</title>
-      <link>https://tomoakiyamada.github.io/tag/monitor/</link>
+      <link>http://localhost:1313/tag/monitor/</link>
     </image>
     
     <item>
       <title>番外編：仕事場環境を考える</title>
-      <link>https://tomoakiyamada.github.io/post/23-productivity9-others2/</link>
+      <link>http://localhost:1313/post/23-productivity9-others2/</link>
       <pubDate>Sun, 28 Apr 2024 04:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/post/23-productivity9-others2/</guid>
+      <guid>http://localhost:1313/post/23-productivity9-others2/</guid>
       <description>&lt;h1 id=&#34;仕事場環境にこだわる&#34;&gt;仕事場環境にこだわる&lt;/h1&gt;
 &lt;p&gt;生産性を高めようとするなら、職場環境づくりは大事です。誰もが書斎や自分の部屋をもてるわけではないですが、ノートパソコン一台で長時間仕事をするのはなかなかつらいです。&lt;/p&gt;
 &lt;p&gt;コロナ禍の頃に自室を職場に魔改造する系の動画がいっぱいYoutubeにあがっていました。今も色々とあるので、視聴すると参考になると思います。おしゃれな仕事場はそれだけでやる気があがるというものです。&lt;/p&gt;

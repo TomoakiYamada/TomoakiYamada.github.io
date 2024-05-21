@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notion | Tomoaki Yamada</title>
-    <link>https://tomoakiyamada.github.io/tag/notion/</link>
-      <atom:link href="https://tomoakiyamada.github.io/tag/notion/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/notion/</link>
+      <atom:link href="http://localhost:1313/tag/notion/index.xml" rel="self" type="application/rss+xml" />
     <description>Notion</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tomoaki Yamada</copyright><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tomoakiyamada.github.io/media/logo_hudbc5e1c1bff9cd3bd8138ed1b64a2fbf_530359_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:1313/media/icon_hu36ba55165b33871ce773f917143a2da3_8669_512x512_fill_lanczos_center_3.png</url>
       <title>Notion</title>
-      <link>https://tomoakiyamada.github.io/tag/notion/</link>
+      <link>http://localhost:1313/tag/notion/</link>
     </image>
     
     <item>
       <title>To DoとGTD（Getting Things Done）</title>
-      <link>https://tomoakiyamada.github.io/post/18-productivity4-todo/</link>
+      <link>http://localhost:1313/post/18-productivity4-todo/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/post/18-productivity4-todo/</guid>
+      <guid>http://localhost:1313/post/18-productivity4-todo/</guid>
       <description>&lt;h1 id=&#34;to-doとgtd&#34;&gt;To DoとGTD&lt;/h1&gt;
 &lt;p&gt;「あれをやらないといけないな」という記憶を頭の中に残しておくと集中力が削がれます。できるだけ頭の外に出しましょう。いわゆるTo Doアプリは、やらないといけない事を記録しておくためのアプリです。&lt;/p&gt;
 &lt;p&gt;ただし、やらなければいけないこと（タスク）の優先順位は全てが同一ではないはずです。締切があるものやないもの、いずれやりたいなレベルの思いつきから一定期間に仕上げないといけない仕事、家族の行事など、タスクは様々です。これらを並列的に大量に並べてしまうと、何をすればよいのかわからなくなると思います。&lt;/p&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title>生産性向上のためのアプリ：情報を一箇所にまとめる</title>
-      <link>https://tomoakiyamada.github.io/post/16-productivity2-notion/</link>
+      <link>http://localhost:1313/post/16-productivity2-notion/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/post/16-productivity2-notion/</guid>
+      <guid>http://localhost:1313/post/16-productivity2-notion/</guid>
       <description>&lt;h1 id=&#34;notion&#34;&gt;Notion&lt;/h1&gt;
 &lt;p&gt;&lt;u&gt;&lt;a href=&#34;https://www.notion.so/pricing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notion&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
 &lt;p&gt;自分の脳みそに記憶しておくのには限界があります。しかも、脳の片隅に何かを記憶しておくと、そっちが気になってしまい、眼の前のタスクに集中できないという事が多々あります。Second Brainという考え方は、自分の脳みその代わりになる外部記憶装置を別に持ちましょうというものです。&lt;/p&gt;
@@ -91,9 +91,9 @@
     
     <item>
       <title>生産性を高めたい</title>
-      <link>https://tomoakiyamada.github.io/post/15-productivity1/</link>
+      <link>http://localhost:1313/post/15-productivity1/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/post/15-productivity1/</guid>
+      <guid>http://localhost:1313/post/15-productivity1/</guid>
       <description>&lt;h1 id=&#34;生産性を高めるための環境作り&#34;&gt;生産性を高めるための環境作り&lt;/h1&gt;
 &lt;p&gt;いつ頃からかはっきりとは覚えていませんが、気がついたら、仕事を回すのがドンドンきつくなってきました。&lt;/p&gt;
 &lt;p&gt;若い頃は「講義準備と大学校務をそこそここなして、後は全部研究時間にする」という大雑把な時間管理でなんとかなっていたのですが、最近は時間を作るということを意識しないと、あらゆる仕事がどんどん後ろ倒しになってしまいます。&lt;/p&gt;

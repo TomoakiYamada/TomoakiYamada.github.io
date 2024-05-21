@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>商学専門演習 | Tomoaki Yamada</title>
+    <link>https://tomoakiyamada.github.io/ja/courses/seminar/</link>
+      <atom:link href="https://tomoakiyamada.github.io/ja/courses/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <description>商学専門演習</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomoakiyamada.github.io/ja/courses/seminar/featured.jpg</url>
+      <title>商学専門演習</title>
+      <link>https://tomoakiyamada.github.io/ja/courses/seminar/</link>
+    </image>
+    
+  </channel>
+</rss>
