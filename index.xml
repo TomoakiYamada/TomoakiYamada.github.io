@@ -33,6 +33,24 @@
     </item>
     
     <item>
+      <title>『定量的マクロ経済学と数値計算』</title>
+      <link>https://tomoakiyamada.github.io/computation/quantmacro/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/computation/quantmacro/</guid>
+      <description>&lt;p&gt;北尾早霧・砂川武貴・山田知明『&lt;a href=&#34;https://www.nippyo.co.jp/shop/book/9287.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;定量マクロ経済学と数値計算&lt;/a&gt;』が2024年6月17日に&lt;a href=&#34;https://www.nippyo.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本評論社&lt;/a&gt;より発売されます。&lt;/p&gt;
+&lt;p&gt;書籍で使用したコードは&lt;a href=&#34;https://quant-macro-book.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;からダウンロードすることができます。
+主にMATLABとJuliaで書かれていますが、一部、PythonやFortran、Rも使用しています。&lt;/p&gt;
+&lt;p&gt;各種ソフトウェアのインストール方法についてもインストール方法についても簡単に説明しています。詳細は&lt;a href=&#34;https://tyamada.notion.site/9e47200380424b4ab29375d2c61c2da9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;。
+こちらはβ版なので一部、古い情報が混じっているかもしれないのでご注意ください。随時更新していく予定です。&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Code&lt;/strong&gt;ボタンはGitHubリポジトリへのリンクです。
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Inequality Dynamics in Japan, 1981-2021</title>
       <link>https://tomoakiyamada.github.io/project/kitao_yamada_esri_2024/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
