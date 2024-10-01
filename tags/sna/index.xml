@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SNA | Tomoaki Yamada</title>
+    <link>https://tomoakiyamada.github.io/tags/sna/</link>
+      <atom:link href="https://tomoakiyamada.github.io/tags/sna/index.xml" rel="self" type="application/rss+xml" />
+    <description>SNA</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomoakiyamada.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>SNA</title>
+      <link>https://tomoakiyamada.github.io/tags/sna/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Relationship Between Population Aging and Labor Share</title>
+      <link>https://tomoakiyamada.github.io/project/2024_yamada/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/2024_yamada/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Coming soon!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population Aging and Redistribution in Japan: Comparisons with OLG, SNA and NTA</title>
+      <link>https://tomoakiyamada.github.io/project/2021_ichimura_yamada/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/2021_ichimura_yamada/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Presented at the Computing in Economics and Finance in 2021 at Keio University&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earnings Inequality | Tomoaki Yamada</title>
+    <link>https://tomoakiyamada.github.io/tags/earnings-inequality/</link>
+      <atom:link href="https://tomoakiyamada.github.io/tags/earnings-inequality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Earnings Inequality</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomoakiyamada.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Earnings Inequality</title>
+      <link>https://tomoakiyamada.github.io/tags/earnings-inequality/</link>
+    </image>
+    
+    <item>
+      <title>Earnings Dynamics and Inequality over the Life-cycle in Japan</title>
+      <link>https://tomoakiyamada.github.io/project/2024_kitao_suzuki_yamada/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/2024_kitao_suzuki_yamada/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Presented at the 
+ in 2024 at the University of Tokyo.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
