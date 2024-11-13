@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tomoakiyamada.github.io/ja/tags/economic-policy/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/ja/tags/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tomoakiyamada.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-jp"
+                href="https://tomoakiyamada.github.io/ja/tags/"
+                />
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/ja/courses/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/ja/courses/economic_policy_b/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tomoakiyamada.github.io/ja/post/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -22,20 +48,6 @@
                 rel="alternate"
                 hreflang="ja-jp"
                 href="https://tomoakiyamada.github.io/ja/tags/population-aging/"
-                />
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/ja/tags/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://tomoakiyamada.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-jp"
-                href="https://tomoakiyamada.github.io/ja/tags/"
                 />
   </url><url>
     <loc>https://tomoakiyamada.github.io/ja/post/25-barrons-article/</loc>
@@ -60,10 +72,6 @@
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/ja/courses/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://tomoakiyamada.github.io/ja/courses/macroeconomics/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -74,14 +82,6 @@
   </url><url>
     <loc>https://tomoakiyamada.github.io/ja/courses/seminar/</loc>
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/ja/tags/economic-policy/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/ja/courses/economic_policy_b/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/</loc>
