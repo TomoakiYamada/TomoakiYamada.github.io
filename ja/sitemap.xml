@@ -2,12 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tomoakiyamada.github.io/ja/tags/economic-policy/</loc>
-    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+    <loc>https://tomoakiyamada.github.io/ja/post/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/ja/tags/graduate-school/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/ja/tags/</loc>
-    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -20,16 +24,20 @@
                 href="https://tomoakiyamada.github.io/ja/tags/"
                 />
   </url><url>
+    <loc>https://tomoakiyamada.github.io/ja/post/26-graduate-school/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/ja/tags/economic-policy/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tomoakiyamada.github.io/ja/courses/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/ja/courses/economic_policy_b/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/ja/post/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/ja/tags/japan/</loc>
