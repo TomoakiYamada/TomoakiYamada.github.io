@@ -5,12 +5,23 @@
     <link>https://tomoakiyamada.github.io/project/</link>
       <atom:link href="https://tomoakiyamada.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Papers</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/icon_hu8085839463718813310.png</url>
       <title>Working Papers</title>
       <link>https://tomoakiyamada.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Exploring the Relationship Between Population Aging and Labor Share</title>
+      <link>https://tomoakiyamada.github.io/project/2024_yamada/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/project/2024_yamada/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;The presentation slides from the workshop held in Tokyo on December 2, 2024 are now available.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Earnings Dynamics and Inequality over the Life-cycle in Japan</title>
@@ -31,17 +42,6 @@
       <guid>https://tomoakiyamada.github.io/project/2025_kitao_yamada_jer/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Full paper: coming soon!&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Exploring the Relationship Between Population Aging and Labor Share</title>
-      <link>https://tomoakiyamada.github.io/project/2024_yamada/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/project/2024_yamada/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Coming soon!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
