@@ -13,6 +13,51 @@
     </image>
     
     <item>
+      <title>Note TakingとPKMアプリ</title>
+      <link>https://tomoakiyamada.github.io/ja/post/28-note-taking-app/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/post/28-note-taking-app/</guid>
+      <description>&lt;h2 id=&#34;capacities&#34;&gt;Capacities&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;普段はNotionをPKM(Personal Knowledge Management)用アプリとして使っています。
+長いこと使ってきたので、情報が貯まってきて使えるようになった部分と不満を感じるようになった部分の両方がある感じ。
+Notionは拡張性がすごく高くて、敷居が若干高いですが使い方を覚えれば、かなり多用途に使えます。&lt;/p&gt;
+&lt;p&gt;一方でいつまで経っても未完成(Notionというアプリの話ではなく、Notion内の自分のWorkspaceが)という感じもしています。
+例えばLock pageで一応、固定はできるのですが、操作ミスで自分のHomeのデザインをうっかり崩してしまうみたいなことも起こりえます。&lt;/p&gt;
+&lt;p&gt;たまたま見つけたCapacitiesというアプリはNotionと似たようなPKMアプリに見えますが、後発の強みというか、Notionライクな部分もある一方で、Notionを使い込んでいて不満を感じる部分を改善している印象です。
+例えば、デフォルトでホーム画面があって、そこでDaily noteとして書き込んだものを後からまとめていくことがしやすい。
+もちろんNotionでも似たような機能は実装できますが(というか、しています)、「きれいなUIで書き込みやすい」というのは、それだけメモを取るハードルが下がります。
+まとめやすさも、Notionを使い慣れていれば、似たような感覚でできますし、まとめかたが小綺麗な感じにできるのも好印象。
+iPhoneアプリもあるので手軽にメモを取れるのもいい感じ。&lt;/p&gt;
+&lt;p&gt;ちなみにCapacitiesはNote takingアプリでデータベース機能はNotionのほうが上です。&lt;/p&gt;
+&lt;p&gt;まだ開発途上という感じですが、AI機能などは使えませんがデータベースとしてだけであればフリーで使えるので、試してみる価値はあるかと思います。&lt;/p&gt;
+&lt;h2 id=&#34;tana&#34;&gt;Tana&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;かなり前からノートアプリとして有名(Youtube検索をすると2年前の動画が存在する)なのに、未だにクローズドテスト中で、&lt;strong&gt;Get early access&lt;/strong&gt;に登録してからinvitationが来るまでに何ヶ月か待ちました。&lt;/p&gt;
+&lt;p&gt;真偽は不明ですが、Youtubeのコメント欄にそういうマーケティング(待たせて期待感を煽る)なのではないかと書かれていましたが、もしそういう意図があるのだとしたら、普通に公開してしまったほうがよい気がします。
+結局、early accessの権利が手に入っても、使い続けるにはそれなりの金額を出してsubscription feeを支払う必要があるので優先的に使えるという感じではないので。&lt;/p&gt;
+&lt;p&gt;使い勝手は、NotionやCapacitiesとは似ている部分と違う部分が混在している印象。
+Capacities同様、Notionと比べてホーム画面がすっきりするので、メモに集中ができる。
+一番の売りはSupertagsという機能で、これを使ってメモを分類したりリンクさせたりする。
+若干複雑ですが、自分みたいに手を加えて色々とアレンジしたいマニアックな性質の人には喜ばれそうな作り。
+iPhoneからメモ(capture)がしやすいのもいい感じ。&lt;/p&gt;
+&lt;p&gt;色々と書きたいことはあるけど(そのうち書くかも)、これを読んで気になった人がいてもすぐには使えなくて、待機列を待つ必要があるのが難点。
+このやり方は機会損失が大きそう。&lt;/p&gt;
+&lt;h2 id=&#34;heptabase&#34;&gt;Heptabase&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;メモとメモをつなげていくイメージで使うアプリ。
+他のアプリと発想がかなり違うので、好き嫌いがわかれそう。
+アイディア出しにKJ法を使う人であれば、きっと気に入るはず。
+小説とか脚本を書く人のアイディアをまとめるノートとしても使えそう。&lt;/p&gt;
+&lt;p&gt;自分の場合、KJ法を使わない上、自分が求めているノートアプリの使用用途とかなり違ったのでアンインストール。
+でも、アプリのアイディアとしては他のメモアプリと差別化ができていて面白いと思います。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FFJ-Banque de France Workshop</title>
       <link>https://tomoakiyamada.github.io/ja/post/27-ffj-banque-de-france-workshop/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
