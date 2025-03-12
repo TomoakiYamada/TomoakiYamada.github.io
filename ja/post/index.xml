@@ -5,12 +5,25 @@
     <link>https://tomoakiyamada.github.io/ja/post/</link>
       <atom:link href="https://tomoakiyamada.github.io/ja/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja-jp</language><lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/icon_hu_76995b381a57c629.png</url>
       <title>Blog</title>
       <link>https://tomoakiyamada.github.io/ja/post/</link>
     </image>
+    
+    <item>
+      <title>「マクロ経済学で見る格差」</title>
+      <link>https://tomoakiyamada.github.io/ja/post/29-nikkei/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/post/29-nikkei/</guid>
+      <description>&lt;h2 id=&#34;日本経済新聞にて連載が始まります&#34;&gt;日本経済新聞にて連載が始まります&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025年2月17日から日本経済新聞「やさしい経済学」にて「マクロ経済学で見る格差」というタイトルで連載記事が掲載されます。&lt;/li&gt;
+&lt;li&gt;全8回です。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Note TakingとPKMアプリ</title>
