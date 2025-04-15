@@ -13,102 +13,125 @@
     </image>
     
     <item>
-      <title>「マクロ経済学で見る格差」</title>
-      <link>https://tomoakiyamada.github.io/ja/post/29-nikkei/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/ja/post/29-nikkei/</guid>
-      <description>&lt;h2 id=&#34;日本経済新聞にて連載が始まります&#34;&gt;日本経済新聞にて連載が始まります&lt;/h2&gt;
+      <title>経済政策論A</title>
+      <link>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/</guid>
+      <description>&lt;h2 id=&#34;講義概要&#34;&gt;講義概要&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;2025年2月17日から日本経済新聞「やさしい経済学」にて「マクロ経済学で見る格差」というタイトルで連載記事が掲載されます。&lt;/li&gt;
-&lt;li&gt;全8回です。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Note TakingとPKMアプリ</title>
-      <link>https://tomoakiyamada.github.io/ja/post/28-note-taking-app/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/ja/post/28-note-taking-app/</guid>
-      <description>&lt;h2 id=&#34;capacities&#34;&gt;Capacities&lt;/h2&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;p&gt;普段はNotionをPKM(Personal Knowledge Management)用アプリとして使っています。
-長いこと使ってきたので、情報が貯まってきて使えるようになった部分と不満を感じるようになった部分の両方がある感じ。
-Notionは拡張性がすごく高くて、敷居が若干高いですが使い方を覚えれば、かなり多用途に使えます。&lt;/p&gt;
-&lt;p&gt;一方でいつまで経っても未完成(Notionというアプリの話ではなく、Notion内の自分のWorkspaceが)という感じもしています。
-例えばLock pageで一応、固定はできるのですが、操作ミスで自分のHomeのデザインをうっかり崩してしまうみたいなことも起こりえます。&lt;/p&gt;
-&lt;p&gt;たまたま見つけたCapacitiesというアプリはNotionと似たようなPKMアプリに見えますが、後発の強みというか、Notionライクな部分もある一方で、Notionを使い込んでいて不満を感じる部分を改善している印象です。
-例えば、デフォルトでホーム画面があって、そこでDaily noteとして書き込んだものを後からまとめていくことがしやすい。
-もちろんNotionでも似たような機能は実装できますが(というか、しています)、「きれいなUIで書き込みやすい」というのは、それだけメモを取るハードルが下がります。
-まとめやすさも、Notionを使い慣れていれば、似たような感覚でできますし、まとめかたが小綺麗な感じにできるのも好印象。
-iPhoneアプリもあるので手軽にメモを取れるのもいい感じ。&lt;/p&gt;
-&lt;p&gt;ちなみにCapacitiesはNote takingアプリでデータベース機能はNotionのほうが上です。&lt;/p&gt;
-&lt;p&gt;まだ開発途上という感じですが、AI機能などは使えませんがデータベースとしてだけであればフリーで使えるので、試してみる価値はあるかと思います。&lt;/p&gt;
-&lt;h2 id=&#34;tana&#34;&gt;Tana&lt;/h2&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;p&gt;かなり前からノートアプリとして有名(Youtube検索をすると2年前の動画が存在する)なのに、未だにクローズドテスト中で、&lt;strong&gt;Get early access&lt;/strong&gt;に登録してからinvitationが来るまでに何ヶ月か待ちました。&lt;/p&gt;
-&lt;p&gt;真偽は不明ですが、Youtubeのコメント欄にそういうマーケティング(待たせて期待感を煽る)なのではないかと書かれていましたが、もしそういう意図があるのだとしたら、普通に公開してしまったほうがよい気がします。
-結局、early accessの権利が手に入っても、使い続けるにはそれなりの金額を出してsubscription feeを支払う必要があるので優先的に使えるという感じではないので。&lt;/p&gt;
-&lt;p&gt;使い勝手は、NotionやCapacitiesとは似ている部分と違う部分が混在している印象。
-Capacities同様、Notionと比べてホーム画面がすっきりするので、メモに集中ができる。
-一番の売りはSupertagsという機能で、これを使ってメモを分類したりリンクさせたりする。
-若干複雑ですが、自分みたいに手を加えて色々とアレンジしたいマニアックな性質の人には喜ばれそうな作り。
-iPhoneからメモ(capture)がしやすいのもいい感じ。&lt;/p&gt;
-&lt;p&gt;色々と書きたいことはあるけど(そのうち書くかも)、これを読んで気になった人がいてもすぐには使えなくて、待機列を待つ必要があるのが難点。
-このやり方は機会損失が大きそう。&lt;/p&gt;
-&lt;h2 id=&#34;heptabase&#34;&gt;Heptabase&lt;/h2&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;p&gt;メモとメモをつなげていくイメージで使うアプリ。
-他のアプリと発想がかなり違うので、好き嫌いがわかれそう。
-アイディア出しにKJ法を使う人であれば、きっと気に入るはず。
-小説とか脚本を書く人のアイディアをまとめるノートとしても使えそう。&lt;/p&gt;
-&lt;p&gt;自分の場合、KJ法を使わない上、自分が求めているノートアプリの使用用途とかなり違ったのでアンインストール。
-でも、アプリのアイディアとしては他のメモアプリと差別化ができていて面白いと思います。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FFJ-Banque de France Workshop</title>
-      <link>https://tomoakiyamada.github.io/ja/post/27-ffj-banque-de-france-workshop/</link>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/ja/post/27-ffj-banque-de-france-workshop/</guid>
-      <description>&lt;h2 id=&#34;ffj-banque-de-france-workshop&#34;&gt;FFJ-Banque de France Workshop&lt;/h2&gt;
-&lt;p&gt;12月2日にCIGS(キヤノングローバル戦略研究所)で開催されたFFJ-Banque de France Workshopにて研究報告を行いました。
-プログラムは
-から確認できます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>大学院の指導教員について</title>
-      <link>https://tomoakiyamada.github.io/ja/post/26-graduate-school/</link>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/ja/post/26-graduate-school/</guid>
-      <description>&lt;h2 id=&#34;大学院で私を指導教員に選びたい人は必ず以下を読んでください&#34;&gt;大学院で私を指導教員に選びたい人は必ず以下を読んでください&lt;/h2&gt;
+&lt;li&gt;講義関連情報はすべて
+のクラスウェブにて公開します。
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;研究分野だけでなく、研究対象へのアプローチを確認してください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;私の専門領域は定量的マクロ経済学(Quantitative Macroeconomics)です。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;私のアプローチは動学的一般均衡モデルに基づいたマクロ経済の分析で、理論モデルを用いて経済格差や社会保障制改革等を研究しています。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;時系列分析に基づく公的年金分析などは完全に研究対象外です。&lt;/li&gt;
+&lt;li&gt;講義スライド、講義動画、レポート・課題など&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;教科書&#34;&gt;教科書&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;齊藤誠・岩本康志・太田聰一・柴田章久『新版 マクロ経済学』有斐閣&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;参考文献&#34;&gt;参考文献&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;N・グレゴリー・マンキュー『マンキュー マクロ経済学I』東洋経済新報社&lt;/li&gt;
+&lt;li&gt;オリヴィエ・ブランシャール『ブランシャール マクロ経済学 上 第2版』東洋経済新報社&lt;/li&gt;
+&lt;li&gt;オリヴィエ・ブランシャール『ブランシャール マクロ経済学 下 第2版』東洋経済新報社&lt;/li&gt;
+&lt;li&gt;David Romer (2018) &amp;ldquo;Short-Run Fluctuations,&amp;rdquo; 
+&lt;/li&gt;
+&lt;li&gt;Pablo Kurlat (2020), &lt;em&gt;A Course in Modern Macroeconomics&lt;/em&gt;, Independently published.
+&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;私は基本的に実証研究はしていません。実証分析に該当する共同研究は存在しますが、単独で専門的な計量分析はしていません。自分の研究プロジェクトに必要な範囲でデータワークをすることは多々ありますが、実証研究の専門家ではありません。特に、ミクロ計量分析や時系列分析は専門外なので指導できません(他人の論文を読むのが精一杯です)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;さらなる学習用大学院進学希望者向け&#34;&gt;さらなる学習用：大学院進学希望者向け&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;北尾早霧・砂川武貴・山田知明『
+』日本評論社&lt;/li&gt;
+&lt;li&gt;齊藤誠『新しいマクロ経済学 第2版』有斐閣&lt;/li&gt;
+&lt;li&gt;Edouard Challe, &lt;em&gt;Macroeconomic Fluctuations and Policies&lt;/em&gt;, The MIT Press.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;講義ガイダンス&#34;&gt;講義ガイダンス&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;講義用メモ補完ノート&#34;&gt;講義用メモ・補完ノート&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;実証分野に関心がある学生は、必ず実証研究を行っている人を指導教員に選びましょう。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;レポート課題2024年度&#34;&gt;レポート課題：2024年度&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;提出は
+のクラスウェブ経由です。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;マクロ経済統計&#34;&gt;マクロ経済統計&lt;/h2&gt;
+&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;経済政策を行う前にまずは経済の状態を正確に判断する必要があります。&lt;/li&gt;
+&lt;li&gt;経済状態を把握するために使われるのが&lt;strong&gt;経済統計&lt;/strong&gt;です。&lt;/li&gt;
+&lt;li&gt;なんとなく聞き覚えがあるGDP、インフレ、デフレといった経済統計の正確な理解から話をスタートします。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;リンク&#34;&gt;リンク&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;動学的意思決定モデルを用いた構造推定については、内容次第で指導可能ですが、その場合は例えばFrench (2005) &amp;ldquo;Labour Supply and Retirement,&amp;rdquo; Review of Economic Studies, Vol.72, 395-427などに目を通して、自分が関心がある研究対象・アプローチとフィットしていることをきちんと確認してください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;is-lm-mpモデル&#34;&gt;IS-LM-MPモデル&lt;/h2&gt;
+&lt;h3 id=&#34;概要-1&#34;&gt;概要&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;物価が一定であると仮定した状況を&lt;strong&gt;短期&lt;/strong&gt;のマクロ経済と呼びます。&lt;/li&gt;
+&lt;li&gt;ここでは短期のマクロ経済における財政・金融政策の有効性について議論をします。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;講義スライド-1&#34;&gt;講義スライド&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;To be uploaded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;リンク-1&#34;&gt;リンク&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;IS-MP Model by 
+: 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;総需要総供給分析&#34;&gt;総需要・総供給分析&lt;/h2&gt;
+&lt;h3 id=&#34;概要-2&#34;&gt;概要&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;物価が一定であるという仮定を緩めます：&lt;strong&gt;中期&lt;/strong&gt;のマクロ経済。&lt;/li&gt;
+&lt;li&gt;IS-LM-MPモデルから総需要曲線を導出します。&lt;/li&gt;
+&lt;li&gt;フィリップス曲線に基づいて総供給曲線を導出します。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;講義スライド-2&#34;&gt;講義スライド&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;To be uploaded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;リンク-2&#34;&gt;リンク&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fernandez-Villaverde&amp;rsquo;s 
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -117,10 +140,15 @@ iPhoneからメモ(capture)がしやすいのもいい感じ。&lt;/p&gt;
     <item>
       <title>経済政策論B</title>
       <link>https://tomoakiyamada.github.io/ja/courses/economic_policy_b/</link>
-      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/ja/courses/economic_policy_b/</guid>
       <description>&lt;h2 id=&#34;講義概要&#34;&gt;講義概要&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;下記の内容は&lt;strong&gt;2024年度&lt;/strong&gt;のものです。
+&lt;ul&gt;
+&lt;li&gt;2025年9月頃に更新予定&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;講義関連情報はすべて
 のクラスウェブにて公開します。
 &lt;ul&gt;
@@ -143,7 +171,7 @@ iPhoneからメモ(capture)がしやすいのもいい感じ。&lt;/p&gt;
 &lt;li&gt;小塩隆士『社会保障の経済学 第4版』日本評論社&lt;/li&gt;
 &lt;li&gt;尾山大輔+安田洋祐『[改訂版] 経済学で出る数学』日本評論社&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;さらなる学習用主に大学院進学向け&#34;&gt;さらなる学習用：主に大学院進学向け&lt;/h3&gt;
+&lt;h3 id=&#34;さらなる学習用大学院進学希望者向け&#34;&gt;さらなる学習用：大学院進学希望者向け&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Pablo Kurlat &amp;ldquo;A Course in Modern Macroeconomics&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Daro Acemoglu &amp;ldquo;Introduction to Modern Economic Growth&amp;rdquo; MIT Press&lt;/li&gt;
@@ -155,8 +183,6 @@ iPhoneからメモ(capture)がしやすいのもいい感じ。&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;レポート課題&#34;&gt;レポート課題&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
 &lt;li&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -273,31 +299,20 @@ iPhoneからメモ(capture)がしやすいのもいい感じ。&lt;/p&gt;
     </item>
     
     <item>
-      <title>我々の研究がWSJ内のBarron&#39;sの記事で引用されました</title>
-      <link>https://tomoakiyamada.github.io/ja/post/25-barrons-article/</link>
-      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/ja/post/25-barrons-article/</guid>
-      <description>&lt;h2 id=&#34;引用記事&#34;&gt;引用記事&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;日本における少子高齢化と経済格差に関する我々の研究が、Wall Street Journal内の記事で引用されました。&lt;/li&gt;
-&lt;li&gt;Miglė Petrauskaitė氏とErwin R. Tiongson氏によるBarron&amp;rsquo;sの記事の中です。&lt;/li&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>マクロ経済学</title>
+      <title>経済学B</title>
       <link>https://tomoakiyamada.github.io/ja/courses/macroeconomics/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/ja/courses/macroeconomics/</guid>
       <description>&lt;h2 id=&#34;whats-new&#34;&gt;What&amp;rsquo;s New&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;2024年度の講義関連情報はすべて
+&lt;li&gt;経済学A・Bはすべてオンライン講義となります。&lt;/li&gt;
+&lt;li&gt;経済学Bの講義動画配信は9月20日頃からスタート予定です。
+&lt;ul&gt;
+&lt;li&gt;講義資料も同時期に公開します。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2025年度の講義関連資料・情報はすべて
 経由で公開します。&lt;/li&gt;
-&lt;li&gt;講義で使用するスライドは著作権の問題から原則としてOh-o!Meijiのクラスウェブ経由で配布します。&lt;/li&gt;
-&lt;li&gt;担当教員が海外出張の際に動画配信を混ぜる可能性があります。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;教科書&#34;&gt;教科書&lt;/h2&gt;
 &lt;ul&gt;
@@ -305,22 +320,16 @@ iPhoneからメモ(capture)がしやすいのもいい感じ。&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;参考書&#34;&gt;参考書&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;ジョセフ・E・スティグリッツ/カール・E・ウォルシュ『スティグリッツ 入門経済学』東洋経済新報社&lt;/li&gt;
-&lt;li&gt;福田慎一・照山博司『マクロ経済学・入門 第4版』有斐閣&lt;/li&gt;
 &lt;li&gt;齊藤誠・岩本康志・太田聰一・柴田彰久『マクロ経済学』有斐閣&lt;/li&gt;
+&lt;li&gt;オリヴィエ・ブランシャール『ブランシャール マクロ経済学 上・下 第2版』東洋経済新報社&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h2&gt;
+&lt;h2 id=&#34;講義トピックに関連したお勧めの読み物&#34;&gt;講義トピックに関連したお勧めの読み物&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;講義トピックに関連したお勧めの本&#34;&gt;講義トピックに関連したお勧めの本&lt;/h2&gt;
-&lt;ul&gt;
+&lt;li&gt;伊藤隆敏・星岳雄 (2023)『日本経済論』東洋経済新報社&lt;/li&gt;
 &lt;li&gt;ロバート・ゴードン (2018)『アメリカ経済 成長の終焉 上・下』日経BP社&lt;/li&gt;
-&lt;li&gt;エリック・ブリニュルフソン/アンドリュー・マカフィー (2015)『ザ・セカンド・マシン・エイジ』日経BP社&lt;/li&gt;
 &lt;li&gt;デヴィッド・ウォルシュ (2020)『ポール・ローマーと経済成長の謎』日経BP社&lt;/li&gt;
 &lt;li&gt;オデッド・ガロー (2022)『格差の起源』NHK出版&lt;/li&gt;
-&lt;li&gt;仲田泰祐・藤井大輔 (2022)『コロナ危機、経済学者の挑戦』日本評論社&lt;/li&gt;
+&lt;li&gt;ダロン・アセモグル/サイモン・ジョンソン (2023)『技術革新と不平等の1000年史』早川書房&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;レポート課題&#34;&gt;レポート課題&lt;/h2&gt;
 &lt;ul&gt;
@@ -331,6 +340,123 @@ iPhoneからメモ(capture)がしやすいのもいい感じ。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 ：経済学に関連する本は山ほどあるので、勉強意欲があってもどこから手をつけたら良いのかわからないかもしれません。私が読んだことがある本から新入生にもお勧めできるモノをピックアップしました。ここに挙がっていない本にも面白い本は色々あります。是非色々な本にチャレンジしてみてください！&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>「マクロ経済学で見る格差」</title>
+      <link>https://tomoakiyamada.github.io/ja/post/29-nikkei/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/post/29-nikkei/</guid>
+      <description>&lt;h2 id=&#34;日本経済新聞にて連載が始まります&#34;&gt;日本経済新聞にて連載が始まります&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025年2月17日から日本経済新聞「やさしい経済学」にて「マクロ経済学で見る格差」というタイトルで連載記事が掲載されます。&lt;/li&gt;
+&lt;li&gt;全8回です。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Note TakingとPKMアプリ</title>
+      <link>https://tomoakiyamada.github.io/ja/post/28-note-taking-app/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/post/28-note-taking-app/</guid>
+      <description>&lt;h2 id=&#34;capacities&#34;&gt;Capacities&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;普段はNotionをPKM(Personal Knowledge Management)用アプリとして使っています。
+長いこと使ってきたので、情報が貯まってきて使えるようになった部分と不満を感じるようになった部分の両方がある感じ。
+Notionは拡張性がすごく高くて、敷居が若干高いですが使い方を覚えれば、かなり多用途に使えます。&lt;/p&gt;
+&lt;p&gt;一方でいつまで経っても未完成(Notionというアプリの話ではなく、Notion内の自分のWorkspaceが)という感じもしています。
+例えばLock pageで一応、固定はできるのですが、操作ミスで自分のHomeのデザインをうっかり崩してしまうみたいなことも起こりえます。&lt;/p&gt;
+&lt;p&gt;たまたま見つけたCapacitiesというアプリはNotionと似たようなPKMアプリに見えますが、後発の強みというか、Notionライクな部分もある一方で、Notionを使い込んでいて不満を感じる部分を改善している印象です。
+例えば、デフォルトでホーム画面があって、そこでDaily noteとして書き込んだものを後からまとめていくことがしやすい。
+もちろんNotionでも似たような機能は実装できますが(というか、しています)、「きれいなUIで書き込みやすい」というのは、それだけメモを取るハードルが下がります。
+まとめやすさも、Notionを使い慣れていれば、似たような感覚でできますし、まとめかたが小綺麗な感じにできるのも好印象。
+iPhoneアプリもあるので手軽にメモを取れるのもいい感じ。&lt;/p&gt;
+&lt;p&gt;ちなみにCapacitiesはNote takingアプリでデータベース機能はNotionのほうが上です。&lt;/p&gt;
+&lt;p&gt;まだ開発途上という感じですが、AI機能などは使えませんがデータベースとしてだけであればフリーで使えるので、試してみる価値はあるかと思います。&lt;/p&gt;
+&lt;h2 id=&#34;tana&#34;&gt;Tana&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;かなり前からノートアプリとして有名(Youtube検索をすると2年前の動画が存在する)なのに、未だにクローズドテスト中で、&lt;strong&gt;Get early access&lt;/strong&gt;に登録してからinvitationが来るまでに何ヶ月か待ちました。&lt;/p&gt;
+&lt;p&gt;真偽は不明ですが、Youtubeのコメント欄にそういうマーケティング(待たせて期待感を煽る)なのではないかと書かれていましたが、もしそういう意図があるのだとしたら、普通に公開してしまったほうがよい気がします。
+結局、early accessの権利が手に入っても、使い続けるにはそれなりの金額を出してsubscription feeを支払う必要があるので優先的に使えるという感じではないので。&lt;/p&gt;
+&lt;p&gt;使い勝手は、NotionやCapacitiesとは似ている部分と違う部分が混在している印象。
+Capacities同様、Notionと比べてホーム画面がすっきりするので、メモに集中ができる。
+一番の売りはSupertagsという機能で、これを使ってメモを分類したりリンクさせたりする。
+若干複雑ですが、自分みたいに手を加えて色々とアレンジしたいマニアックな性質の人には喜ばれそうな作り。
+iPhoneからメモ(capture)がしやすいのもいい感じ。&lt;/p&gt;
+&lt;p&gt;色々と書きたいことはあるけど(そのうち書くかも)、これを読んで気になった人がいてもすぐには使えなくて、待機列を待つ必要があるのが難点。
+このやり方は機会損失が大きそう。&lt;/p&gt;
+&lt;h2 id=&#34;heptabase&#34;&gt;Heptabase&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;メモとメモをつなげていくイメージで使うアプリ。
+他のアプリと発想がかなり違うので、好き嫌いがわかれそう。
+アイディア出しにKJ法を使う人であれば、きっと気に入るはず。
+小説とか脚本を書く人のアイディアをまとめるノートとしても使えそう。&lt;/p&gt;
+&lt;p&gt;自分の場合、KJ法を使わない上、自分が求めているノートアプリの使用用途とかなり違ったのでアンインストール。
+でも、アプリのアイディアとしては他のメモアプリと差別化ができていて面白いと思います。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FFJ-Banque de France Workshop</title>
+      <link>https://tomoakiyamada.github.io/ja/post/27-ffj-banque-de-france-workshop/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/post/27-ffj-banque-de-france-workshop/</guid>
+      <description>&lt;h2 id=&#34;ffj-banque-de-france-workshop&#34;&gt;FFJ-Banque de France Workshop&lt;/h2&gt;
+&lt;p&gt;12月2日にCIGS(キヤノングローバル戦略研究所)で開催されたFFJ-Banque de France Workshopにて研究報告を行いました。
+プログラムは
+から確認できます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>大学院の指導教員について</title>
+      <link>https://tomoakiyamada.github.io/ja/post/26-graduate-school/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/post/26-graduate-school/</guid>
+      <description>&lt;h2 id=&#34;大学院で私を指導教員に選びたい人は必ず以下を読んでください&#34;&gt;大学院で私を指導教員に選びたい人は必ず以下を読んでください&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;研究分野だけでなく、研究対象へのアプローチを確認してください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;私の専門領域は定量的マクロ経済学(Quantitative Macroeconomics)です。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;私のアプローチは動学的一般均衡モデルに基づいたマクロ経済の分析で、理論モデルを用いて経済格差や社会保障制改革等を研究しています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;時系列分析に基づく公的年金分析などは完全に研究対象外です。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;私は基本的に実証研究はしていません。実証分析に該当する共同研究は存在しますが、単独で専門的な計量分析はしていません。自分の研究プロジェクトに必要な範囲でデータワークをすることは多々ありますが、実証研究の専門家ではありません。特に、ミクロ計量分析や時系列分析は専門外なので指導できません(他人の論文を読むのが精一杯です)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;実証分野に関心がある学生は、必ず実証研究を行っている人を指導教員に選びましょう。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;動学的意思決定モデルを用いた構造推定については、内容次第で指導可能ですが、その場合は例えばFrench (2005) &amp;ldquo;Labour Supply and Retirement,&amp;rdquo; Review of Economic Studies, Vol.72, 395-427などに目を通して、自分が関心がある研究対象・アプローチとフィットしていることをきちんと確認してください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>我々の研究がWSJ内のBarron&#39;sの記事で引用されました</title>
+      <link>https://tomoakiyamada.github.io/ja/post/25-barrons-article/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/ja/post/25-barrons-article/</guid>
+      <description>&lt;h2 id=&#34;引用記事&#34;&gt;引用記事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日本における少子高齢化と経済格差に関する我々の研究が、Wall Street Journal内の記事で引用されました。&lt;/li&gt;
+&lt;li&gt;Miglė Petrauskaitė氏とErwin R. Tiongson氏によるBarron&amp;rsquo;sの記事の中です。&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -394,153 +520,6 @@ iPhoneからメモ(capture)がしやすいのもいい感じ。&lt;/p&gt;
     原則としてアプライド・エコノミクスコースを選択してください。ただし、例えば公認会計士や海外留学を志望するといった明確な理由がある場合は他コース選択も認めます。「楽だから」、「ボッチになるから」といった理由での他コース選択は認めません。
   &lt;/div&gt;
 &lt;/details&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>経済政策論A</title>
-      <link>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/</link>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/ja/courses/economic_policy_a/</guid>
-      <description>&lt;h2 id=&#34;講義概要&#34;&gt;講義概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;講義関連情報はすべて
-のクラスウェブにて公開します。
-&lt;ul&gt;
-&lt;li&gt;講義スライド、講義動画、レポート・課題など&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;教科書&#34;&gt;教科書&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;齊藤誠・岩本康志・太田聰一・柴田章久『新版 マクロ経済学』有斐閣&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;参考文献&#34;&gt;参考文献&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;N・グレゴリー・マンキュー『マンキュー マクロ経済学I』東洋経済新報社&lt;/li&gt;
-&lt;li&gt;オリヴィエ・ブランシャール『ブランシャール マクロ経済学 上 第2版』東洋経済新報社&lt;/li&gt;
-&lt;li&gt;オリヴィエ・ブランシャール『ブランシャール マクロ経済学 下 第2版』東洋経済新報社&lt;/li&gt;
-&lt;li&gt;David Romer (2018) &amp;ldquo;Short-Run Fluctuations,&amp;rdquo; 
-&lt;/li&gt;
-&lt;li&gt;Pablo Kurlat (2020), &lt;em&gt;A Course in Modern Macroeconomics&lt;/em&gt;, Independently published.
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;さらなる学習用主に大学院進学向け&#34;&gt;さらなる学習用：主に大学院進学向け&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;北尾早霧・砂川武貴・山田知明『
-』日本評論社&lt;/li&gt;
-&lt;li&gt;加藤涼『現代マクロ経済学講義』東洋経済新報社&lt;/li&gt;
-&lt;li&gt;齊藤誠『新しいマクロ経済学 第2版』有斐閣&lt;/li&gt;
-&lt;li&gt;植田健一『金融システムの経済学』有斐閣&lt;/li&gt;
-&lt;li&gt;Edouard Challe, &lt;em&gt;Macroeconomic Fluctuations and Policies&lt;/em&gt;, The MIT Press.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;読み物として適宜追加予定&#34;&gt;読み物として：適宜、追加予定&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;植田和男『ゼロ金利との闘い』&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;講義ガイダンス&#34;&gt;講義ガイダンス&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;講義用メモ&#34;&gt;講義用メモ&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;レポート課題2024年度&#34;&gt;レポート課題：2024年度&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;提出は
-のクラスウェブ経由です。&lt;/li&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;マクロ経済統計&#34;&gt;マクロ経済統計&lt;/h2&gt;
-&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;経済政策を行う前にまずは経済の状態を正確に判断する必要があります。&lt;/li&gt;
-&lt;li&gt;経済状態を把握するために使われるのが&lt;strong&gt;経済統計&lt;/strong&gt;です。&lt;/li&gt;
-&lt;li&gt;なんとなく聞き覚えがあるGDP、インフレ、デフレといった経済統計の正確な理解から話をスタートします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;講義スライド&#34;&gt;講義スライド&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;リンク&#34;&gt;リンク&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;日本経済&#34;&gt;日本経済&lt;/h2&gt;
-&lt;h3 id=&#34;概要-1&#34;&gt;概要&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;戦後日本経済の歩みを簡潔に振り返ります。&lt;/li&gt;
-&lt;li&gt;高度経済成長、バブル崩壊、銀行危機、リーマンショック等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;講義スライド-1&#34;&gt;講義スライド&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-：昨年度は時間の都合から割愛しました。添付スライドは2021年のものです。時間の都合から2024年度も割愛する可能性があります。そのものズバリの&lt;strong&gt;日本経済論A・B&lt;/strong&gt;という授業があるので、そちらの受講を強くお勧めします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;is-lm-mpモデル&#34;&gt;IS-LM-MPモデル&lt;/h2&gt;
-&lt;h3 id=&#34;概要-2&#34;&gt;概要&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;物価が一定であると仮定した状況を&lt;strong&gt;短期&lt;/strong&gt;のマクロ経済と呼びます。&lt;/li&gt;
-&lt;li&gt;ここでは短期のマクロ経済における財政・金融政策の有効性について議論をします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;講義スライド-2&#34;&gt;講義スライド&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;リンク-1&#34;&gt;リンク&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;IS-MP Model by 
-: 
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;総需要-総供給分析&#34;&gt;総需要-総供給分析&lt;/h2&gt;
-&lt;h3 id=&#34;概要-3&#34;&gt;概要&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;物価が一定であるという仮定を緩めます：&lt;strong&gt;中期&lt;/strong&gt;のマクロ経済。&lt;/li&gt;
-&lt;li&gt;IS-LMモデルから総需要曲線を導出します。&lt;/li&gt;
-&lt;li&gt;フィリップス曲線に基づいて総供給曲線を導出します。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;講義スライド-3&#34;&gt;講義スライド&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;リンク-2&#34;&gt;リンク&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fernandez-Villaverde&amp;rsquo;s 
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

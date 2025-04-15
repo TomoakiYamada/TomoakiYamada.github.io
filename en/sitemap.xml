@@ -3,35 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tomoakiyamada.github.io/publication/2025_kitao_yamada_jer/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/income/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/inequality/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/publication_types/journal-article/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/labor/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/nsfie/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/population/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tomoakiyamada.github.io/publication_types/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-jp"
+                href="https://tomoakiyamada.github.io/ja/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tomoakiyamada.github.io/publication_types/"
+                />
+  </url><url>
     <loc>https://tomoakiyamada.github.io/publication/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +63,23 @@
                 />
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/wealth/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tags/heterogeneity/</loc>
+    <lastmod>2025-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tags/macroeconomics/</loc>
+    <lastmod>2025-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/publication_types/preface/</loc>
+    <lastmod>2025-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/publication/2025_kitao_yamada_jer_preface/</loc>
+    <lastmod>2025-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/project/2024_yamada/</loc>
@@ -139,24 +173,6 @@
     <loc>https://tomoakiyamada.github.io/project/2024_kitao_yamada_esri/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/publication_types/journal-article/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/publication_types/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-jp"
-                href="https://tomoakiyamada.github.io/ja/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://tomoakiyamada.github.io/publication_types/"
-                />
   </url><url>
     <loc>https://tomoakiyamada.github.io/publication/2024_kitao_yamada_reho/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
