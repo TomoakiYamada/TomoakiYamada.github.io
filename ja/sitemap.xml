@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tomoakiyamada.github.io/ja/post/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/ja/post/30-nhk/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tomoakiyamada.github.io/ja/tags/economic-policy/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -41,10 +49,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/ja/post/29-nikkei/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/ja/post/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
