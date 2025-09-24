@@ -5,7 +5,7 @@
     <link>https://tomoakiyamada.github.io/computation/</link>
       <atom:link href="https://tomoakiyamada.github.io/computation/index.xml" rel="self" type="application/rss+xml" />
     <description>Computation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomoakiyamada.github.io/media/icon_hu_76995b381a57c629.png</url>
       <title>Computation</title>
@@ -15,7 +15,7 @@
     <item>
       <title>定量的マクロ経済学と数値計算</title>
       <link>https://tomoakiyamada.github.io/computation/2024_quantmacro/</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/computation/2024_quantmacro/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;p&gt;北尾早霧・砂川武貴・山田知明『
@@ -27,6 +27,12 @@
 &lt;p&gt;各種ソフトウェアのインストール方法についてもインストール方法についても簡単に説明しています。詳細は
 を参考にしてください。
 随時更新していく予定です。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;正誤情報一覧&#34;&gt;正誤情報一覧&lt;/h2&gt;
+&lt;p&gt;本書にて、下記の通り補足説明と訂正がございます。ここにお詫びして訂正いたします。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;/li&gt;

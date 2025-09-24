@@ -13,9 +13,52 @@
     </image>
     
     <item>
+      <title>定量的マクロ経済学と数値計算</title>
+      <link>https://tomoakiyamada.github.io/computation/2024_quantmacro/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomoakiyamada.github.io/computation/2024_quantmacro/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;北尾早霧・砂川武貴・山田知明『
+』が2024年6月17日に
+より発売されました！&lt;/p&gt;
+&lt;p&gt;書籍で使用したコードは
+からダウンロードすることができます。
+主にMATLABとJuliaで書かれていますが、一部、PythonやFortran、Rも使用しています。&lt;/p&gt;
+&lt;p&gt;各種ソフトウェアのインストール方法についてもインストール方法についても簡単に説明しています。詳細は
+を参考にしてください。
+随時更新していく予定です。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;正誤情報一覧&#34;&gt;正誤情報一覧&lt;/h2&gt;
+&lt;p&gt;本書にて、下記の通り補足説明と訂正がございます。ここにお詫びして訂正いたします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;strong&gt;Code&lt;/strong&gt;ボタンはGitHubリポジトリへのリンクです。&lt;/span&gt;
+&lt;/div&gt; --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Earnings Inequality Analysis Using Administrative Tax Data (in Japanese)</title>
       <link>https://tomoakiyamada.github.io/project/2025b_kitao_suzuki_yamada/</link>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/project/2025b_kitao_suzuki_yamada/</guid>
       <description>&lt;p&gt;Note: Previous version was presented at the 
  in 2024 at the University of Tokyo.&lt;/p&gt;
@@ -25,7 +68,7 @@
     <item>
       <title>Nonlinear Earnings Dynamics and Inequality over the Life Cycle: Evidence from Japanese Municipal Tax Records</title>
       <link>https://tomoakiyamada.github.io/project/2025a_kitao_suzuki_yamada/</link>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/project/2025a_kitao_suzuki_yamada/</guid>
       <description>&lt;p&gt;Note: Previous version was presented at the 
  in 2024 at the University of Tokyo.&lt;/p&gt;
@@ -63,43 +106,6 @@
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://tomoakiyamada.github.io/experience/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>定量的マクロ経済学と数値計算</title>
-      <link>https://tomoakiyamada.github.io/computation/2024_quantmacro/</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://tomoakiyamada.github.io/computation/2024_quantmacro/</guid>
-      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;p&gt;北尾早霧・砂川武貴・山田知明『
-』が2024年6月17日に
-より発売されました！&lt;/p&gt;
-&lt;p&gt;書籍で使用したコードは
-からダウンロードすることができます。
-主にMATLABとJuliaで書かれていますが、一部、PythonやFortran、Rも使用しています。&lt;/p&gt;
-&lt;p&gt;各種ソフトウェアのインストール方法についてもインストール方法についても簡単に説明しています。詳細は
-を参考にしてください。
-随時更新していく予定です。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- 
-
-
-
-
-  
-    
-  
-
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;strong&gt;Code&lt;/strong&gt;ボタンはGitHubリポジトリへのリンクです。&lt;/span&gt;
-&lt;/div&gt; --&gt;
-</description>
     </item>
     
     <item>

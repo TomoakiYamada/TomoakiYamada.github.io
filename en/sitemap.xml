@@ -2,50 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tomoakiyamada.github.io/tags/administrative-data/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+    <loc>https://tomoakiyamada.github.io/computation/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tomoakiyamada.github.io/publication_types/discussion-paper/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+    <loc>https://tomoakiyamada.github.io/tags/quantitative-macro/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tags/earnings-inequality/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/project/2025b_kitao_suzuki_yamada/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tags/income-inequality/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tags/life-cycle/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/project/2025a_kitao_suzuki_yamada/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/publication_types/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-jp"
-                href="https://tomoakiyamada.github.io/ja/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://tomoakiyamada.github.io/publication_types/"
-                />
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -58,8 +24,54 @@
                 href="https://tomoakiyamada.github.io/tags/"
                 />
   </url><url>
+    <loc>https://tomoakiyamada.github.io/computation/2024_quantmacro/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tags/administrative-data/</loc>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/publication_types/discussion-paper/</loc>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tags/earnings-inequality/</loc>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/project/2025b_kitao_suzuki_yamada/</loc>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tags/income-inequality/</loc>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/tags/life-cycle/</loc>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/project/2025a_kitao_suzuki_yamada/</loc>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tomoakiyamada.github.io/publication_types/</loc>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-jp"
+                href="https://tomoakiyamada.github.io/ja/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://tomoakiyamada.github.io/publication_types/"
+                />
+  </url><url>
     <loc>https://tomoakiyamada.github.io/project/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/labor-share/</loc>
@@ -157,18 +169,6 @@
                 hreflang="en-us"
                 href="https://tomoakiyamada.github.io/experience/"
                 />
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/computation/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/tags/quantitative-macro/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tomoakiyamada.github.io/computation/2024_quantmacro/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tomoakiyamada.github.io/tags/consumption/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
